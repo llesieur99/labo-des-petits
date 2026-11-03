@@ -1,0 +1,455 @@
+id,texte,categorie,activite,concept
+retour.bravo.1,Bravo !,retour,,
+retour.bravo.2,Super !,retour,,
+retour.bravo.3,"Oui, c'est ça !",retour,,
+retour.bravo.4,Excellent !,retour,,
+retour.bravo.5,"Wow, bien joué !",retour,,
+retour.encore.1,Presque ! On écoute encore.,retour,,
+retour.encore.2,"Hmm, essaie encore.",retour,,
+retour.encore.3,Pas tout à fait. Je te le redis.,retour,,
+retour.fin.1,On a bien joué ! À tantôt !,retour,,
+retour.fin.2,C'était super. À la prochaine !,retour,,
+trace.bravo,Bravo ! Tu as suivi tout le chemin !,retour,,
+consigne.repete,Je te le redis.,consigne,,
+consigne.touche,Touche la bonne image.,consigne,,
+consigne.ecoute,Écoute bien…,consigne,,
+act.rimes.titre,La chasse aux rimes,consigne,rimes,
+consigne.rimes.g1,Trouve l'image qui rime avec,consigne,rimes,
+consigne.rimes.g2,Écoute bien. Quel mot rime avec…,consigne,rimes,
+consigne.rimes.g3,Lequel rime avec…,consigne,rimes,
+act.bouche.titre,La bouche à sons,consigne,bouche,
+consigne.bouche.g1,Écoute bien ce son… et fais-le toi aussi !,consigne,bouche,
+son.sss,Sssssss…,consigne,bouche,
+son.ou,Ouuuu…,consigne,bouche,
+son.ch,Chhhhh…,consigne,bouche,
+son.mmm,Mmmmm…,consigne,bouche,
+son.rrr,Rrrrrr…,consigne,bouche,
+son.zzz,Zzzzzz…,consigne,bouche,
+reaction.serpent,Le serpent aime ça ! Regarde-le danser.,consigne,bouche,
+reaction.loup,Le loup répond : ouuuu !,consigne,bouche,
+reaction.train,Le train roule : chhhhh !,consigne,bouche,
+reaction.vache,La vache meugle : mmmmm !,consigne,bouche,
+reaction.tigre,Le tigre grogne : rrrrr !,consigne,bouche,
+reaction.abeille,L'abeille butine : zzzzz !,consigne,bouche,
+act.syllabes.titre,Les syllabes qui sautent,consigne,syllabes,
+consigne.syllabes.g1,Écoute le mot. La grenouille saute une fois pour chaque syllabe. À toi après !,consigne,syllabes,
+syllmot.chapeau,chapeau,consigne,syllabes,
+syll.chapeau.1,cha,consigne,syllabes,
+syll.chapeau.2,peau,consigne,syllabes,
+syllmot.bateau,bateau,consigne,syllabes,
+syll.bateau.1,ba,consigne,syllabes,
+syll.bateau.2,teau,consigne,syllabes,
+syllmot.gateau,gâteau,consigne,syllabes,
+syll.gateau.1,ga,consigne,syllabes,
+syll.gateau.2,teau,consigne,syllabes,
+syllmot.ballon,ballon,consigne,syllabes,
+syll.ballon.1,bal,consigne,syllabes,
+syll.ballon.2,lon,consigne,syllabes,
+syllmot.bonbon,bonbon,consigne,syllabes,
+syll.bonbon.1,bon,consigne,syllabes,
+syll.bonbon.2,bon,consigne,syllabes,
+syllmot.mouton,mouton,consigne,syllabes,
+syll.mouton.1,mou,consigne,syllabes,
+syll.mouton.2,ton,consigne,syllabes,
+syllmot.poisson,poisson,consigne,syllabes,
+syll.poisson.1,pois,consigne,syllabes,
+syll.poisson.2,son,consigne,syllabes,
+syllmot.lapin,lapin,consigne,syllabes,
+syll.lapin.1,la,consigne,syllabes,
+syll.lapin.2,pin,consigne,syllabes,
+syllmot.pizza,pizza,consigne,syllabes,
+syll.pizza.1,piz,consigne,syllabes,
+syll.pizza.2,za,consigne,syllabes,
+syllmot.doudou,doudou,consigne,syllabes,
+syll.doudou.1,dou,consigne,syllabes,
+syll.doudou.2,dou,consigne,syllabes,
+syllmot.chocolat,chocolat,consigne,syllabes,
+syll.chocolat.1,cho,consigne,syllabes,
+syll.chocolat.2,co,consigne,syllabes,
+syll.chocolat.3,lat,consigne,syllabes,
+syllmot.banane,banane,consigne,syllabes,
+syll.banane.1,ba,consigne,syllabes,
+syll.banane.2,na,consigne,syllabes,
+syll.banane.3,ne,consigne,syllabes,
+syllmot.avion,avion,consigne,syllabes,
+syll.avion.1,a,consigne,syllabes,
+syll.avion.2,vion,consigne,syllabes,
+syllmot.pantalon,pantalon,consigne,syllabes,
+syll.pantalon.1,pan,consigne,syllabes,
+syll.pantalon.2,ta,consigne,syllabes,
+syll.pantalon.3,lon,consigne,syllabes,
+act.motcache.titre,Le mot caché dans la maison,consigne,motcache,
+consigne.motcache.g1,Trouve quelque chose qui commence par…,consigne,motcache,
+son.lettre.m,Mmmm…,consigne,motcache,
+son.lettre.s,Ssss…,consigne,motcache,
+son.lettre.p,Pppp…,consigne,motcache,
+son.lettre.ch,Chhhh…,consigne,motcache,
+son.lettre.b,Bbbb…,consigne,motcache,
+son.lettre.l,Llll…,consigne,motcache,
+act.phrase.titre,La phrase en images,consigne,phrase,
+consigne.phrase.g1,Place les images pour faire la phrase :,consigne,phrase,
+mot.mange,mange,consigne,phrase,
+mot.dort,dort,consigne,phrase,
+mot.joue,joue,consigne,phrase,
+phrase.chat.dite,Le chat mange la pomme !,consigne,phrase,
+phrase.lapin.dite,Le lapin dort dans son lit !,consigne,phrase,
+phrase.vache.dite,La vache mange le chou !,consigne,phrase,
+phrase.poussin.dite,Le poussin dort dans son nid !,consigne,phrase,
+phrase.souris.dite,La souris joue avec le doudou !,consigne,phrase,
+act.lettre.titre,La lettre en pâte à modeler,consigne,lettre,
+consigne.lettre.g1,"Suis la lettre avec ton doigt, doucement.",consigne,lettre,
+lettre.o.dit,C'est la lettre o.,consigne,lettre,
+lettre.c.dit,C'est la lettre c.,consigne,lettre,
+lettre.s.dit,C'est la lettre s.,consigne,lettre,
+lettre.u.dit,C'est la lettre u.,consigne,lettre,
+lettre.l.dit,C'est la lettre l.,consigne,lettre,
+lettre.a.dit,C'est la lettre a.,consigne,lettre,
+lettre.e.dit,C'est la lettre e.,consigne,lettre,
+lettre.i.dit,C'est la lettre i.,consigne,lettre,
+lettre.m.dit,C'est la lettre m.,consigne,lettre,
+lettre.n.dit,C'est la lettre n.,consigne,lettre,
+lettre.r.dit,C'est la lettre r.,consigne,lettre,
+lettre.d.dit,C'est la lettre d.,consigne,lettre,
+lettre.p.dit,C'est la lettre p.,consigne,lettre,
+lettre.b.dit,C'est la lettre b.,consigne,lettre,
+lettre.q.dit,C'est la lettre q.,consigne,lettre,
+lettre.t.dit,C'est la lettre t.,consigne,lettre,
+lettre.f.dit,C'est la lettre f.,consigne,lettre,
+lettre.v.dit,C'est la lettre v.,consigne,lettre,
+lettre.w.dit,C'est la lettre w.,consigne,lettre,
+lettre.y.dit,C'est la lettre y.,consigne,lettre,
+lettre.k.dit,C'est la lettre k.,consigne,lettre,
+lettre.x.dit,C'est la lettre x.,consigne,lettre,
+act.bus.titre,Le bus des amis,consigne,bus,
+consigne.bus.g1,Écoute bien l'histoire du bus.,consigne,bus,
+consigne.bus.monte1,Un ami monte dans le bus.,consigne,bus,
+consigne.bus.monte2,Deux amis montent dans le bus.,consigne,bus,
+consigne.bus.monte3,Trois amis montent dans le bus.,consigne,bus,
+consigne.bus.descend1,Un ami descend du bus.,consigne,bus,
+consigne.bus.descend2,Deux amis descendent du bus.,consigne,bus,
+consigne.bus.combien,Combien d'amis restent dans le bus ?,consigne,bus,
+act.balance.titre,La balance du marché,consigne,balance,
+consigne.balance.g1,Mets le même nombre de fruits dans chaque plateau. La balance doit être bien droite !,consigne,balance,
+consigne.balance.penche,Ça penche ! Ajoute ou enlève des fruits.,consigne,balance,
+consigne.balance.egal,C'est égal ! La balance est bien droite !,consigne,balance,
+act.gateau.titre,Partager le gâteau,consigne,gateau,
+consigne.gateau.g1,Regarde le gâteau…,consigne,gateau,
+consigne.gateau.deux,Deux amis veulent chacun la même part. En combien de parts coupe-t-on le gâteau ?,consigne,gateau,
+consigne.gateau.quatre,"Maintenant, quatre amis veulent chacun la même part. En combien de parts coupe-t-on le gâteau ?",consigne,gateau,
+act.perles.titre,Perles à motifs,consigne,perles,
+consigne.perles.g1,Regarde bien le collier…,consigne,perles,
+consigne.perles.g2,Quelle perle vient après ? Continue le collier !,consigne,perles,
+act.grenouille.titre,La grenouille sur la ligne,consigne,grenouille,
+consigne.grenouille.e1,La grenouille est sur la ligne. Regarde bien !,consigne,grenouille,
+consigne.grenouille.e2,Où est-elle arrivée ? Touche le bon nombre !,consigne,grenouille,
+saut.1,Elle saute de un !,consigne,grenouille,
+saut.2,Elle saute de deux !,consigne,grenouille,
+saut.3,Elle saute de trois !,consigne,grenouille,
+act.plusmoins.titre,"Plus, moins, pareil",consigne,plusmoins,
+consigne.plusmoins.g1,Regarde les deux tas !,consigne,plusmoins,
+consigne.plusmoins.plus,Où y a-t-il le PLUS de fruits ? Touche ce côté-là !,consigne,plusmoins,
+consigne.plusmoins.moins,Où y a-t-il le MOINS de fruits ? Touche ce côté-là !,consigne,plusmoins,
+act.formes.titre,Formes qui s'emboîtent,consigne,formes,
+consigne.formes.g1,Chaque forme a sa case. Mets chaque forme dans la bonne case !,consigne,formes,
+act.heure.titre,L'heure du goûter,consigne,heure,
+consigne.heure.g1,Regarde l'horloge…,consigne,heure,
+consigne.heure.reveil,Il est sept heures et demie du matin. Que fait-on ?,consigne,heure,
+consigne.heure.diner,Il est midi ! Qu'est-ce qu'on fait à midi ?,consigne,heure,
+consigne.heure.parc,Il est quatre heures. Le soleil brille. Que fait-on ?,consigne,heure,
+consigne.heure.dodo,Il est huit heures du soir. Il fait noir dehors. Que fait-on ?,consigne,heure,
+act.intrus.titre,L'intrus qui parle,consigne,intrus,
+consigne.intrus.manger,"Tout ça, ça se mange… sauf un ! Touche ce qui ne se mange pas.",consigne,intrus,
+consigne.intrus.porter,"Tout ça, ça se porte… sauf un ! Touche ce qui ne se porte pas.",consigne,intrus,
+consigne.intrus.animaux,"Tout ça, ce sont des animaux… sauf un ! Touche celui qui n'est pas un animal.",consigne,intrus,
+consigne.intrus.jouer,"Tout ça, c'est pour jouer… sauf un ! Touche ce qui n'est pas un jeu.",consigne,intrus,
+consigne.intrus.maison,"Tout ça, on le trouve dans la maison… sauf un ! Touche l'intrus.",consigne,intrus,
+explication.intrus.manger,"Celui-là, ça ne se mange pas !",consigne,intrus,
+explication.intrus.porter,"Celui-là, ça ne se porte pas !",consigne,intrus,
+explication.intrus.animaux,"Celui-là, ce n'est pas un animal !",consigne,intrus,
+explication.intrus.jouer,"Celui-là, ça ne se joue pas !",consigne,intrus,
+explication.intrus.maison,"Celui-là, on ne le trouve pas dans la maison !",consigne,intrus,
+act.histoire.titre,L'histoire en quatre cases,consigne,histoire,
+consigne.histoire.g1,Remets l'histoire dans l'ordre. Commence par le début !,consigne,histoire,
+histoire.plante.raconte,"On met la graine dans la terre, on l'arrose, le soleil la réchauffe, et une belle fleur pousse !",consigne,histoire,
+histoire.poussin.raconte,"Dans l'œuf, il y avait un petit poussin. Il casse la coquille, et il devient une belle poule !",consigne,histoire,
+histoire.papillon.raconte,"Un petit œuf devient une chenille, et la chenille devient un beau papillon !",consigne,histoire,
+histoire.chat.raconte,"Le chat dormait dans son lit. Il se réveille, il mange, et il va jouer avec son ballon !",consigne,histoire,
+histoire.soiree.raconte,"Le soleil se couche, la lune se lève, les étoiles apparaissent… et on va dormir !",consigne,histoire,
+histoire.matin.raconte,"Le matin, le soleil se lève, on prend un bon café, et on prépare le sac pour l'école !",consigne,histoire,
+act.manque.titre,Qu'est-ce qui manque ?,consigne,manque,
+consigne.manque.e1,Regarde bien tous les objets…,consigne,manque,
+consigne.manque.e2,Oh ! Un objet a disparu. Qu'est-ce qui manque ?,consigne,manque,
+consigne.manque.e3,Touche l'objet qui a disparu !,consigne,manque,
+act.sialors.titre,Si… alors,consigne,sialors,
+consigne.sialors.pluie,"S'il pleut, que prend le chat pour sortir ?",consigne,sialors,
+consigne.sialors.soleil,"S'il fait très beau et très chaud, que met le chat sur ses yeux ?",consigne,sialors,
+consigne.sialors.neige,"S'il neige et qu'il fait froid, que met le chat autour du cou ?",consigne,sialors,
+consigne.sialors.faim,Le chat a très faim. Que mange-t-il ?,consigne,sialors,
+consigne.sialors.soif,Le chat a très soif. Que boit-il ?,consigne,sialors,
+act.chemin.titre,Le chemin du doigt,consigne,chemin,
+consigne.chemin.g1,"Suis le chemin avec ton doigt, tout au long. Vas-y doucement !",consigne,chemin,
+act.code.titre,Le code de trois blocs,consigne,code,
+consigne.code.g1,"Pose tes blocs pour amener la souris jusqu'à la pomme. Après, appuie sur le bouton vert !",consigne,code,
+code.bravo,Bravo ! La souris a suivi ton programme !,consigne,code,
+act.ordres.titre,"Trois ordres, pas plus",consigne,ordres,
+consigne.ordres.g1,"Écoute bien les ordres, puis fais-les dans l'ordre.",consigne,ordres,
+ordres.1.dit,"Prends le ballon, et va le porter jusqu'à la maison !",consigne,ordres,
+ordres.1.fin,Le ballon est arrivé à la maison !,consigne,ordres,
+ordres.2.dit,"Le chat a faim. Prends le chat, puis donne-lui son assiette !",consigne,ordres,
+ordres.2.fin,Le chat mange dans son assiette. Miam !,consigne,ordres,
+ordres.3.dit,"Prends le ballon, mets-le dans le sac, puis prends ton toutou !",consigne,ordres,
+ordres.3.fin,"Tu as tout pris : le ballon dans le sac, et le toutou !",consigne,ordres,
+ordres.4.dit,"Prends la fleur, donne-lui de l'eau, puis mets-la au soleil !",consigne,ordres,
+ordres.4.fin,La fleur a de l'eau et du soleil. Elle est contente !,consigne,ordres,
+act.sens.titre,Les cinq sens,consigne,sens,
+consigne.sens.doux,C'est tout doux ! Qu'est-ce qui est tout doux au toucher ?,consigne,sens,
+consigne.sens.dur,C'est dur comme un caillou ! Qu'est-ce qui est dur ?,consigne,sens,
+cri.chat,Miaou ! Qui fait ce bruit ?,consigne,sens,
+cri.vache,Meuh ! Qui fait ce bruit ?,consigne,sens,
+cri.loup,Ouuuuu ! Qui fait ce bruit ?,consigne,sens,
+cri.serpent,Ssssss ! Qui fait ce bruit ?,consigne,sens,
+cri.poule,Cot cot codet ! Qui fait ce bruit ?,consigne,sens,
+cri.abeille,Zzzzzz ! Qui fait ce bruit ?,consigne,sens,
+cri.hibou,Hou hou ! Qui fait ce bruit ?,consigne,sens,
+cri.tigre,Rrrrrr ! Qui fait ce bruit ?,consigne,sens,
+act.flotte.titre,Flotte ou coule,consigne,flotte,
+consigne.flotte.g1,"Devine : est-ce que ça flotte sur l'eau, ou est-ce que ça coule au fond ?",consigne,flotte,
+consigne.flotte.plouf,Plouf ! Regarde bien…,consigne,flotte,
+act.graine.titre,La graine,consigne,graine,
+consigne.graine.g1,Regarde bien la plante !,consigne,graine,
+consigne.graine.e1,Une petite graine dort dans la terre. Que lui faut-il pour se réveiller ?,consigne,graine,
+consigne.graine.e2,Ça pousse ! Mais la pousse a besoin de lumière. Que fait-on ?,consigne,graine,
+consigne.graine.e3,La pousse est grande. Elle a soif ! Que lui donnes-tu ?,consigne,graine,
+consigne.graine.e4,Regarde comme elle est belle ! Elle a encore besoin d'eau.,consigne,graine,
+consigne.graine.e5,Bravo ! La fleur est ouverte !,consigne,graine,
+act.habiller.titre,S'habiller pour sortir,consigne,habiller,
+consigne.habiller.g1,"C'est l'hiver dehors ! Mets les affaires de neige dans le bac à neige, et les affaires d'été dans le bac au soleil.",consigne,habiller,
+act.journuit.titre,Jour et nuit,consigne,journuit,
+consigne.journuit.g1,Regarde le ciel.,consigne,journuit,
+consigne.journuit.e1,Le soleil se lève doucement. C'est le matin ! Que fait-on le matin ?,consigne,journuit,
+consigne.journuit.e2,Le soleil est haut dans le ciel. C'est l'heure du dîner !,consigne,journuit,
+consigne.journuit.e3,Le soleil descend. Bientôt la nuit. Qu'est-ce qui se lève dans le ciel ?,consigne,journuit,
+consigne.journuit.e4,"Il fait tout noir, les étoiles brillent. Que fait-on ?",consigne,journuit,
+act.ombres.titre,Les ombres,consigne,ombres,
+consigne.ombres.g1,Regarde bien la lampe et l'ombre…,consigne,ombres,
+consigne.ombres.g2,La lampe brille d'un côté. De quel côté est l'ombre ?,consigne,ombres,
+act.petit.titre,Le petit et sa maison,consigne,petit,
+consigne.petit.g1,Chaque animal a sa maison. Mets les animaux dans le bon bac !,consigne,petit,
+act.spatial.titre,"Devant, derrière, à côté",consigne,spatial,
+consigne.spatial.e1,Regarde bien où est le chat…,consigne,spatial,
+consigne.spatial.e2,Où est le chat ? Touche la bonne image !,consigne,spatial,
+act.fenetre.titre,Regarde par la fenêtre,consigne,fenetre,
+consigne.fenetre.e1,Regarde bien par la fenêtre…,consigne,fenetre,
+consigne.fenetre.e2,Quel temps fait-il dans la fenêtre ? Touche la bonne image !,consigne,fenetre,
+act.milo.titre,La figure de Milo,consigne,milo,
+consigne.milo.g1,Regarde ce qui arrive à Milo.,consigne,milo,
+consigne.milo.visage,Comment se sent Milo ?,consigne,milo,
+consigne.milo.action,Qu'est-ce qui peut aider Milo ?,consigne,milo,
+milo.1.debut,Milo joue avec son ballon. Le ballon s'envole dans le ciel et disparaît !,consigne,milo,
+milo.2.debut,"Milo veut un biscuit, mais la boîte est vide. Il n'y a plus rien !",consigne,milo,
+milo.3.debut,Il fait tout noir. Milo entend un grand bruit : BOUUM !,consigne,milo,
+milo.4.debut,"Milo fait un casse-tête. Le morceau ne rentre pas, et il tombe par terre.",consigne,milo,
+act.tours.titre,À tour de rôle,consigne,tours,
+consigne.tours.g1,Trouve :,consigne,tours,
+consigne.tours.mien,À toi !,consigne,tours,
+consigne.tours.autre,À l'autre !,consigne,tours,
+act.monstre.titre,Le calme du monstre,consigne,monstre,
+consigne.monstre.g1,"Tape tout doucement, sans te presser, pour endormir le monstre.",consigne,monstre,
+act.mots.titre,Les mots pour demander,consigne,mots,
+consigne.mots.g1,Que peut dire Milo ?,consigne,mots,
+mots.1.debut,Milo veut jouer avec le ballon de son ami. Son ami le tient dans ses bras.,consigne,mots,
+mots.2.debut,"Un ami bouscule Milo sans faire exprès. Ça ne fait pas mal, mais Milo n'aime pas ça.",consigne,mots,
+mots.3.debut,Milo attend son tour à la glissoire. Un ami passe devant lui.,consigne,mots,
+act.peinture.titre,La peinture qui se mélange,consigne,peinture,
+consigne.peinture.orange,"Peins du rouge, puis ajoute du jaune. Que se passe-t-il ?",consigne,peinture,
+consigne.peinture.violet,"Peins du rouge, puis ajoute du bleu. Que se passe-t-il ?",consigne,peinture,
+consigne.peinture.vert,"Peins du jaune, puis ajoute du bleu. Que se passe-t-il ?",consigne,peinture,
+act.papillon.titre,Les ailes du papillon,consigne,papillon,
+consigne.papillon.g1,Peins les points sur l'aile. L'autre aile se copie toute seule !,consigne,papillon,
+act.theatre.titre,Le théâtre de vingt secondes,consigne,theatre,
+consigne.theatre.g1,"Fais bouger tes deux amis avec ton doigt. Après, on rejoue la scène !",consigne,theatre,
+theatre.bravo,Quelle belle scène ! On la rejoue ?,consigne,theatre,
+act.rythme.titre,Le rythme des pas,consigne,rythme,
+consigne.rythme.g1,Tape sur le tambour en même temps que moi. Écoute bien…,consigne,rythme,
+act.animal.titre,Animal inventé,consigne,animal,
+consigne.atelier.g1,On invente un animal !,consigne,animal,
+consigne.atelier.tete,Choisis une tête !,consigne,animal,
+consigne.atelier.corps,Choisis un corps !,consigne,animal,
+consigne.atelier.queue,Choisis une queue !,consigne,animal,
+consigne.atelier.nom,Donne-lui un nom !,consigne,animal,
+consigne.atelier.felicite,Quel beau nom !,consigne,animal,
+consigne.atelier.mange,Qu'est-ce qu'il mange ?,consigne,animal,
+act.chanson.titre,Chanson de quatre cases,consigne,chanson,
+consigne.chanson.g1,"Place quatre sons dans les cases. Après, on écoute ta chanson !",consigne,chanson,
+chanson.bravo,Ta chanson est belle ! Écoutons-la encore !,consigne,chanson,
+act.hauteur.titre,"Aigu, grave, fort, doux",consigne,hauteur,
+consigne.hauteur.g1,"Écoute bien ce son ! Qui chante tout en haut, ou qui grogne tout en bas ?",consigne,hauteur,
+consigne.hauteur.g2,"Écoute bien ce son ! Est-ce qu'il est fort, ou est-ce qu'il est tout doux ?",consigne,hauteur,
+act.table.titre,Mettre la table,consigne,table,
+consigne.table.assiette,Donne une assiette à chaque ami.,consigne,table,
+consigne.table.verre,Donne un verre à chaque ami.,consigne,table,
+consigne.table.fourchette,Donne une fourchette à chaque ami.,consigne,table,
+act.sac.titre,Mon sac du matin,consigne,sac,
+consigne.sac.g1,On prépare le sac pour l'école. Mets dans le sac :,consigne,sac,
+consigne.sac.fin,Et laisse le reste à la maison.,consigne,sac,
+act.couper.titre,Découper avec le doigt,consigne,couper,
+consigne.couper.g1,"Suis la ligne avec ton doigt, comme des ciseaux. Pars du point !",consigne,couper,
+act.mains.titre,Laver les mains,consigne,mains,
+consigne.mains.g1,Remets les gestes dans l'ordre pour laver tes mains !,consigne,mains,
+mains.comptine,"On ouvre le robinet, on savonne, on frotte, on rince… et on chante ! Bravo, tes mains sont propres !",consigne,mains,
+act.recette.titre,La recette de trois gestes,consigne,recette,
+consigne.recette.g1,"La collation : lave la pomme, coupe-la, puis goûte ! Mets les gestes dans l'ordre.",consigne,recette,
+recette.fin,"La pomme est lavée, coupée… et croquée ! Miam !",consigne,recette,
+act.ranger.titre,Ranger,consigne,ranger,
+consigne.ranger.jouets,"On range ! Mets les jouets dans un bac, et les vêtements dans l'autre !",consigne,ranger,
+consigne.ranger.livres,"On range ! Les jouets d'un côté, les livres de l'autre !",consigne,ranger,
+act.traverser.titre,Traverser,consigne,traverser,
+consigne.traverser.g1,"Pour traverser la rue : regarde, écoute, et marche ! Remets les gestes dans l'ordre.",consigne,traverser,
+consigne.traverser.g2,"Avec le panneau : stop, regarde, écoute, marche ! Remets tout dans l'ordre.",consigne,traverser,
+traverser.rappel,"Bravo ! Et rappelle-toi : dans la vraie rue, on traverse toujours avec un adulte, la main dans la main.",consigne,traverser,
+lex.chapeau,chapeau,lexique,,chapeau
+lex.bateau,bateau,lexique,,bateau
+lex.gateau,gâteau,lexique,,gateau
+lex.cadeau,cadeau,lexique,,cadeau
+lex.oiseau,oiseau,lexique,,oiseau
+lex.chateau,château,lexique,,chateau
+lex.velo,vélo,lexique,,velo
+lex.moto,moto,lexique,,moto
+lex.ballon,ballon,lexique,,ballon
+lex.bonbon,bonbon,lexique,,bonbon
+lex.mouton,mouton,lexique,,mouton
+lex.poisson,poisson,lexique,,poisson
+lex.maison,maison,lexique,,maison
+lex.camion,camion,lexique,,camion
+lex.cochon,cochon,lexique,,cochon
+lex.lapin,lapin,lexique,,lapin
+lex.sapin,sapin,lexique,,sapin
+lex.poussin,poussin,lexique,,poussin
+lex.chemin,chemin,lexique,,chemin
+lex.matin,matin,lexique,,matin
+lex.loup,loup,lexique,,loup
+lex.chou,chou,lexique,,chou
+lex.hibou,hibou,lexique,,hibou
+lex.caillou,caillou,lexique,,caillou
+lex.genou,genou,lexique,,genou
+lex.doudou,doudou,lexique,,doudou
+lex.chat,chat,lexique,,chat
+lex.rat,rat,lexique,,rat
+lex.chocolat,chocolat,lexique,,chocolat
+lex.pizza,pizza,lexique,,pizza
+lex.papa,papa,lexique,,papa
+lex.souris,souris,lexique,,souris
+lex.lit,lit,lexique,,lit
+lex.nid,nid,lexique,,nid
+lex.bougie,bougie,lexique,,bougie
+lex.ami,ami,lexique,,ami
+lex.bebe,bébé,lexique,,bebe
+lex.fusee,fusée,lexique,,fusee
+lex.nez,nez,lexique,,nez
+lex.pied,pied,lexique,,pied
+lex.cafe,café,lexique,,cafe
+lex.poupee,poupée,lexique,,poupee
+lex.fourchette,fourchette,lexique,,fourchette
+lex.chaussette,chaussette,lexique,,chaussette
+lex.assiette,assiette,lexique,,assiette
+lex.casquette,casquette,lexique,,casquette
+lex.crevette,crevette,lexique,,crevette
+lex.fleur,fleur,lexique,,fleur
+lex.coeur,cœur,lexique,,coeur
+lex.beurre,beurre,lexique,,beurre
+lex.couleur,couleur,lexique,,couleur
+lex.enfant,enfant,lexique,,enfant
+lex.bus,bus,lexique,,bus
+lex.poule,poule,lexique,,poule
+lex.papillon,papillon,lexique,,papillon
+lex.chenille,chenille,lexique,,chenille
+lex.oeuf,œuf,lexique,,oeuf
+lex.un,1,lexique,,un
+lex.deux,2,lexique,,deux
+lex.trois,3,lexique,,trois
+lex.quatre,4,lexique,,quatre
+lex.cinq,5,lexique,,cinq
+lex.six,6,lexique,,six
+lex.sept,7,lexique,,sept
+lex.huit,8,lexique,,huit
+lex.neuf,9,lexique,,neuf
+lex.dix,10,lexique,,dix
+lex.manteau,manteau,lexique,,manteau
+lex.mitaines,mitaines,lexique,,mitaines
+lex.bottes,bottes,lexique,,bottes
+lex.echarpe,écharpe,lexique,,echarpe
+lex.lunettes,lunettes de soleil,lexique,,lunettes
+lex.maillot,maillot de bain,lexique,,maillot
+lex.gougounes,gougounes,lexique,,gougounes
+lex.souliers,souliers,lexique,,souliers
+lex.parapluie,parapluie,lexique,,parapluie
+lex.neige,neige,lexique,,neige
+lex.soleil,soleil,lexique,,soleil
+lex.nuage,nuage,lexique,,nuage
+lex.sac,sac à dos,lexique,,sac
+lex.lunch,lunch,lexique,,lunch
+lex.verre,verre,lexique,,verre
+lex.pomme,pomme,lexique,,pomme
+lex.graine,graine,lexique,,graine
+lex.eau,eau,lexique,,eau
+lex.pot,pot,lexique,,pot
+lex.dormir,dormir,lexique,,dormir
+lex.lune,lune,lexique,,lune
+lex.etoile,étoile,lexique,,etoile
+lex.visage_content,content,lexique,,visage_content
+lex.visage_triste,triste,lexique,,visage_triste
+lex.visage_colere,fâché,lexique,,visage_colere
+lex.visage_peur,peur,lexique,,visage_peur
+lex.aide,demander de l'aide,lexique,,aide
+lex.respirer,respirer,lexique,,respirer
+lex.recommencer,recommencer,lexique,,recommencer
+lex.calin,un câlin,lexique,,calin
+lex.rouge,rouge,lexique,,rouge
+lex.jaune,jaune,lexique,,jaune
+lex.bleu,bleu,lexique,,bleu
+lex.orange,orange,lexique,,orange
+lex.vert,vert,lexique,,vert
+lex.violet,violet,lexique,,violet
+lex.monstre,le monstre,lexique,,monstre
+lex.monstre_dodo,le monstre dort,lexique,,monstre_dodo
+lex.serpent,le serpent,lexique,,serpent
+lex.train,le train,lexique,,train
+lex.vache,la vache,lexique,,vache
+lex.tigre,le tigre,lexique,,tigre
+lex.abeille,l'abeille,lexique,,abeille
+lex.grenouille,la grenouille,lexique,,grenouille
+lex.tambour,le tambour,lexique,,tambour
+lex.demander,demander gentiment,lexique,,demander
+lex.stop,dire stop,lexique,,stop
+lex.attendre,attendre son tour,lexique,,attendre
+lex.pluie,la pluie,lexique,,pluie
+lex.devant,devant,lexique,,devant
+lex.derriere,derrière,lexique,,derriere
+lex.acote,à côté,lexique,,acote
+lex.dans,dans,lexique,,dans
+lex.forme_rond,le rond,lexique,,forme_rond
+lex.forme_carre,le carré,lexique,,forme_carre
+lex.forme_triangle,le triangle,lexique,,forme_triangle
+lex.forme_losange,le losange,lexique,,forme_losange
+lex.haut,en haut,lexique,,haut
+lex.bas,en bas,lexique,,bas
+lex.gauche,à gauche,lexique,,gauche
+lex.droite,à droite,lexique,,droite
+lex.casier,la case,lexique,,casier
+lex.banane,une banane,lexique,,banane
+lex.fraise,une fraise,lexique,,fraise
+lex.raisin,du raisin,lexique,,raisin
+lex.vent,le vent,lexique,,vent
+lex.ours,l'ours,lexique,,ours
+lex.grelot,le grelot,lexique,,grelot
+lex.fort,fort,lexique,,fort
+lex.doux,doux,lexique,,doux
+lex.robinet,le robinet,lexique,,robinet
+lex.savon,le savon,lexique,,savon
+lex.frotter,frotter les mains,lexique,,frotter
+lex.couteau,le couteau,lexique,,couteau
+lex.livre,le livre,lexique,,livre
+lex.panneau_stop,le panneau stop,lexique,,panneau_stop
+lex.regarder,regarder,lexique,,regarder
+lex.ecouter,écouter,lexique,,ecouter
+lex.marcher,marcher,lexique,,marcher

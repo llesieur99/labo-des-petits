@@ -1,0 +1,6759 @@
+{
+  "version": 1,
+  "deck": "qc",
+  "voix": {
+    "principale": "fr-CA-AntoineNeural",
+    "secondaire": "fr-CA-SylvieNeural"
+  },
+  "genere": "2026-10-27T03:14:27Z",
+  "clips": {
+    "act.animal.titre": {
+      "fichier": "qc/sylvie/consignes/animal/titre.mp3",
+      "texte": "Animal inventé",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "856698a1",
+      "statut": "genere",
+      "octets": 14400,
+      "dureeMs": null
+    },
+    "act.balance.titre": {
+      "fichier": "qc/sylvie/consignes/balance/titre.mp3",
+      "texte": "La balance du marché",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "bc5fb3f3",
+      "statut": "genere",
+      "octets": 14976,
+      "dureeMs": null
+    },
+    "act.bouche.titre": {
+      "fichier": "qc/sylvie/consignes/bouche/titre.mp3",
+      "texte": "La bouche à sons",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "079af461",
+      "statut": "genere",
+      "octets": 12528,
+      "dureeMs": null
+    },
+    "act.bus.titre": {
+      "fichier": "qc/sylvie/consignes/bus/titre.mp3",
+      "texte": "Le bus des amis",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "83ae5037",
+      "statut": "genere",
+      "octets": 13392,
+      "dureeMs": null
+    },
+    "act.chanson.titre": {
+      "fichier": "qc/sylvie/consignes/chanson/titre.mp3",
+      "texte": "Chanson de quatre cases",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "39f1ce3d",
+      "statut": "genere",
+      "octets": 16272,
+      "dureeMs": null
+    },
+    "act.chemin.titre": {
+      "fichier": "qc/sylvie/consignes/chemin/titre.mp3",
+      "texte": "Le chemin du doigt",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a55d6c9a",
+      "statut": "genere",
+      "octets": 13680,
+      "dureeMs": null
+    },
+    "act.code.titre": {
+      "fichier": "qc/sylvie/consignes/code/titre.mp3",
+      "texte": "Le code de trois blocs",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0acae242",
+      "statut": "genere",
+      "octets": 15552,
+      "dureeMs": null
+    },
+    "act.couper.titre": {
+      "fichier": "qc/sylvie/consignes/couper/titre.mp3",
+      "texte": "Découper avec le doigt",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "844b42d9",
+      "statut": "genere",
+      "octets": 15552,
+      "dureeMs": null
+    },
+    "act.fenetre.titre": {
+      "fichier": "qc/sylvie/consignes/fenetre/titre.mp3",
+      "texte": "Regarde par la fenêtre",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c6b3ae96",
+      "statut": "genere",
+      "octets": 16416,
+      "dureeMs": null
+    },
+    "act.flotte.titre": {
+      "fichier": "qc/sylvie/consignes/flotte/titre.mp3",
+      "texte": "Flotte ou coule",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5fd92b74",
+      "statut": "genere",
+      "octets": 13104,
+      "dureeMs": null
+    },
+    "act.formes.titre": {
+      "fichier": "qc/sylvie/consignes/formes/titre.mp3",
+      "texte": "Formes qui s'emboîtent",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "82997a10",
+      "statut": "genere",
+      "octets": 14256,
+      "dureeMs": null
+    },
+    "act.gateau.titre": {
+      "fichier": "qc/sylvie/consignes/gateau/titre.mp3",
+      "texte": "Partager le gâteau",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c9d63302",
+      "statut": "genere",
+      "octets": 13824,
+      "dureeMs": null
+    },
+    "act.graine.titre": {
+      "fichier": "qc/sylvie/consignes/graine/titre.mp3",
+      "texte": "La graine",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "29ada0d5",
+      "statut": "genere",
+      "octets": 11808,
+      "dureeMs": null
+    },
+    "act.grenouille.titre": {
+      "fichier": "qc/sylvie/consignes/grenouille/titre.mp3",
+      "texte": "La grenouille sur la ligne",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "80453f15",
+      "statut": "genere",
+      "octets": 15840,
+      "dureeMs": null
+    },
+    "act.habiller.titre": {
+      "fichier": "qc/sylvie/consignes/habiller/titre.mp3",
+      "texte": "S'habiller pour sortir",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9d214965",
+      "statut": "genere",
+      "octets": 15984,
+      "dureeMs": null
+    },
+    "act.hauteur.titre": {
+      "fichier": "qc/sylvie/consignes/hauteur/titre.mp3",
+      "texte": "Aigu, grave, fort, doux",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "204b847f",
+      "statut": "genere",
+      "octets": 22320,
+      "dureeMs": null
+    },
+    "act.heure.titre": {
+      "fichier": "qc/sylvie/consignes/heure/titre.mp3",
+      "texte": "L'heure du goûter",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "68da9409",
+      "statut": "genere",
+      "octets": 13248,
+      "dureeMs": null
+    },
+    "act.histoire.titre": {
+      "fichier": "qc/sylvie/consignes/histoire/titre.mp3",
+      "texte": "L'histoire en quatre cases",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9d0b75bc",
+      "statut": "genere",
+      "octets": 16704,
+      "dureeMs": null
+    },
+    "act.intrus.titre": {
+      "fichier": "qc/sylvie/consignes/intrus/titre.mp3",
+      "texte": "L'intrus qui parle",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e6dbc3cc",
+      "statut": "genere",
+      "octets": 13824,
+      "dureeMs": null
+    },
+    "act.journuit.titre": {
+      "fichier": "qc/sylvie/consignes/journuit/titre.mp3",
+      "texte": "Jour et nuit",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7aa2b47b",
+      "statut": "genere",
+      "octets": 11808,
+      "dureeMs": null
+    },
+    "act.lettre.titre": {
+      "fichier": "qc/sylvie/consignes/lettre/titre.mp3",
+      "texte": "La lettre en pâte à modeler",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1f2de99a",
+      "statut": "genere",
+      "octets": 15840,
+      "dureeMs": null
+    },
+    "act.mains.titre": {
+      "fichier": "qc/sylvie/consignes/mains/titre.mp3",
+      "texte": "Laver les mains",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "24c40de9",
+      "statut": "genere",
+      "octets": 11664,
+      "dureeMs": null
+    },
+    "act.manque.titre": {
+      "fichier": "qc/sylvie/consignes/manque/titre.mp3",
+      "texte": "Qu'est-ce qui manque ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7b720ec1",
+      "statut": "genere",
+      "octets": 12384,
+      "dureeMs": null
+    },
+    "act.milo.titre": {
+      "fichier": "qc/sylvie/consignes/milo/titre.mp3",
+      "texte": "La figure de Milo",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "543b4692",
+      "statut": "genere",
+      "octets": 14400,
+      "dureeMs": null
+    },
+    "act.monstre.titre": {
+      "fichier": "qc/sylvie/consignes/monstre/titre.mp3",
+      "texte": "Le calme du monstre",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b4695d6e",
+      "statut": "genere",
+      "octets": 14976,
+      "dureeMs": null
+    },
+    "act.motcache.titre": {
+      "fichier": "qc/sylvie/consignes/motcache/titre.mp3",
+      "texte": "Le mot caché dans la maison",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e0515bdd",
+      "statut": "genere",
+      "octets": 15984,
+      "dureeMs": null
+    },
+    "act.mots.titre": {
+      "fichier": "qc/sylvie/consignes/mots/titre.mp3",
+      "texte": "Les mots pour demander",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7c550551",
+      "statut": "genere",
+      "octets": 14976,
+      "dureeMs": null
+    },
+    "act.ombres.titre": {
+      "fichier": "qc/sylvie/consignes/ombres/titre.mp3",
+      "texte": "Les ombres",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "bcff7543",
+      "statut": "genere",
+      "octets": 11376,
+      "dureeMs": null
+    },
+    "act.ordres.titre": {
+      "fichier": "qc/sylvie/consignes/ordres/titre.mp3",
+      "texte": "Trois ordres, pas plus",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d71d3875",
+      "statut": "genere",
+      "octets": 15840,
+      "dureeMs": null
+    },
+    "act.papillon.titre": {
+      "fichier": "qc/sylvie/consignes/papillon/titre.mp3",
+      "texte": "Les ailes du papillon",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a096ce30",
+      "statut": "genere",
+      "octets": 14400,
+      "dureeMs": null
+    },
+    "act.peinture.titre": {
+      "fichier": "qc/sylvie/consignes/peinture/titre.mp3",
+      "texte": "La peinture qui se mélange",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7cfefd47",
+      "statut": "genere",
+      "octets": 16704,
+      "dureeMs": null
+    },
+    "act.perles.titre": {
+      "fichier": "qc/sylvie/consignes/perles/titre.mp3",
+      "texte": "Perles à motifs",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a3ac7ebe",
+      "statut": "genere",
+      "octets": 13104,
+      "dureeMs": null
+    },
+    "act.petit.titre": {
+      "fichier": "qc/sylvie/consignes/petit/titre.mp3",
+      "texte": "Le petit et sa maison",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "046a89c4",
+      "statut": "genere",
+      "octets": 14832,
+      "dureeMs": null
+    },
+    "act.phrase.titre": {
+      "fichier": "qc/sylvie/consignes/phrase/titre.mp3",
+      "texte": "La phrase en images",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "138cbce7",
+      "statut": "genere",
+      "octets": 15264,
+      "dureeMs": null
+    },
+    "act.plusmoins.titre": {
+      "fichier": "qc/sylvie/consignes/plusmoins/titre.mp3",
+      "texte": "Plus, moins, pareil",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2440a43a",
+      "statut": "genere",
+      "octets": 19152,
+      "dureeMs": null
+    },
+    "act.ranger.titre": {
+      "fichier": "qc/sylvie/consignes/ranger/titre.mp3",
+      "texte": "Ranger",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "3486b8b4",
+      "statut": "genere",
+      "octets": 10656,
+      "dureeMs": null
+    },
+    "act.recette.titre": {
+      "fichier": "qc/sylvie/consignes/recette/titre.mp3",
+      "texte": "La recette de trois gestes",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c8633e7b",
+      "statut": "genere",
+      "octets": 16128,
+      "dureeMs": null
+    },
+    "act.rimes.titre": {
+      "fichier": "qc/sylvie/consignes/rimes/titre.mp3",
+      "texte": "La chasse aux rimes",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a9c262a5",
+      "statut": "genere",
+      "octets": 13248,
+      "dureeMs": null
+    },
+    "act.rythme.titre": {
+      "fichier": "qc/sylvie/consignes/rythme/titre.mp3",
+      "texte": "Le rythme des pas",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c74c5f46",
+      "statut": "genere",
+      "octets": 13392,
+      "dureeMs": null
+    },
+    "act.sac.titre": {
+      "fichier": "qc/sylvie/consignes/sac/titre.mp3",
+      "texte": "Mon sac du matin",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "84f1f10f",
+      "statut": "genere",
+      "octets": 13680,
+      "dureeMs": null
+    },
+    "act.sens.titre": {
+      "fichier": "qc/sylvie/consignes/sens/titre.mp3",
+      "texte": "Les cinq sens",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2a04e2ff",
+      "statut": "genere",
+      "octets": 13536,
+      "dureeMs": null
+    },
+    "act.sialors.titre": {
+      "fichier": "qc/sylvie/consignes/sialors/titre.mp3",
+      "texte": "Si… alors",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "41979728",
+      "statut": "genere",
+      "octets": 14976,
+      "dureeMs": null
+    },
+    "act.spatial.titre": {
+      "fichier": "qc/sylvie/consignes/spatial/titre.mp3",
+      "texte": "Devant, derrière, à côté",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "566c5b21",
+      "statut": "genere",
+      "octets": 20448,
+      "dureeMs": null
+    },
+    "act.syllabes.titre": {
+      "fichier": "qc/sylvie/consignes/syllabes/titre.mp3",
+      "texte": "Les syllabes qui sautent",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "76b09033",
+      "statut": "genere",
+      "octets": 14976,
+      "dureeMs": null
+    },
+    "act.table.titre": {
+      "fichier": "qc/sylvie/consignes/table/titre.mp3",
+      "texte": "Mettre la table",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "21e0494f",
+      "statut": "genere",
+      "octets": 13392,
+      "dureeMs": null
+    },
+    "act.theatre.titre": {
+      "fichier": "qc/sylvie/consignes/theatre/titre.mp3",
+      "texte": "Le théâtre de vingt secondes",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "eb899c87",
+      "statut": "genere",
+      "octets": 16848,
+      "dureeMs": null
+    },
+    "act.tours.titre": {
+      "fichier": "qc/sylvie/consignes/tours/titre.mp3",
+      "texte": "À tour de rôle",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a81c1d65",
+      "statut": "genere",
+      "octets": 13392,
+      "dureeMs": null
+    },
+    "act.traverser.titre": {
+      "fichier": "qc/sylvie/consignes/traverser/titre.mp3",
+      "texte": "Traverser",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0e4938e1",
+      "statut": "genere",
+      "octets": 11664,
+      "dureeMs": null
+    },
+    "chanson.bravo": {
+      "fichier": "qc/sylvie/consignes/chanson/bravo.mp3",
+      "texte": "Ta chanson est belle ! Écoutons-la encore !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8918dd82",
+      "statut": "genere",
+      "octets": 28368,
+      "dureeMs": null
+    },
+    "code.bravo": {
+      "fichier": "qc/sylvie/consignes/code/bravo.mp3",
+      "texte": "Bravo ! La souris a suivi ton programme !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2a4f7b46",
+      "statut": "genere",
+      "octets": 29232,
+      "dureeMs": null
+    },
+    "consigne.atelier.corps": {
+      "fichier": "qc/sylvie/consignes/animal/atelier.corps.mp3",
+      "texte": "Choisis un corps !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e0b3deed",
+      "statut": "genere",
+      "octets": 13968,
+      "dureeMs": null
+    },
+    "consigne.atelier.felicite": {
+      "fichier": "qc/sylvie/consignes/animal/atelier.felicite.mp3",
+      "texte": "Quel beau nom !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f531d8a3",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "consigne.atelier.g1": {
+      "fichier": "qc/sylvie/consignes/animal/atelier.g1.mp3",
+      "texte": "On invente un animal !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "3462db68",
+      "statut": "genere",
+      "octets": 15840,
+      "dureeMs": null
+    },
+    "consigne.atelier.mange": {
+      "fichier": "qc/sylvie/consignes/animal/atelier.mange.mp3",
+      "texte": "Qu'est-ce qu'il mange ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "dd737005",
+      "statut": "genere",
+      "octets": 13248,
+      "dureeMs": null
+    },
+    "consigne.atelier.nom": {
+      "fichier": "qc/sylvie/consignes/animal/atelier.nom.mp3",
+      "texte": "Donne-lui un nom !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "72e0e0cf",
+      "statut": "genere",
+      "octets": 12816,
+      "dureeMs": null
+    },
+    "consigne.atelier.queue": {
+      "fichier": "qc/sylvie/consignes/animal/atelier.queue.mp3",
+      "texte": "Choisis une queue !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "54d1ef29",
+      "statut": "genere",
+      "octets": 12384,
+      "dureeMs": null
+    },
+    "consigne.atelier.tete": {
+      "fichier": "qc/sylvie/consignes/animal/atelier.tete.mp3",
+      "texte": "Choisis une tête !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "eb526c35",
+      "statut": "genere",
+      "octets": 13248,
+      "dureeMs": null
+    },
+    "consigne.balance.egal": {
+      "fichier": "qc/sylvie/consignes/balance/egal.mp3",
+      "texte": "C'est égal ! La balance est bien droite !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8b49ba4d",
+      "statut": "genere",
+      "octets": 27504,
+      "dureeMs": null
+    },
+    "consigne.balance.g1": {
+      "fichier": "qc/sylvie/consignes/balance/g1.mp3",
+      "texte": "Mets le même nombre de fruits dans chaque plateau. La balance doit être bien droite !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d26b9d02",
+      "statut": "genere",
+      "octets": 38592,
+      "dureeMs": null
+    },
+    "consigne.balance.penche": {
+      "fichier": "qc/sylvie/consignes/balance/penche.mp3",
+      "texte": "Ça penche ! Ajoute ou enlève des fruits.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fe56183a",
+      "statut": "genere",
+      "octets": 26640,
+      "dureeMs": null
+    },
+    "consigne.bouche.g1": {
+      "fichier": "qc/sylvie/consignes/bouche/g1.mp3",
+      "texte": "Écoute bien ce son… et fais-le toi aussi !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ce07530b",
+      "statut": "genere",
+      "octets": 21600,
+      "dureeMs": null
+    },
+    "consigne.bus.combien": {
+      "fichier": "qc/sylvie/consignes/bus/combien.mp3",
+      "texte": "Combien d'amis restent dans le bus ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "341e7db7",
+      "statut": "genere",
+      "octets": 18144,
+      "dureeMs": null
+    },
+    "consigne.bus.descend1": {
+      "fichier": "qc/sylvie/consignes/bus/descend1.mp3",
+      "texte": "Un ami descend du bus.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "52bc6a4e",
+      "statut": "genere",
+      "octets": 15840,
+      "dureeMs": null
+    },
+    "consigne.bus.descend2": {
+      "fichier": "qc/sylvie/consignes/bus/descend2.mp3",
+      "texte": "Deux amis descendent du bus.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "3a816820",
+      "statut": "genere",
+      "octets": 17136,
+      "dureeMs": null
+    },
+    "consigne.bus.g1": {
+      "fichier": "qc/sylvie/consignes/bus/g1.mp3",
+      "texte": "Écoute bien l'histoire du bus.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a973ec02",
+      "statut": "genere",
+      "octets": 17856,
+      "dureeMs": null
+    },
+    "consigne.bus.monte1": {
+      "fichier": "qc/sylvie/consignes/bus/monte1.mp3",
+      "texte": "Un ami monte dans le bus.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a81de4c3",
+      "statut": "genere",
+      "octets": 16416,
+      "dureeMs": null
+    },
+    "consigne.bus.monte2": {
+      "fichier": "qc/sylvie/consignes/bus/monte2.mp3",
+      "texte": "Deux amis montent dans le bus.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b0dff402",
+      "statut": "genere",
+      "octets": 17424,
+      "dureeMs": null
+    },
+    "consigne.bus.monte3": {
+      "fichier": "qc/sylvie/consignes/bus/monte3.mp3",
+      "texte": "Trois amis montent dans le bus.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4673dec7",
+      "statut": "genere",
+      "octets": 17280,
+      "dureeMs": null
+    },
+    "consigne.chanson.g1": {
+      "fichier": "qc/sylvie/consignes/chanson/g1.mp3",
+      "texte": "Place quatre sons dans les cases. Après, on écoute ta chanson !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5e055670",
+      "statut": "genere",
+      "octets": 35280,
+      "dureeMs": null
+    },
+    "consigne.chemin.g1": {
+      "fichier": "qc/sylvie/consignes/chemin/g1.mp3",
+      "texte": "Suis le chemin avec ton doigt, tout au long. Vas-y doucement !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5593f6b0",
+      "statut": "genere",
+      "octets": 33696,
+      "dureeMs": null
+    },
+    "consigne.code.g1": {
+      "fichier": "qc/sylvie/consignes/code/g1.mp3",
+      "texte": "Pose tes blocs pour amener la souris jusqu'à la pomme. Après, appuie sur le bouton vert !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "61d5f6b4",
+      "statut": "genere",
+      "octets": 44496,
+      "dureeMs": null
+    },
+    "consigne.couper.g1": {
+      "fichier": "qc/sylvie/consignes/couper/g1.mp3",
+      "texte": "Suis la ligne avec ton doigt, comme des ciseaux. Pars du point !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "74bbffd9",
+      "statut": "genere",
+      "octets": 32976,
+      "dureeMs": null
+    },
+    "consigne.ecoute": {
+      "fichier": "qc/sylvie/consignes/ecoute.mp3",
+      "texte": "Écoute bien…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-5%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "36e34be2",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "consigne.fenetre.e1": {
+      "fichier": "qc/sylvie/consignes/fenetre/e1.mp3",
+      "texte": "Regarde bien par la fenêtre…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "75d88a5a",
+      "statut": "genere",
+      "octets": 17568,
+      "dureeMs": null
+    },
+    "consigne.fenetre.e2": {
+      "fichier": "qc/sylvie/consignes/fenetre/e2.mp3",
+      "texte": "Quel temps fait-il dans la fenêtre ? Touche la bonne image !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ee2e3965",
+      "statut": "genere",
+      "octets": 31104,
+      "dureeMs": null
+    },
+    "consigne.flotte.g1": {
+      "fichier": "qc/sylvie/consignes/flotte/g1.mp3",
+      "texte": "Devine : est-ce que ça flotte sur l'eau, ou est-ce que ça coule au fond ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5e04f315",
+      "statut": "genere",
+      "octets": 28656,
+      "dureeMs": null
+    },
+    "consigne.flotte.plouf": {
+      "fichier": "qc/sylvie/consignes/flotte/plouf.mp3",
+      "texte": "Plouf ! Regarde bien…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2b4cd35f",
+      "statut": "genere",
+      "octets": 21600,
+      "dureeMs": null
+    },
+    "consigne.formes.g1": {
+      "fichier": "qc/sylvie/consignes/formes/g1.mp3",
+      "texte": "Chaque forme a sa case. Mets chaque forme dans la bonne case !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fe1927f5",
+      "statut": "genere",
+      "octets": 33120,
+      "dureeMs": null
+    },
+    "consigne.gateau.deux": {
+      "fichier": "qc/sylvie/consignes/gateau/deux.mp3",
+      "texte": "Deux amis veulent chacun la même part. En combien de parts coupe-t-on le gâteau ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "bc0579b9",
+      "statut": "genere",
+      "octets": 36576,
+      "dureeMs": null
+    },
+    "consigne.gateau.g1": {
+      "fichier": "qc/sylvie/consignes/gateau/g1.mp3",
+      "texte": "Regarde le gâteau…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "aa858fcb",
+      "statut": "genere",
+      "octets": 14112,
+      "dureeMs": null
+    },
+    "consigne.gateau.quatre": {
+      "fichier": "qc/sylvie/consignes/gateau/quatre.mp3",
+      "texte": "Maintenant, quatre amis veulent chacun la même part. En combien de parts coupe-t-on le gâteau ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "301c2a57",
+      "statut": "genere",
+      "octets": 41904,
+      "dureeMs": null
+    },
+    "consigne.graine.e1": {
+      "fichier": "qc/sylvie/consignes/graine/e1.mp3",
+      "texte": "Une petite graine dort dans la terre. Que lui faut-il pour se réveiller ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c3db5123",
+      "statut": "genere",
+      "octets": 35712,
+      "dureeMs": null
+    },
+    "consigne.graine.e2": {
+      "fichier": "qc/sylvie/consignes/graine/e2.mp3",
+      "texte": "Ça pousse ! Mais la pousse a besoin de lumière. Que fait-on ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0a969d4d",
+      "statut": "genere",
+      "octets": 39744,
+      "dureeMs": null
+    },
+    "consigne.graine.e3": {
+      "fichier": "qc/sylvie/consignes/graine/e3.mp3",
+      "texte": "La pousse est grande. Elle a soif ! Que lui donnes-tu ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2ea66df8",
+      "statut": "genere",
+      "octets": 37296,
+      "dureeMs": null
+    },
+    "consigne.graine.e4": {
+      "fichier": "qc/sylvie/consignes/graine/e4.mp3",
+      "texte": "Regarde comme elle est belle ! Elle a encore besoin d'eau.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "09e6069d",
+      "statut": "genere",
+      "octets": 30816,
+      "dureeMs": null
+    },
+    "consigne.graine.e5": {
+      "fichier": "qc/sylvie/consignes/graine/e5.mp3",
+      "texte": "Bravo ! La fleur est ouverte !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1214c7e2",
+      "statut": "genere",
+      "octets": 25056,
+      "dureeMs": null
+    },
+    "consigne.graine.g1": {
+      "fichier": "qc/sylvie/consignes/graine/g1.mp3",
+      "texte": "Regarde bien la plante !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e95c2a0c",
+      "statut": "genere",
+      "octets": 15696,
+      "dureeMs": null
+    },
+    "consigne.grenouille.e1": {
+      "fichier": "qc/sylvie/consignes/grenouille/e1.mp3",
+      "texte": "La grenouille est sur la ligne. Regarde bien !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "255a87ce",
+      "statut": "genere",
+      "octets": 28080,
+      "dureeMs": null
+    },
+    "consigne.grenouille.e2": {
+      "fichier": "qc/sylvie/consignes/grenouille/e2.mp3",
+      "texte": "Où est-elle arrivée ? Touche le bon nombre !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7c2bb9f0",
+      "statut": "genere",
+      "octets": 25776,
+      "dureeMs": null
+    },
+    "consigne.habiller.g1": {
+      "fichier": "qc/sylvie/consignes/habiller/g1.mp3",
+      "texte": "C'est l'hiver dehors ! Mets les affaires de neige dans le bac à neige, et les affaires d'été dans le bac au soleil.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f5e944a8",
+      "statut": "genere",
+      "octets": 49392,
+      "dureeMs": null
+    },
+    "consigne.hauteur.g1": {
+      "fichier": "qc/sylvie/consignes/hauteur/g1.mp3",
+      "texte": "Écoute bien ce son ! Qui chante tout en haut, ou qui grogne tout en bas ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c79f0688",
+      "statut": "genere",
+      "octets": 35136,
+      "dureeMs": null
+    },
+    "consigne.hauteur.g2": {
+      "fichier": "qc/sylvie/consignes/hauteur/g2.mp3",
+      "texte": "Écoute bien ce son ! Est-ce qu'il est fort, ou est-ce qu'il est tout doux ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6be8eaa6",
+      "statut": "genere",
+      "octets": 31968,
+      "dureeMs": null
+    },
+    "consigne.heure.diner": {
+      "fichier": "qc/sylvie/consignes/heure/diner.mp3",
+      "texte": "Il est midi ! Qu'est-ce qu'on fait à midi ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b0f0eeab",
+      "statut": "genere",
+      "octets": 25632,
+      "dureeMs": null
+    },
+    "consigne.heure.dodo": {
+      "fichier": "qc/sylvie/consignes/heure/dodo.mp3",
+      "texte": "Il est huit heures du soir. Il fait noir dehors. Que fait-on ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "419d3725",
+      "statut": "genere",
+      "octets": 40320,
+      "dureeMs": null
+    },
+    "consigne.heure.g1": {
+      "fichier": "qc/sylvie/consignes/heure/g1.mp3",
+      "texte": "Regarde l'horloge…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "caf80fad",
+      "statut": "genere",
+      "octets": 14256,
+      "dureeMs": null
+    },
+    "consigne.heure.parc": {
+      "fichier": "qc/sylvie/consignes/heure/parc.mp3",
+      "texte": "Il est quatre heures. Le soleil brille. Que fait-on ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a2a10537",
+      "statut": "genere",
+      "octets": 37152,
+      "dureeMs": null
+    },
+    "consigne.heure.reveil": {
+      "fichier": "qc/sylvie/consignes/heure/reveil.mp3",
+      "texte": "Il est sept heures et demie du matin. Que fait-on ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4eaa981e",
+      "statut": "genere",
+      "octets": 27648,
+      "dureeMs": null
+    },
+    "consigne.histoire.g1": {
+      "fichier": "qc/sylvie/consignes/histoire/g1.mp3",
+      "texte": "Remets l'histoire dans l'ordre. Commence par le début !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7eecd721",
+      "statut": "genere",
+      "octets": 29664,
+      "dureeMs": null
+    },
+    "consigne.intrus.animaux": {
+      "fichier": "qc/sylvie/consignes/intrus/animaux.mp3",
+      "texte": "Tout ça, ce sont des animaux… sauf un ! Touche celui qui n'est pas un animal.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "3236d3f0",
+      "statut": "genere",
+      "octets": 39312,
+      "dureeMs": null
+    },
+    "consigne.intrus.jouer": {
+      "fichier": "qc/sylvie/consignes/intrus/jouer.mp3",
+      "texte": "Tout ça, c'est pour jouer… sauf un ! Touche ce qui n'est pas un jeu.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f62a0eae",
+      "statut": "genere",
+      "octets": 33840,
+      "dureeMs": null
+    },
+    "consigne.intrus.maison": {
+      "fichier": "qc/sylvie/consignes/intrus/maison.mp3",
+      "texte": "Voici des objets. Un animal s’est glissé parmi eux. Touche l’animal !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b471a483",
+      "statut": "genere",
+      "octets": 44928,
+      "dureeMs": null
+    },
+    "consigne.intrus.manger": {
+      "fichier": "qc/sylvie/consignes/intrus/manger.mp3",
+      "texte": "Tout ça, ça se mange… sauf un ! Touche ce qui ne se mange pas.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "062b6ba5",
+      "statut": "genere",
+      "octets": 33696,
+      "dureeMs": null
+    },
+    "consigne.intrus.porter": {
+      "fichier": "qc/sylvie/consignes/intrus/porter.mp3",
+      "texte": "Tout ça, ça se porte… sauf un ! Touche ce qui ne se porte pas.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f448b279",
+      "statut": "genere",
+      "octets": 33552,
+      "dureeMs": null
+    },
+    "consigne.journuit.e1": {
+      "fichier": "qc/sylvie/consignes/journuit/e1.mp3",
+      "texte": "Le soleil se lève doucement. Quel moment de la journée commence ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9135081a",
+      "statut": "genere",
+      "octets": 34128,
+      "dureeMs": null
+    },
+    "consigne.journuit.e2": {
+      "fichier": "qc/sylvie/consignes/journuit/e2.mp3",
+      "texte": "Le soleil est haut dans le ciel. C'est l'heure du dîner !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "18227496",
+      "statut": "genere",
+      "octets": 30240,
+      "dureeMs": null
+    },
+    "consigne.journuit.e3": {
+      "fichier": "qc/sylvie/consignes/journuit/e3.mp3",
+      "texte": "Le soleil descend. Bientôt la nuit. Qu'est-ce qui se lève dans le ciel ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2ecf5f68",
+      "statut": "genere",
+      "octets": 41760,
+      "dureeMs": null
+    },
+    "consigne.journuit.e4": {
+      "fichier": "qc/sylvie/consignes/journuit/e4.mp3",
+      "texte": "Il fait tout noir, les étoiles brillent. Que fait-on ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8a46a52c",
+      "statut": "genere",
+      "octets": 31968,
+      "dureeMs": null
+    },
+    "consigne.journuit.g1": {
+      "fichier": "qc/sylvie/consignes/journuit/g1.mp3",
+      "texte": "Regarde le ciel.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "347a6f0f",
+      "statut": "genere",
+      "octets": 14688,
+      "dureeMs": null
+    },
+    "consigne.lettre.g1": {
+      "fichier": "qc/sylvie/consignes/lettre/g1.mp3",
+      "texte": "Suis la lettre avec ton doigt, doucement.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "35ff091a",
+      "statut": "genere",
+      "octets": 20448,
+      "dureeMs": null
+    },
+    "consigne.mains.apres_animal": {
+      "fichier": "qc/sylvie/consignes/mains/apres_animal.mp3",
+      "texte": "Après avoir touché un animal, on lave ses mains. Remets les gestes dans le bon ordre.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ef9f554a",
+      "statut": "genere",
+      "octets": 41760,
+      "dureeMs": null
+    },
+    "consigne.mains.apres_parc": {
+      "fichier": "qc/sylvie/consignes/mains/apres_parc.mp3",
+      "texte": "Tu reviens du parc. Retrouve tous les gestes pour bien laver tes mains.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "cfa3242c",
+      "statut": "genere",
+      "octets": 34848,
+      "dureeMs": null
+    },
+    "consigne.mains.apres_toilette": {
+      "fichier": "qc/sylvie/consignes/mains/apres_toilette.mp3",
+      "texte": "Après les toilettes, on lave ses mains. Remets tous les gestes dans le bon ordre.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e9eab919",
+      "statut": "genere",
+      "octets": 38160,
+      "dureeMs": null
+    },
+    "consigne.mains.avant_repas": {
+      "fichier": "qc/sylvie/consignes/mains/avant_repas.mp3",
+      "texte": "Avant de manger, on lave ses mains. Retrouve tous les gestes dans le bon ordre.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "91351c3b",
+      "statut": "genere",
+      "octets": 38016,
+      "dureeMs": null
+    },
+    "consigne.mains.g1": {
+      "fichier": "qc/sylvie/consignes/mains/g1.mp3",
+      "texte": "Remets les gestes dans l'ordre pour laver tes mains !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ef8425f4",
+      "statut": "genere",
+      "octets": 20880,
+      "dureeMs": null
+    },
+    "consigne.manque.e1": {
+      "fichier": "qc/sylvie/consignes/manque/e1.mp3",
+      "texte": "Regarde bien tous les objets…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "262ea203",
+      "statut": "genere",
+      "octets": 16560,
+      "dureeMs": null
+    },
+    "consigne.manque.e2": {
+      "fichier": "qc/sylvie/consignes/manque/e2.mp3",
+      "texte": "Oh ! Un objet a disparu. Qu'est-ce qui manque ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "09ed269f",
+      "statut": "genere",
+      "octets": 34272,
+      "dureeMs": null
+    },
+    "consigne.manque.e3": {
+      "fichier": "qc/sylvie/consignes/manque/e3.mp3",
+      "texte": "Touche l'objet qui a disparu !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "518df4cf",
+      "statut": "genere",
+      "octets": 16560,
+      "dureeMs": null
+    },
+    "consigne.milo.action": {
+      "fichier": "qc/sylvie/consignes/milo/action.mp3",
+      "texte": "Qu'est-ce qui peut aider Milo ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e1bd2b2c",
+      "statut": "genere",
+      "octets": 14832,
+      "dureeMs": null
+    },
+    "consigne.milo.g1": {
+      "fichier": "qc/sylvie/consignes/milo/g1.mp3",
+      "texte": "Regarde ce qui arrive à Milo.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "60c270bb",
+      "statut": "genere",
+      "octets": 17568,
+      "dureeMs": null
+    },
+    "consigne.milo.visage": {
+      "fichier": "qc/sylvie/consignes/milo/visage.mp3",
+      "texte": "Comment se sent Milo ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a9ef6ae7",
+      "statut": "genere",
+      "octets": 13824,
+      "dureeMs": null
+    },
+    "consigne.monstre.g1": {
+      "fichier": "qc/sylvie/consignes/monstre/g1.mp3",
+      "texte": "Tape tout doucement, sans te presser, pour endormir le monstre.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e5e0d8ad",
+      "statut": "genere",
+      "octets": 29232,
+      "dureeMs": null
+    },
+    "consigne.motcache.g1": {
+      "fichier": "qc/sylvie/consignes/motcache/g1.mp3",
+      "texte": "Trouve quelque chose qui commence par…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6179e571",
+      "statut": "genere",
+      "octets": 19008,
+      "dureeMs": null
+    },
+    "consigne.mots.g1": {
+      "fichier": "qc/sylvie/consignes/mots/g1.mp3",
+      "texte": "Que peut dire Milo ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "78478c3c",
+      "statut": "genere",
+      "octets": 12960,
+      "dureeMs": null
+    },
+    "consigne.ombres.g1": {
+      "fichier": "qc/sylvie/consignes/ombres/g1.mp3",
+      "texte": "Regarde bien la lampe et l'ombre…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7058b0f3",
+      "statut": "genere",
+      "octets": 18288,
+      "dureeMs": null
+    },
+    "consigne.ombres.g2": {
+      "fichier": "qc/sylvie/consignes/ombres/g2.mp3",
+      "texte": "La lampe brille d'un côté. De quel côté est l'ombre ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "dc1a078b",
+      "statut": "genere",
+      "octets": 30096,
+      "dureeMs": null
+    },
+    "consigne.ordres.g1": {
+      "fichier": "qc/sylvie/consignes/ordres/g1.mp3",
+      "texte": "Écoute bien les ordres, puis fais-les dans l'ordre.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "13a4f728",
+      "statut": "genere",
+      "octets": 23328,
+      "dureeMs": null
+    },
+    "consigne.papillon.g1": {
+      "fichier": "qc/sylvie/consignes/papillon/g1.mp3",
+      "texte": "Peins les points sur l'aile. L'autre aile se copie toute seule !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "62db5a37",
+      "statut": "genere",
+      "octets": 31680,
+      "dureeMs": null
+    },
+    "consigne.peinture.orange": {
+      "fichier": "qc/sylvie/consignes/peinture/orange.mp3",
+      "texte": "Peins du rouge, puis ajoute du jaune. Que se passe-t-il ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2c33039d",
+      "statut": "genere",
+      "octets": 32112,
+      "dureeMs": null
+    },
+    "consigne.peinture.vert": {
+      "fichier": "qc/sylvie/consignes/peinture/vert.mp3",
+      "texte": "Peins du jaune, puis ajoute du bleu. Que se passe-t-il ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "491ff1f4",
+      "statut": "genere",
+      "octets": 30960,
+      "dureeMs": null
+    },
+    "consigne.peinture.violet": {
+      "fichier": "qc/sylvie/consignes/peinture/violet.mp3",
+      "texte": "Peins du rouge, puis ajoute du bleu. Que se passe-t-il ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c30e8806",
+      "statut": "genere",
+      "octets": 30960,
+      "dureeMs": null
+    },
+    "consigne.perles.g1": {
+      "fichier": "qc/sylvie/consignes/perles/g1.mp3",
+      "texte": "Regarde bien le collier…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "da25d789",
+      "statut": "genere",
+      "octets": 15840,
+      "dureeMs": null
+    },
+    "consigne.perles.g2": {
+      "fichier": "qc/sylvie/consignes/perles/g2.mp3",
+      "texte": "Quelle perle vient après ? Continue le collier !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5b6a498a",
+      "statut": "genere",
+      "octets": 27360,
+      "dureeMs": null
+    },
+    "consigne.petit.g1": {
+      "fichier": "qc/sylvie/consignes/petit/g1.mp3",
+      "texte": "Chaque animal a sa maison. Mets les animaux dans le bon bac !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "943d407f",
+      "statut": "genere",
+      "octets": 33120,
+      "dureeMs": null
+    },
+    "consigne.phrase.g1": {
+      "fichier": "qc/sylvie/consignes/phrase/g1.mp3",
+      "texte": "Place les images pour faire la phrase :",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "058bb0cf",
+      "statut": "genere",
+      "octets": 20304,
+      "dureeMs": null
+    },
+    "consigne.plusmoins.g1": {
+      "fichier": "qc/sylvie/consignes/plusmoins/g1.mp3",
+      "texte": "Regarde les deux tas !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "459872f2",
+      "statut": "genere",
+      "octets": 14400,
+      "dureeMs": null
+    },
+    "consigne.plusmoins.moins": {
+      "fichier": "qc/sylvie/consignes/plusmoins/moins.mp3",
+      "texte": "Où y a-t-il le MOINS de fruits ? Touche ce côté-là !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "46b13dc2",
+      "statut": "genere",
+      "octets": 29088,
+      "dureeMs": null
+    },
+    "consigne.plusmoins.plus": {
+      "fichier": "qc/sylvie/consignes/plusmoins/plus.mp3",
+      "texte": "Où y a-t-il le PLUS de fruits ? Touche ce côté-là !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "63be0b89",
+      "statut": "genere",
+      "octets": 29376,
+      "dureeMs": null
+    },
+    "consigne.ranger.jouets": {
+      "fichier": "qc/sylvie/consignes/ranger/jouets.mp3",
+      "texte": "On range ! Mets les jouets dans un bac, et les vêtements dans l'autre !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "bfb79285",
+      "statut": "genere",
+      "octets": 35424,
+      "dureeMs": null
+    },
+    "consigne.ranger.livres": {
+      "fichier": "qc/sylvie/consignes/ranger/livres.mp3",
+      "texte": "On range ! Les jouets d'un côté, les livres de l'autre !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6f1dfeaa",
+      "statut": "genere",
+      "octets": 33264,
+      "dureeMs": null
+    },
+    "consigne.ranger.trois": {
+      "fichier": "qc/sylvie/consignes/ranger/trois.mp3",
+      "texte": "On range ! Les jouets, les vêtements et les livres : chacun dans son bac !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0c4e9a7f",
+      "statut": "genere",
+      "octets": 38736,
+      "dureeMs": null
+    },
+    "consigne.ranger.vetements_livres": {
+      "fichier": "qc/sylvie/consignes/ranger/vetements_livres.mp3",
+      "texte": "On range ! Les vêtements dans un bac, les livres dans l’autre !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "bba73e14",
+      "statut": "genere",
+      "octets": 35136,
+      "dureeMs": null
+    },
+    "consigne.recette.aide": {
+      "fichier": "qc/sylvie/consignes/recette/aide.mp3",
+      "texte": "Prépare la collation avec un adulte. Lave le fruit, demande de l’aide, laisse l’adulte le couper, puis mets les morceaux dans une assiette. Remets les images dans l’ordre.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ecdd4e2b",
+      "statut": "genere",
+      "octets": 78048,
+      "dureeMs": null
+    },
+    "consigne.recette.banane": {
+      "fichier": "qc/sylvie/consignes/recette/banane.mp3",
+      "texte": "Avec un adulte, prépare une banane : lave la peau, laisse l’adulte la peler et la couper, puis mets les morceaux dans une assiette. Remets les images dans l’ordre.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f980a5ff",
+      "statut": "genere",
+      "octets": 69552,
+      "dureeMs": null
+    },
+    "consigne.recette.fraise": {
+      "fichier": "qc/sylvie/consignes/recette/fraise.mp3",
+      "texte": "Avec un adulte, prépare des fraises : lave-les, laisse l’adulte les couper, puis mets les morceaux dans une assiette. Remets les images dans l’ordre.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1db8d1f3",
+      "statut": "genere",
+      "octets": 65664,
+      "dureeMs": null
+    },
+    "consigne.recette.g1": {
+      "fichier": "qc/sylvie/consignes/recette/g1.mp3",
+      "texte": "Avec un adulte : lave la pomme, laisse l’adulte la couper, puis place les morceaux dans une assiette. Remets les gestes dans le bon ordre.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9533606e",
+      "statut": "genere",
+      "octets": 61776,
+      "dureeMs": null
+    },
+    "consigne.recette.pomme": {
+      "fichier": "qc/sylvie/consignes/recette/pomme.mp3",
+      "texte": "Avec un adulte, prépare une pomme : lave-la, laisse l’adulte la couper, puis mets les morceaux dans une assiette. Remets les images dans l’ordre.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "102e55d1",
+      "statut": "genere",
+      "octets": 64368,
+      "dureeMs": null
+    },
+    "consigne.repete": {
+      "fichier": "qc/sylvie/consignes/repete.mp3",
+      "texte": "Je te le redis.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-5%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8ae0f952",
+      "statut": "genere",
+      "octets": 11952,
+      "dureeMs": null
+    },
+    "consigne.rimes.g1": {
+      "fichier": "qc/sylvie/consignes/rimes/g1.mp3",
+      "texte": "Trouve l'image qui rime avec",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "cd7618a2",
+      "statut": "genere",
+      "octets": 17136,
+      "dureeMs": null
+    },
+    "consigne.rimes.g2": {
+      "fichier": "qc/sylvie/consignes/rimes/g2.mp3",
+      "texte": "Écoute bien. Quel mot rime avec…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ea50a185",
+      "statut": "genere",
+      "octets": 24912,
+      "dureeMs": null
+    },
+    "consigne.rimes.g3": {
+      "fichier": "qc/sylvie/consignes/rimes/g3.mp3",
+      "texte": "Lequel rime avec…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ac6288a6",
+      "statut": "genere",
+      "octets": 14832,
+      "dureeMs": null
+    },
+    "consigne.rythme.g1": {
+      "fichier": "qc/sylvie/consignes/rythme/g1.mp3",
+      "texte": "Tape sur le tambour en même temps que moi. Écoute bien…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "bb9f755b",
+      "statut": "genere",
+      "octets": 30096,
+      "dureeMs": null
+    },
+    "consigne.sac.fin": {
+      "fichier": "qc/sylvie/consignes/sac/fin.mp3",
+      "texte": "Et laisse le reste à la maison.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c0360ca4",
+      "statut": "genere",
+      "octets": 16272,
+      "dureeMs": null
+    },
+    "consigne.sac.g1": {
+      "fichier": "qc/sylvie/consignes/sac/g1.mp3",
+      "texte": "On prépare le sac pour l'école. Mets dans le sac :",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "66c8004d",
+      "statut": "genere",
+      "octets": 31248,
+      "dureeMs": null
+    },
+    "consigne.sens.doux": {
+      "fichier": "qc/sylvie/consignes/sens/doux.mp3",
+      "texte": "C'est tout doux ! Qu'est-ce qui est tout doux au toucher ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "bd2418d8",
+      "statut": "genere",
+      "octets": 26640,
+      "dureeMs": null
+    },
+    "consigne.sens.dur": {
+      "fichier": "qc/sylvie/consignes/sens/dur.mp3",
+      "texte": "C'est dur comme un caillou ! Qu'est-ce qui est dur ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5a2b9d3e",
+      "statut": "genere",
+      "octets": 27792,
+      "dureeMs": null
+    },
+    "consigne.sens.gout": {
+      "fichier": "qc/sylvie/consignes/sens/gout.mp3",
+      "texte": "Avec ta bouche, tu goûtes un aliment. Quelle image montre quelque chose à manger ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a5aef3ec",
+      "statut": "genere",
+      "octets": 39600,
+      "dureeMs": null
+    },
+    "consigne.sens.odorat": {
+      "fichier": "qc/sylvie/consignes/sens/odorat.mp3",
+      "texte": "Avec ton nez, tu sens une bonne odeur dans le jardin. Quelle image peut avoir cette odeur ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6be19a35",
+      "statut": "genere",
+      "octets": 42480,
+      "dureeMs": null
+    },
+    "consigne.sens.vue": {
+      "fichier": "qc/sylvie/consignes/sens/vue.mp3",
+      "texte": "Avec tes yeux, tu vois une lumière dans le ciel. Quelle image montre cette lumière ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "bbe0b2ef",
+      "statut": "genere",
+      "octets": 41616,
+      "dureeMs": null
+    },
+    "consigne.sialors.faim": {
+      "fichier": "qc/sylvie/consignes/sialors/faim.mp3",
+      "texte": "Le chat a très faim. Que mange-t-il ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "03986f81",
+      "statut": "genere",
+      "octets": 25344,
+      "dureeMs": null
+    },
+    "consigne.sialors.neige": {
+      "fichier": "qc/sylvie/consignes/sialors/neige.mp3",
+      "texte": "S'il neige et qu'il fait froid, que met le chat autour du cou ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "804c7da8",
+      "statut": "genere",
+      "octets": 26208,
+      "dureeMs": null
+    },
+    "consigne.sialors.pluie": {
+      "fichier": "qc/sylvie/consignes/sialors/pluie.mp3",
+      "texte": "S'il pleut, que prend le chat pour sortir ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "eaa8b3cc",
+      "statut": "genere",
+      "octets": 22464,
+      "dureeMs": null
+    },
+    "consigne.sialors.soif": {
+      "fichier": "qc/sylvie/consignes/sialors/soif.mp3",
+      "texte": "Le chat a très soif. Que boit-il ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "84c69762",
+      "statut": "genere",
+      "octets": 26064,
+      "dureeMs": null
+    },
+    "consigne.sialors.soleil": {
+      "fichier": "qc/sylvie/consignes/sialors/soleil.mp3",
+      "texte": "S'il fait très beau et très chaud, que met le chat sur ses yeux ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a7c257d8",
+      "statut": "genere",
+      "octets": 25776,
+      "dureeMs": null
+    },
+    "consigne.spatial.e1": {
+      "fichier": "qc/sylvie/consignes/spatial/e1.mp3",
+      "texte": "Regarde bien où est le chat…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "db5f7cad",
+      "statut": "genere",
+      "octets": 15984,
+      "dureeMs": null
+    },
+    "consigne.spatial.e2": {
+      "fichier": "qc/sylvie/consignes/spatial/e2.mp3",
+      "texte": "Où est le chat ? Touche la bonne image !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "64359525",
+      "statut": "genere",
+      "octets": 25344,
+      "dureeMs": null
+    },
+    "consigne.syllabes.g1": {
+      "fichier": "qc/sylvie/consignes/syllabes/g1.mp3",
+      "texte": "Écoute le mot. La grenouille saute une fois pour chaque syllabe. À toi après !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "07c80b8a",
+      "statut": "genere",
+      "octets": 43632,
+      "dureeMs": null
+    },
+    "consigne.table.assiette": {
+      "fichier": "qc/sylvie/consignes/table/assiette.mp3",
+      "texte": "Donne une assiette à chaque ami.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "30e33af7",
+      "statut": "genere",
+      "octets": 16128,
+      "dureeMs": null
+    },
+    "consigne.table.fourchette": {
+      "fichier": "qc/sylvie/consignes/table/fourchette.mp3",
+      "texte": "Donne une fourchette à chaque ami.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e45fc065",
+      "statut": "genere",
+      "octets": 16560,
+      "dureeMs": null
+    },
+    "consigne.table.verre": {
+      "fichier": "qc/sylvie/consignes/table/verre.mp3",
+      "texte": "Donne un verre à chaque ami.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "462e422c",
+      "statut": "genere",
+      "octets": 14976,
+      "dureeMs": null
+    },
+    "consigne.theatre.g1": {
+      "fichier": "qc/sylvie/consignes/theatre/g1.mp3",
+      "texte": "Fais bouger tes deux amis avec ton doigt. Après, on rejoue la scène !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "253a4cf7",
+      "statut": "genere",
+      "octets": 36720,
+      "dureeMs": null
+    },
+    "consigne.touche": {
+      "fichier": "qc/sylvie/consignes/touche.mp3",
+      "texte": "Touche la bonne image.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "bb51fb4e",
+      "statut": "genere",
+      "octets": 14544,
+      "dureeMs": null
+    },
+    "consigne.tours.autre": {
+      "fichier": "qc/sylvie/consignes/tours/autre.mp3",
+      "texte": "À l'autre !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b8a9a065",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "consigne.tours.g1": {
+      "fichier": "qc/sylvie/consignes/tours/g1.mp3",
+      "texte": "Trouve :",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1896324c",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "consigne.tours.mien": {
+      "fichier": "qc/sylvie/consignes/tours/mien.mp3",
+      "texte": "À toi !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "70efc13d",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "consigne.traverser.ecole": {
+      "fichier": "qc/sylvie/consignes/traverser/ecole.mp3",
+      "texte": "Sur le chemin de l’école, on traverse avec un adulte, main dans la main. On s’arrête, on regarde et on écoute. L’adulte décide quand on peut traverser en marchant. Remets les images dans l’ordre.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "63768117",
+      "statut": "genere",
+      "octets": 91728,
+      "dureeMs": null
+    },
+    "consigne.traverser.g1": {
+      "fichier": "qc/sylvie/consignes/traverser/g1.mp3",
+      "texte": "Avec un adulte, on s’arrête, on regarde et on écoute avant de traverser. Remets les images dans l’ordre.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9d0c3441",
+      "statut": "genere",
+      "octets": 50112,
+      "dureeMs": null
+    },
+    "consigne.traverser.g2": {
+      "fichier": "qc/sylvie/consignes/traverser/g2.mp3",
+      "texte": "Avec un adulte : stop, regarde, écoute, puis traverse quand c’est possible. Remets les images dans l’ordre.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9266b3f9",
+      "statut": "genere",
+      "octets": 53424,
+      "dureeMs": null
+    },
+    "consigne.traverser.parc": {
+      "fichier": "qc/sylvie/consignes/traverser/parc.mp3",
+      "texte": "Pour aller au parc, on traverse avec un adulte, main dans la main. On s’arrête, on regarde et on écoute. L’adulte décide quand on peut traverser en marchant. Remets les images dans l’ordre.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1de25f3c",
+      "statut": "genere",
+      "octets": 89136,
+      "dureeMs": null
+    },
+    "cri.abeille": {
+      "fichier": "qc/sylvie/consignes/sens/cri.abeille.mp3",
+      "texte": "Zzzzzz ! Qui fait ce bruit ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e54ead55",
+      "statut": "genere",
+      "octets": 28224,
+      "dureeMs": null
+    },
+    "cri.chat": {
+      "fichier": "qc/sylvie/consignes/sens/cri.chat.mp3",
+      "texte": "Miaou ! Qui fait ce bruit ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9026723f",
+      "statut": "genere",
+      "octets": 22032,
+      "dureeMs": null
+    },
+    "cri.hibou": {
+      "fichier": "qc/sylvie/consignes/sens/cri.hibou.mp3",
+      "texte": "Hou hou ! Qui fait ce bruit ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a1de69ed",
+      "statut": "genere",
+      "octets": 21600,
+      "dureeMs": null
+    },
+    "cri.loup": {
+      "fichier": "qc/sylvie/consignes/sens/cri.loup.mp3",
+      "texte": "Ouuuuu ! Qui fait ce bruit ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "da4ad9da",
+      "statut": "genere",
+      "octets": 25632,
+      "dureeMs": null
+    },
+    "cri.poule": {
+      "fichier": "qc/sylvie/consignes/sens/cri.poule.mp3",
+      "texte": "Cot cot codet ! Qui fait ce bruit ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "96b957c1",
+      "statut": "genere",
+      "octets": 24336,
+      "dureeMs": null
+    },
+    "cri.serpent": {
+      "fichier": "qc/sylvie/consignes/sens/cri.serpent.mp3",
+      "texte": "Ssssss ! Qui fait ce bruit ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ca52b839",
+      "statut": "genere",
+      "octets": 27504,
+      "dureeMs": null
+    },
+    "cri.tigre": {
+      "fichier": "qc/sylvie/consignes/sens/cri.tigre.mp3",
+      "texte": "Rrrrrr ! Qui fait ce bruit ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "28f85fe0",
+      "statut": "genere",
+      "octets": 29952,
+      "dureeMs": null
+    },
+    "cri.vache": {
+      "fichier": "qc/sylvie/consignes/sens/cri.vache.mp3",
+      "texte": "Meuh ! Qui fait ce bruit ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fa6bde75",
+      "statut": "genere",
+      "octets": 20880,
+      "dureeMs": null
+    },
+    "explication.intrus.animaux": {
+      "fichier": "qc/sylvie/consignes/intrus/explication.intrus.animaux.mp3",
+      "texte": "Celui-là, ce n'est pas un animal !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "381bb6a7",
+      "statut": "genere",
+      "octets": 20736,
+      "dureeMs": null
+    },
+    "explication.intrus.jouer": {
+      "fichier": "qc/sylvie/consignes/intrus/explication.intrus.jouer.mp3",
+      "texte": "Celui-là, ça ne se joue pas !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b7a98710",
+      "statut": "genere",
+      "octets": 18576,
+      "dureeMs": null
+    },
+    "explication.intrus.maison": {
+      "fichier": "qc/sylvie/consignes/intrus/explication.intrus.maison.mp3",
+      "texte": "Celui-là est un animal, les autres sont des objets !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "adc30b4e",
+      "statut": "genere",
+      "octets": 26064,
+      "dureeMs": null
+    },
+    "explication.intrus.manger": {
+      "fichier": "qc/sylvie/consignes/intrus/explication.intrus.manger.mp3",
+      "texte": "Celui-là, ça ne se mange pas !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fc8c7ed7",
+      "statut": "genere",
+      "octets": 19008,
+      "dureeMs": null
+    },
+    "explication.intrus.porter": {
+      "fichier": "qc/sylvie/consignes/intrus/explication.intrus.porter.mp3",
+      "texte": "Celui-là, ça ne se porte pas !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "24ec9da9",
+      "statut": "genere",
+      "octets": 19008,
+      "dureeMs": null
+    },
+    "histoire.chat.raconte": {
+      "fichier": "qc/sylvie/consignes/histoire/chat.raconte.mp3",
+      "texte": "Le chat dormait dans son lit. Il se réveille, il mange, et il va jouer avec son ballon !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "079da17b",
+      "statut": "genere",
+      "octets": 42624,
+      "dureeMs": null
+    },
+    "histoire.matin.raconte": {
+      "fichier": "qc/sylvie/consignes/histoire/matin.raconte.mp3",
+      "texte": "Le matin, le soleil se lève, on prend un bon café, et on prépare le sac pour l'école !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9ea98813",
+      "statut": "genere",
+      "octets": 39888,
+      "dureeMs": null
+    },
+    "histoire.papillon.raconte": {
+      "fichier": "qc/sylvie/consignes/histoire/papillon.raconte.mp3",
+      "texte": "Un petit œuf devient une chenille, et la chenille devient un beau papillon !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ba96b78e",
+      "statut": "genere",
+      "octets": 30240,
+      "dureeMs": null
+    },
+    "histoire.plante.raconte": {
+      "fichier": "qc/sylvie/consignes/histoire/plante.raconte.mp3",
+      "texte": "On met la graine dans la terre, on l'arrose, le soleil la réchauffe, et une belle fleur pousse !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5821a439",
+      "statut": "genere",
+      "octets": 40464,
+      "dureeMs": null
+    },
+    "histoire.poussin.raconte": {
+      "fichier": "qc/sylvie/consignes/histoire/poussin.raconte.mp3",
+      "texte": "Dans l'œuf, il y avait un petit poussin. Il casse la coquille, et il devient une belle poule !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9fffd4f8",
+      "statut": "genere",
+      "octets": 44064,
+      "dureeMs": null
+    },
+    "histoire.soiree.raconte": {
+      "fichier": "qc/sylvie/consignes/histoire/soiree.raconte.mp3",
+      "texte": "Le soleil se couche, la lune se lève, les étoiles apparaissent… et on va dormir !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "cf02feb0",
+      "statut": "genere",
+      "octets": 38592,
+      "dureeMs": null
+    },
+    "lettre.a.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/a.dit.mp3",
+      "texte": "C'est la lettre a.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ef910386",
+      "statut": "genere",
+      "octets": 12384,
+      "dureeMs": null
+    },
+    "lettre.b.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/b.dit.mp3",
+      "texte": "C'est la lettre b.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1aa1dec3",
+      "statut": "genere",
+      "octets": 12816,
+      "dureeMs": null
+    },
+    "lettre.c.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/c.dit.mp3",
+      "texte": "C'est la lettre c.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "24979960",
+      "statut": "genere",
+      "octets": 13392,
+      "dureeMs": null
+    },
+    "lettre.d.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/d.dit.mp3",
+      "texte": "C'est la lettre d.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6d8bcdce",
+      "statut": "genere",
+      "octets": 13248,
+      "dureeMs": null
+    },
+    "lettre.e.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/e.dit.mp3",
+      "texte": "C'est la lettre e.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9f40f93c",
+      "statut": "genere",
+      "octets": 12240,
+      "dureeMs": null
+    },
+    "lettre.f.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/f.dit.mp3",
+      "texte": "C'est la lettre f.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6d996f36",
+      "statut": "genere",
+      "octets": 13392,
+      "dureeMs": null
+    },
+    "lettre.i.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/i.dit.mp3",
+      "texte": "C'est la lettre i.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "cfc0ac69",
+      "statut": "genere",
+      "octets": 12528,
+      "dureeMs": null
+    },
+    "lettre.k.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/k.dit.mp3",
+      "texte": "C'est la lettre k.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7f503ebc",
+      "statut": "genere",
+      "octets": 13248,
+      "dureeMs": null
+    },
+    "lettre.l.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/l.dit.mp3",
+      "texte": "C'est la lettre l.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "237cc973",
+      "statut": "genere",
+      "octets": 13536,
+      "dureeMs": null
+    },
+    "lettre.m.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/m.dit.mp3",
+      "texte": "C'est la lettre m.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "19388c16",
+      "statut": "genere",
+      "octets": 13248,
+      "dureeMs": null
+    },
+    "lettre.n.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/n.dit.mp3",
+      "texte": "C'est la lettre n.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "05e69cea",
+      "statut": "genere",
+      "octets": 13392,
+      "dureeMs": null
+    },
+    "lettre.o.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/o.dit.mp3",
+      "texte": "C'est la lettre o.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "10526742",
+      "statut": "genere",
+      "octets": 12240,
+      "dureeMs": null
+    },
+    "lettre.p.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/p.dit.mp3",
+      "texte": "C'est la lettre p.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e1009e40",
+      "statut": "genere",
+      "octets": 12960,
+      "dureeMs": null
+    },
+    "lettre.q.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/q.dit.mp3",
+      "texte": "C'est la lettre q.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f1a98e25",
+      "statut": "genere",
+      "octets": 12960,
+      "dureeMs": null
+    },
+    "lettre.r.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/r.dit.mp3",
+      "texte": "C'est la lettre r.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b480877d",
+      "statut": "genere",
+      "octets": 13968,
+      "dureeMs": null
+    },
+    "lettre.s.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/s.dit.mp3",
+      "texte": "C'est la lettre s.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2fc1b28c",
+      "statut": "genere",
+      "octets": 13680,
+      "dureeMs": null
+    },
+    "lettre.t.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/t.dit.mp3",
+      "texte": "C'est la lettre t.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1d10eaed",
+      "statut": "genere",
+      "octets": 13392,
+      "dureeMs": null
+    },
+    "lettre.u.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/u.dit.mp3",
+      "texte": "C'est la lettre u.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a806355a",
+      "statut": "genere",
+      "octets": 12672,
+      "dureeMs": null
+    },
+    "lettre.v.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/v.dit.mp3",
+      "texte": "C'est la lettre v.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "50381f86",
+      "statut": "genere",
+      "octets": 12960,
+      "dureeMs": null
+    },
+    "lettre.w.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/w.dit.mp3",
+      "texte": "C'est la lettre w.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2664db6c",
+      "statut": "genere",
+      "octets": 14976,
+      "dureeMs": null
+    },
+    "lettre.x.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/x.dit.mp3",
+      "texte": "C'est la lettre x.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7b7a4f83",
+      "statut": "genere",
+      "octets": 13392,
+      "dureeMs": null
+    },
+    "lettre.y.dit": {
+      "fichier": "qc/sylvie/consignes/lettre/y.dit.mp3",
+      "texte": "C'est la lettre y.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6c119521",
+      "statut": "genere",
+      "octets": 12528,
+      "dureeMs": null
+    },
+    "lex.abeille": {
+      "fichier": "qc/sylvie/lexique/abeille.mp3",
+      "texte": "l'abeille",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "919d3dab",
+      "statut": "genere",
+      "octets": 11376,
+      "dureeMs": null
+    },
+    "lex.acote": {
+      "fichier": "qc/sylvie/lexique/acote.mp3",
+      "texte": "à côté",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "807a70f9",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.aide": {
+      "fichier": "qc/sylvie/lexique/aide.mp3",
+      "texte": "demander de l'aide",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d3cd8818",
+      "statut": "genere",
+      "octets": 13824,
+      "dureeMs": null
+    },
+    "lex.ami": {
+      "fichier": "qc/sylvie/lexique/ami.mp3",
+      "texte": "ami",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "29da09ff",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.assiette": {
+      "fichier": "qc/sylvie/lexique/assiette.mp3",
+      "texte": "assiette",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "acc6a5d0",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.attendre": {
+      "fichier": "qc/sylvie/lexique/attendre.mp3",
+      "texte": "attendre son tour",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f55f4fa6",
+      "statut": "genere",
+      "octets": 14976,
+      "dureeMs": null
+    },
+    "lex.ballon": {
+      "fichier": "qc/sylvie/lexique/ballon.mp3",
+      "texte": "ballon",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fc50eacf",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.banane": {
+      "fichier": "qc/sylvie/lexique/banane.mp3",
+      "texte": "une banane",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4c689660",
+      "statut": "genere",
+      "octets": 11664,
+      "dureeMs": null
+    },
+    "lex.bas": {
+      "fichier": "qc/sylvie/lexique/bas.mp3",
+      "texte": "en bas",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7fd1bf37",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.bateau": {
+      "fichier": "qc/sylvie/lexique/bateau.mp3",
+      "texte": "bateau",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "501b81f9",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.bebe": {
+      "fichier": "qc/sylvie/lexique/bebe.mp3",
+      "texte": "bébé",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "84571b2a",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.beurre": {
+      "fichier": "qc/sylvie/lexique/beurre.mp3",
+      "texte": "beurre",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "44dfa4ec",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.bleu": {
+      "fichier": "qc/sylvie/lexique/bleu.mp3",
+      "texte": "bleu",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1688450a",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.bonbon": {
+      "fichier": "qc/sylvie/lexique/bonbon.mp3",
+      "texte": "bonbon",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "54d5af38",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.bottes": {
+      "fichier": "qc/sylvie/lexique/bottes.mp3",
+      "texte": "bottes",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0842907f",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.bougie": {
+      "fichier": "qc/sylvie/lexique/bougie.mp3",
+      "texte": "bougie",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1c69adb9",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.bus": {
+      "fichier": "qc/sylvie/lexique/bus.mp3",
+      "texte": "bus",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b4260875",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.cadeau": {
+      "fichier": "qc/sylvie/lexique/cadeau.mp3",
+      "texte": "cadeau",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1521ae92",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.cafe": {
+      "fichier": "qc/sylvie/lexique/cafe.mp3",
+      "texte": "café",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "07165aa1",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.caillou": {
+      "fichier": "qc/sylvie/lexique/caillou.mp3",
+      "texte": "caillou",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1a3ba00a",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.calin": {
+      "fichier": "qc/sylvie/lexique/calin.mp3",
+      "texte": "un câlin",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "23a7b7bd",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.camion": {
+      "fichier": "qc/sylvie/lexique/camion.mp3",
+      "texte": "camion",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "952bd8c7",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.casier": {
+      "fichier": "qc/sylvie/lexique/casier.mp3",
+      "texte": "la case",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "bb83fbfd",
+      "statut": "genere",
+      "octets": 11808,
+      "dureeMs": null
+    },
+    "lex.casquette": {
+      "fichier": "qc/sylvie/lexique/casquette.mp3",
+      "texte": "casquette",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e408e842",
+      "statut": "genere",
+      "octets": 11808,
+      "dureeMs": null
+    },
+    "lex.chapeau": {
+      "fichier": "qc/sylvie/lexique/chapeau.mp3",
+      "texte": "chapeau",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fa6ae84a",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.chat": {
+      "fichier": "qc/sylvie/lexique/chat.mp3",
+      "texte": "chat",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "06c9c067",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.chateau": {
+      "fichier": "qc/sylvie/lexique/chateau.mp3",
+      "texte": "château",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9521bac7",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.chaussette": {
+      "fichier": "qc/sylvie/lexique/chaussette.mp3",
+      "texte": "chaussette",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5f83db8e",
+      "statut": "genere",
+      "octets": 11520,
+      "dureeMs": null
+    },
+    "lex.chemin": {
+      "fichier": "qc/sylvie/lexique/chemin.mp3",
+      "texte": "chemin",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "747e2dc4",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.chenille": {
+      "fichier": "qc/sylvie/lexique/chenille.mp3",
+      "texte": "chenille",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "3fe86cc1",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.chocolat": {
+      "fichier": "qc/sylvie/lexique/chocolat.mp3",
+      "texte": "chocolat",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0d52b782",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.chou": {
+      "fichier": "qc/sylvie/lexique/chou.mp3",
+      "texte": "chou",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "170b8176",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.cinq": {
+      "fichier": "qc/sylvie/lexique/cinq.mp3",
+      "texte": "5",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "69ddb4aa",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.cochon": {
+      "fichier": "qc/sylvie/lexique/cochon.mp3",
+      "texte": "cochon",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1746ff27",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.coeur": {
+      "fichier": "qc/sylvie/lexique/coeur.mp3",
+      "texte": "cœur",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9f332083",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.couleur": {
+      "fichier": "qc/sylvie/lexique/couleur.mp3",
+      "texte": "couleur",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7e815a76",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.couteau": {
+      "fichier": "qc/sylvie/lexique/couteau.mp3",
+      "texte": "le couteau",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "746a7558",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.crevette": {
+      "fichier": "qc/sylvie/lexique/crevette.mp3",
+      "texte": "crevette",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f5c8a726",
+      "statut": "genere",
+      "octets": 11664,
+      "dureeMs": null
+    },
+    "lex.dans": {
+      "fichier": "qc/sylvie/lexique/dans.mp3",
+      "texte": "dans",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "58e700ae",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.demander": {
+      "fichier": "qc/sylvie/lexique/demander.mp3",
+      "texte": "demander gentiment",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4789d099",
+      "statut": "genere",
+      "octets": 13968,
+      "dureeMs": null
+    },
+    "lex.derriere": {
+      "fichier": "qc/sylvie/lexique/derriere.mp3",
+      "texte": "derrière",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "63fd33a9",
+      "statut": "genere",
+      "octets": 12096,
+      "dureeMs": null
+    },
+    "lex.deux": {
+      "fichier": "qc/sylvie/lexique/deux.mp3",
+      "texte": "2",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b97c32fa",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.devant": {
+      "fichier": "qc/sylvie/lexique/devant.mp3",
+      "texte": "devant",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "947f1a8c",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.dix": {
+      "fichier": "qc/sylvie/lexique/dix.mp3",
+      "texte": "10",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "cdae14aa",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.dormir": {
+      "fichier": "qc/sylvie/lexique/dormir.mp3",
+      "texte": "dormir",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "456482be",
+      "statut": "genere",
+      "octets": 11664,
+      "dureeMs": null
+    },
+    "lex.doudou": {
+      "fichier": "qc/sylvie/lexique/doudou.mp3",
+      "texte": "doudou",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1e8e977b",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.doux": {
+      "fichier": "qc/sylvie/lexique/doux.mp3",
+      "texte": "doux",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a2419a94",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.droite": {
+      "fichier": "qc/sylvie/lexique/droite.mp3",
+      "texte": "à droite",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "bcdeeb58",
+      "statut": "genere",
+      "octets": 11520,
+      "dureeMs": null
+    },
+    "lex.eau": {
+      "fichier": "qc/sylvie/lexique/eau.mp3",
+      "texte": "eau",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "70bda04c",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.echarpe": {
+      "fichier": "qc/sylvie/lexique/echarpe.mp3",
+      "texte": "écharpe",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "42cf0858",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.ecouter": {
+      "fichier": "qc/sylvie/lexique/ecouter.mp3",
+      "texte": "écouter",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a0d62d1b",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.enfant": {
+      "fichier": "qc/sylvie/lexique/enfant.mp3",
+      "texte": "enfant",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "24e5d335",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.etoile": {
+      "fichier": "qc/sylvie/lexique/etoile.mp3",
+      "texte": "étoile",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "605ee6bb",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.fleur": {
+      "fichier": "qc/sylvie/lexique/fleur.mp3",
+      "texte": "fleur",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "79b08e95",
+      "statut": "genere",
+      "octets": 11376,
+      "dureeMs": null
+    },
+    "lex.forme_carre": {
+      "fichier": "qc/sylvie/lexique/forme_carre.mp3",
+      "texte": "le carré",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "92839d89",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.forme_losange": {
+      "fichier": "qc/sylvie/lexique/forme_losange.mp3",
+      "texte": "le losange",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4f110971",
+      "statut": "genere",
+      "octets": 12240,
+      "dureeMs": null
+    },
+    "lex.forme_rond": {
+      "fichier": "qc/sylvie/lexique/forme_rond.mp3",
+      "texte": "le rond",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "658f8f27",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.forme_triangle": {
+      "fichier": "qc/sylvie/lexique/forme_triangle.mp3",
+      "texte": "le triangle",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5bd63e7a",
+      "statut": "genere",
+      "octets": 12240,
+      "dureeMs": null
+    },
+    "lex.fort": {
+      "fichier": "qc/sylvie/lexique/fort.mp3",
+      "texte": "fort",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "86144c5e",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.fourchette": {
+      "fichier": "qc/sylvie/lexique/fourchette.mp3",
+      "texte": "fourchette",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9f75081a",
+      "statut": "genere",
+      "octets": 11664,
+      "dureeMs": null
+    },
+    "lex.fraise": {
+      "fichier": "qc/sylvie/lexique/fraise.mp3",
+      "texte": "une fraise",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "699eda1b",
+      "statut": "genere",
+      "octets": 11808,
+      "dureeMs": null
+    },
+    "lex.frotter": {
+      "fichier": "qc/sylvie/lexique/frotter.mp3",
+      "texte": "frotter les mains",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6449eb00",
+      "statut": "genere",
+      "octets": 11952,
+      "dureeMs": null
+    },
+    "lex.fusee": {
+      "fichier": "qc/sylvie/lexique/fusee.mp3",
+      "texte": "fusée",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2dd7fc10",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.gateau": {
+      "fichier": "qc/sylvie/lexique/gateau.mp3",
+      "texte": "gâteau",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "40d582dd",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.gauche": {
+      "fichier": "qc/sylvie/lexique/gauche.mp3",
+      "texte": "à gauche",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0d57dfa8",
+      "statut": "genere",
+      "octets": 11376,
+      "dureeMs": null
+    },
+    "lex.genou": {
+      "fichier": "qc/sylvie/lexique/genou.mp3",
+      "texte": "genou",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c52e3880",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.gougounes": {
+      "fichier": "qc/sylvie/lexique/gougounes.mp3",
+      "texte": "gougounes",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "87a58f78",
+      "statut": "genere",
+      "octets": 11376,
+      "dureeMs": null
+    },
+    "lex.graine": {
+      "fichier": "qc/sylvie/lexique/graine.mp3",
+      "texte": "graine",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ec65477b",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.grelot": {
+      "fichier": "qc/sylvie/lexique/grelot.mp3",
+      "texte": "le grelot",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ba89dd50",
+      "statut": "genere",
+      "octets": 11664,
+      "dureeMs": null
+    },
+    "lex.grenouille": {
+      "fichier": "qc/sylvie/lexique/grenouille.mp3",
+      "texte": "la grenouille",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ec9f35dd",
+      "statut": "genere",
+      "octets": 12240,
+      "dureeMs": null
+    },
+    "lex.haut": {
+      "fichier": "qc/sylvie/lexique/haut.mp3",
+      "texte": "en haut",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e827ee6f",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.hibou": {
+      "fichier": "qc/sylvie/lexique/hibou.mp3",
+      "texte": "hibou",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8d0013c3",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.huit": {
+      "fichier": "qc/sylvie/lexique/huit.mp3",
+      "texte": "8",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b106d93b",
+      "statut": "genere",
+      "octets": 9936,
+      "dureeMs": null
+    },
+    "lex.jaune": {
+      "fichier": "qc/sylvie/lexique/jaune.mp3",
+      "texte": "jaune",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1e7e5b3e",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.lapin": {
+      "fichier": "qc/sylvie/lexique/lapin.mp3",
+      "texte": "lapin",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a52d865a",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.lit": {
+      "fichier": "qc/sylvie/lexique/lit.mp3",
+      "texte": "lit",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6b0efcd4",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.livre": {
+      "fichier": "qc/sylvie/lexique/livre.mp3",
+      "texte": "le livre",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "35cf5377",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.loup": {
+      "fichier": "qc/sylvie/lexique/loup.mp3",
+      "texte": "loup",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1fc9f7dd",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.lunch": {
+      "fichier": "qc/sylvie/lexique/lunch.mp3",
+      "texte": "lunch",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "758dec9c",
+      "statut": "genere",
+      "octets": 11664,
+      "dureeMs": null
+    },
+    "lex.lune": {
+      "fichier": "qc/sylvie/lexique/lune.mp3",
+      "texte": "lune",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ae5dc177",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.lunettes": {
+      "fichier": "qc/sylvie/lexique/lunettes.mp3",
+      "texte": "lunettes de soleil",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e9384330",
+      "statut": "genere",
+      "octets": 14544,
+      "dureeMs": null
+    },
+    "lex.maillot": {
+      "fichier": "qc/sylvie/lexique/maillot.mp3",
+      "texte": "maillot de bain",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d0d9cb96",
+      "statut": "genere",
+      "octets": 11808,
+      "dureeMs": null
+    },
+    "lex.maison": {
+      "fichier": "qc/sylvie/lexique/maison.mp3",
+      "texte": "maison",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e7a93971",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.manteau": {
+      "fichier": "qc/sylvie/lexique/manteau.mp3",
+      "texte": "manteau",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "09166dd8",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.marcher": {
+      "fichier": "qc/sylvie/lexique/marcher.mp3",
+      "texte": "marcher",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "14870ccb",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.matin": {
+      "fichier": "qc/sylvie/lexique/matin.mp3",
+      "texte": "matin",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7e963aa9",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.mitaines": {
+      "fichier": "qc/sylvie/lexique/mitaines.mp3",
+      "texte": "mitaines",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "35f500c3",
+      "statut": "genere",
+      "octets": 11376,
+      "dureeMs": null
+    },
+    "lex.monstre": {
+      "fichier": "qc/sylvie/lexique/monstre.mp3",
+      "texte": "le monstre",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b62e350c",
+      "statut": "genere",
+      "octets": 12096,
+      "dureeMs": null
+    },
+    "lex.monstre_dodo": {
+      "fichier": "qc/sylvie/lexique/monstre_dodo.mp3",
+      "texte": "le monstre dort",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "32a53605",
+      "statut": "genere",
+      "octets": 13824,
+      "dureeMs": null
+    },
+    "lex.moto": {
+      "fichier": "qc/sylvie/lexique/moto.mp3",
+      "texte": "moto",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "de565f74",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.mouton": {
+      "fichier": "qc/sylvie/lexique/mouton.mp3",
+      "texte": "mouton",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "051de632",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.neige": {
+      "fichier": "qc/sylvie/lexique/neige.mp3",
+      "texte": "neige",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d7d7a7ed",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.neuf": {
+      "fichier": "qc/sylvie/lexique/neuf.mp3",
+      "texte": "9",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c8a641e6",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.nez": {
+      "fichier": "qc/sylvie/lexique/nez.mp3",
+      "texte": "nez",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ea7d774c",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.nid": {
+      "fichier": "qc/sylvie/lexique/nid.mp3",
+      "texte": "nid",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9dc5013c",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.nuage": {
+      "fichier": "qc/sylvie/lexique/nuage.mp3",
+      "texte": "nuage",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ce01c931",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.oeuf": {
+      "fichier": "qc/sylvie/lexique/oeuf.mp3",
+      "texte": "œuf",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c61219d4",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.oiseau": {
+      "fichier": "qc/sylvie/lexique/oiseau.mp3",
+      "texte": "oiseau",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "06ebd7a8",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.orange": {
+      "fichier": "qc/sylvie/lexique/orange.mp3",
+      "texte": "orange",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "057f1916",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.ours": {
+      "fichier": "qc/sylvie/lexique/ours.mp3",
+      "texte": "l'ours",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "611286c5",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.panneau_stop": {
+      "fichier": "qc/sylvie/lexique/panneau_stop.mp3",
+      "texte": "le panneau stop",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "35ade2e9",
+      "statut": "genere",
+      "octets": 13248,
+      "dureeMs": null
+    },
+    "lex.papa": {
+      "fichier": "qc/sylvie/lexique/papa.mp3",
+      "texte": "papa",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "673dbf76",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.papillon": {
+      "fichier": "qc/sylvie/lexique/papillon.mp3",
+      "texte": "papillon",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b7de0a6a",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.parapluie": {
+      "fichier": "qc/sylvie/lexique/parapluie.mp3",
+      "texte": "parapluie",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "63a2b9b0",
+      "statut": "genere",
+      "octets": 11376,
+      "dureeMs": null
+    },
+    "lex.pied": {
+      "fichier": "qc/sylvie/lexique/pied.mp3",
+      "texte": "pied",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b01f3afb",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.pizza": {
+      "fichier": "qc/sylvie/lexique/pizza.mp3",
+      "texte": "pizza",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "85a6a25d",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.pluie": {
+      "fichier": "qc/sylvie/lexique/pluie.mp3",
+      "texte": "la pluie",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0d593fa2",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.poisson": {
+      "fichier": "qc/sylvie/lexique/poisson.mp3",
+      "texte": "poisson",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8393da22",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.pomme": {
+      "fichier": "qc/sylvie/lexique/pomme.mp3",
+      "texte": "pomme",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9fe499c7",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.pot": {
+      "fichier": "qc/sylvie/lexique/pot.mp3",
+      "texte": "pot",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e87409f6",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.poule": {
+      "fichier": "qc/sylvie/lexique/poule.mp3",
+      "texte": "poule",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "3e2e90ba",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.poupee": {
+      "fichier": "qc/sylvie/lexique/poupee.mp3",
+      "texte": "poupée",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7487c429",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.poussin": {
+      "fichier": "qc/sylvie/lexique/poussin.mp3",
+      "texte": "poussin",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8a0e640a",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.quatre": {
+      "fichier": "qc/sylvie/lexique/quatre.mp3",
+      "texte": "4",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1504ded3",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.raisin": {
+      "fichier": "qc/sylvie/lexique/raisin.mp3",
+      "texte": "du raisin",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a1c4a10d",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.rat": {
+      "fichier": "qc/sylvie/lexique/rat.mp3",
+      "texte": "rat",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c4513e2e",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.recommencer": {
+      "fichier": "qc/sylvie/lexique/recommencer.mp3",
+      "texte": "recommencer",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "cb983a66",
+      "statut": "genere",
+      "octets": 12672,
+      "dureeMs": null
+    },
+    "lex.regarder": {
+      "fichier": "qc/sylvie/lexique/regarder.mp3",
+      "texte": "regarder",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "137a86f0",
+      "statut": "genere",
+      "octets": 11664,
+      "dureeMs": null
+    },
+    "lex.respirer": {
+      "fichier": "qc/sylvie/lexique/respirer.mp3",
+      "texte": "respirer",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c80fb6dc",
+      "statut": "genere",
+      "octets": 11520,
+      "dureeMs": null
+    },
+    "lex.robinet": {
+      "fichier": "qc/sylvie/lexique/robinet.mp3",
+      "texte": "le robinet",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1f3c19d3",
+      "statut": "genere",
+      "octets": 11376,
+      "dureeMs": null
+    },
+    "lex.rouge": {
+      "fichier": "qc/sylvie/lexique/rouge.mp3",
+      "texte": "rouge",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7dbfa890",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.sac": {
+      "fichier": "qc/sylvie/lexique/sac.mp3",
+      "texte": "sac à dos",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c5201784",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.sapin": {
+      "fichier": "qc/sylvie/lexique/sapin.mp3",
+      "texte": "sapin",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "641c4b32",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.savon": {
+      "fichier": "qc/sylvie/lexique/savon.mp3",
+      "texte": "le savon",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "99abdb8d",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.sept": {
+      "fichier": "qc/sylvie/lexique/sept.mp3",
+      "texte": "7",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "22d0cd9a",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.serpent": {
+      "fichier": "qc/sylvie/lexique/serpent.mp3",
+      "texte": "le serpent",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b84ab9ee",
+      "statut": "genere",
+      "octets": 11664,
+      "dureeMs": null
+    },
+    "lex.six": {
+      "fichier": "qc/sylvie/lexique/six.mp3",
+      "texte": "6",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "053a0322",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.soleil": {
+      "fichier": "qc/sylvie/lexique/soleil.mp3",
+      "texte": "soleil",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f289f863",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.souliers": {
+      "fichier": "qc/sylvie/lexique/souliers.mp3",
+      "texte": "souliers",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fb844ac0",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.souris": {
+      "fichier": "qc/sylvie/lexique/souris.mp3",
+      "texte": "souris",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "940e50d4",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.stop": {
+      "fichier": "qc/sylvie/lexique/stop.mp3",
+      "texte": "dire stop",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ec17adef",
+      "statut": "genere",
+      "octets": 11808,
+      "dureeMs": null
+    },
+    "lex.tambour": {
+      "fichier": "qc/sylvie/lexique/tambour.mp3",
+      "texte": "le tambour",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4ee4acd5",
+      "statut": "genere",
+      "octets": 11664,
+      "dureeMs": null
+    },
+    "lex.tigre": {
+      "fichier": "qc/sylvie/lexique/tigre.mp3",
+      "texte": "le tigre",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "bb1224b5",
+      "statut": "genere",
+      "octets": 11376,
+      "dureeMs": null
+    },
+    "lex.train": {
+      "fichier": "qc/sylvie/lexique/train.mp3",
+      "texte": "le train",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "837352af",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.trois": {
+      "fichier": "qc/sylvie/lexique/trois.mp3",
+      "texte": "3",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "56dae821",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.un": {
+      "fichier": "qc/sylvie/lexique/un.mp3",
+      "texte": "1",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f81594e7",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.vache": {
+      "fichier": "qc/sylvie/lexique/vache.mp3",
+      "texte": "la vache",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c3d38335",
+      "statut": "genere",
+      "octets": 11952,
+      "dureeMs": null
+    },
+    "lex.velo": {
+      "fichier": "qc/sylvie/lexique/velo.mp3",
+      "texte": "vélo",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4dc7ddb0",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.vent": {
+      "fichier": "qc/sylvie/lexique/vent.mp3",
+      "texte": "le vent",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7a94061d",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.verre": {
+      "fichier": "qc/sylvie/lexique/verre.mp3",
+      "texte": "verre",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8b2728a4",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.vert": {
+      "fichier": "qc/sylvie/lexique/vert.mp3",
+      "texte": "vert",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f3f6ca98",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.violet": {
+      "fichier": "qc/sylvie/lexique/violet.mp3",
+      "texte": "violet",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "61f96c4a",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.visage_colere": {
+      "fichier": "qc/sylvie/lexique/visage_colere.mp3",
+      "texte": "fâché",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f36180d5",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.visage_content": {
+      "fichier": "qc/sylvie/lexique/visage_content.mp3",
+      "texte": "content",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a6e27320",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.visage_peur": {
+      "fichier": "qc/sylvie/lexique/visage_peur.mp3",
+      "texte": "peur",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "609b03c4",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.visage_triste": {
+      "fichier": "qc/sylvie/lexique/visage_triste.mp3",
+      "texte": "triste",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e223a5b9",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "mains.comptine": {
+      "fichier": "qc/sylvie/consignes/mains/comptine.mp3",
+      "texte": "On mouille les mains, on savonne, on frotte partout pendant vingt secondes, puis on rince. Ensuite, on ferme le robinet et on sèche les mains avec une serviette propre. Bravo !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "99374e71",
+      "statut": "genere",
+      "octets": 80064,
+      "dureeMs": null
+    },
+    "milo.1.debut": {
+      "fichier": "qc/sylvie/consignes/milo/1.debut.mp3",
+      "texte": "Milo joue avec son ballon. Le ballon s'envole dans le ciel et disparaît !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "79610a3a",
+      "statut": "genere",
+      "octets": 36720,
+      "dureeMs": null
+    },
+    "milo.10.debut": {
+      "fichier": "qc/sylvie/consignes/milo/10.debut.mp3",
+      "texte": "L’ami de Milo doit rentrer à la maison. Milo est triste de lui dire au revoir.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a7e16028",
+      "statut": "genere",
+      "octets": 40896,
+      "dureeMs": null
+    },
+    "milo.2.debut": {
+      "fichier": "qc/sylvie/consignes/milo/2.debut.mp3",
+      "texte": "Milo veut un biscuit, mais la boîte est vide. Il n'y a plus rien !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f64e74fe",
+      "statut": "genere",
+      "octets": 34848,
+      "dureeMs": null
+    },
+    "milo.3.debut": {
+      "fichier": "qc/sylvie/consignes/milo/3.debut.mp3",
+      "texte": "Il fait tout noir. Milo entend un grand bruit : BOUUM !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c00d22eb",
+      "statut": "genere",
+      "octets": 33984,
+      "dureeMs": null
+    },
+    "milo.4.debut": {
+      "fichier": "qc/sylvie/consignes/milo/4.debut.mp3",
+      "texte": "Milo fait un casse-tête. Le morceau ne rentre pas, et il tombe par terre.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5322659d",
+      "statut": "genere",
+      "octets": 39888,
+      "dureeMs": null
+    },
+    "milo.5.debut": {
+      "fichier": "qc/sylvie/consignes/milo/5.debut.mp3",
+      "texte": "Milo retrouve son ami au parc. Il sourit et se sent content.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1ac03f3f",
+      "statut": "genere",
+      "octets": 36288,
+      "dureeMs": null
+    },
+    "milo.6.debut": {
+      "fichier": "qc/sylvie/consignes/milo/6.debut.mp3",
+      "texte": "Milo a fini sa tour de blocs. Il est content de ce qu’il a construit.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0eb0801a",
+      "statut": "genere",
+      "octets": 36144,
+      "dureeMs": null
+    },
+    "milo.7.debut": {
+      "fichier": "qc/sylvie/consignes/milo/7.debut.mp3",
+      "texte": "La tour de Milo tombe. Il est déçu et se sent triste.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a542493d",
+      "statut": "genere",
+      "octets": 31392,
+      "dureeMs": null
+    },
+    "milo.8.debut": {
+      "fichier": "qc/sylvie/consignes/milo/8.debut.mp3",
+      "texte": "Milo entend le tonnerre. Il a peur et veut rester près de son papa.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "68ee1983",
+      "statut": "genere",
+      "octets": 35280,
+      "dureeMs": null
+    },
+    "milo.9.debut": {
+      "fichier": "qc/sylvie/consignes/milo/9.debut.mp3",
+      "texte": "Milo essaie de fermer son manteau. Ça bloque et il commence à se fâcher.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "29f436d6",
+      "statut": "genere",
+      "octets": 36000,
+      "dureeMs": null
+    },
+    "mot.dort": {
+      "fichier": "qc/sylvie/consignes/phrase/mot.dort.mp3",
+      "texte": "dort",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "da60f9fe",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "mot.joue": {
+      "fichier": "qc/sylvie/consignes/phrase/mot.joue.mp3",
+      "texte": "joue",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "731d05b7",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "mot.mange": {
+      "fichier": "qc/sylvie/consignes/phrase/mot.mange.mp3",
+      "texte": "mange",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "cc305d4f",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "mots.1.debut": {
+      "fichier": "qc/sylvie/consignes/mots/1.debut.mp3",
+      "texte": "Milo veut jouer avec le ballon de son ami. Son ami le tient dans ses bras.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5bcb07d2",
+      "statut": "genere",
+      "octets": 37296,
+      "dureeMs": null
+    },
+    "mots.2.debut": {
+      "fichier": "qc/sylvie/consignes/mots/2.debut.mp3",
+      "texte": "Un ami bouscule Milo sans faire exprès. Ça ne fait pas mal, mais Milo n'aime pas ça.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "45da9bea",
+      "statut": "genere",
+      "octets": 41328,
+      "dureeMs": null
+    },
+    "mots.3.debut": {
+      "fichier": "qc/sylvie/consignes/mots/3.debut.mp3",
+      "texte": "Milo attend son tour à la glissoire. Un ami passe devant lui.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "bdd8b177",
+      "statut": "genere",
+      "octets": 35136,
+      "dureeMs": null
+    },
+    "mots.4.debut": {
+      "fichier": "qc/sylvie/consignes/mots/4.debut.mp3",
+      "texte": "Milo n’arrive pas à fermer son manteau. Il voudrait que son papa l’aide.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "46a57743",
+      "statut": "genere",
+      "octets": 36144,
+      "dureeMs": null
+    },
+    "mots.5.debut": {
+      "fichier": "qc/sylvie/consignes/mots/5.debut.mp3",
+      "texte": "Un ami veut faire un câlin à Milo. Milo ne veut pas de câlin maintenant.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "359812ad",
+      "statut": "genere",
+      "octets": 36144,
+      "dureeMs": null
+    },
+    "mots.6.debut": {
+      "fichier": "qc/sylvie/consignes/mots/6.debut.mp3",
+      "texte": "Son ami joue encore sur la balançoire. Milo est d’accord pour jouer après lui.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "03492e40",
+      "statut": "genere",
+      "octets": 41184,
+      "dureeMs": null
+    },
+    "mots.7.debut": {
+      "fichier": "qc/sylvie/consignes/mots/7.debut.mp3",
+      "texte": "Milo voudrait le crayon bleu. Il appartient à son amie, qui a fini de dessiner.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a567b3c9",
+      "statut": "genere",
+      "octets": 40896,
+      "dureeMs": null
+    },
+    "mots.8.debut": {
+      "fichier": "qc/sylvie/consignes/mots/8.debut.mp3",
+      "texte": "Un ami chatouille Milo. Milo ne trouve plus ça amusant et veut que ça s’arrête.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c7fde063",
+      "statut": "genere",
+      "octets": 38160,
+      "dureeMs": null
+    },
+    "mots.9.debut": {
+      "fichier": "qc/sylvie/consignes/mots/9.debut.mp3",
+      "texte": "Milo ne comprend pas son casse-tête. Il voudrait qu’un adulte lui montre comment commencer.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0cdab8ec",
+      "statut": "genere",
+      "octets": 42624,
+      "dureeMs": null
+    },
+    "ordres.1.dit": {
+      "fichier": "qc/sylvie/consignes/ordres/1.dit.mp3",
+      "texte": "Prends le ballon, et va le porter jusqu'à la maison !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "888ac05d",
+      "statut": "genere",
+      "octets": 23760,
+      "dureeMs": null
+    },
+    "ordres.1.fin": {
+      "fichier": "qc/sylvie/consignes/ordres/1.fin.mp3",
+      "texte": "Le ballon est arrivé à la maison !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4956d179",
+      "statut": "genere",
+      "octets": 18144,
+      "dureeMs": null
+    },
+    "ordres.2.dit": {
+      "fichier": "qc/sylvie/consignes/ordres/2.dit.mp3",
+      "texte": "Le chat a faim. Prends le chat, puis donne-lui son assiette !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "35c91904",
+      "statut": "genere",
+      "octets": 32400,
+      "dureeMs": null
+    },
+    "ordres.2.fin": {
+      "fichier": "qc/sylvie/consignes/ordres/2.fin.mp3",
+      "texte": "Le chat mange dans son assiette. Miam !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b976c042",
+      "statut": "genere",
+      "octets": 27072,
+      "dureeMs": null
+    },
+    "ordres.3.dit": {
+      "fichier": "qc/sylvie/consignes/ordres/3.dit.mp3",
+      "texte": "Prends le ballon, mets-le dans le sac, puis prends ton toutou !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "16f7fa2a",
+      "statut": "genere",
+      "octets": 27216,
+      "dureeMs": null
+    },
+    "ordres.3.fin": {
+      "fichier": "qc/sylvie/consignes/ordres/3.fin.mp3",
+      "texte": "Tu as tout pris : le ballon dans le sac, et le toutou !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e85d5cdb",
+      "statut": "genere",
+      "octets": 25344,
+      "dureeMs": null
+    },
+    "ordres.4.dit": {
+      "fichier": "qc/sylvie/consignes/ordres/4.dit.mp3",
+      "texte": "Prends la fleur, donne-lui de l'eau, puis mets-la au soleil !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d35c34a7",
+      "statut": "genere",
+      "octets": 27792,
+      "dureeMs": null
+    },
+    "ordres.4.fin": {
+      "fichier": "qc/sylvie/consignes/ordres/4.fin.mp3",
+      "texte": "La fleur a de l'eau et du soleil. Elle est contente !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "acf816a5",
+      "statut": "genere",
+      "octets": 31104,
+      "dureeMs": null
+    },
+    "phrase.chat.dite": {
+      "fichier": "qc/sylvie/consignes/phrase/chat.dite.mp3",
+      "texte": "Le chat mange la pomme !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9612208a",
+      "statut": "genere",
+      "octets": 14400,
+      "dureeMs": null
+    },
+    "phrase.lapin.dite": {
+      "fichier": "qc/sylvie/consignes/phrase/lapin.dite.mp3",
+      "texte": "Le lapin dort dans son lit !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "810107fb",
+      "statut": "genere",
+      "octets": 15984,
+      "dureeMs": null
+    },
+    "phrase.poussin.dite": {
+      "fichier": "qc/sylvie/consignes/phrase/poussin.dite.mp3",
+      "texte": "Le poussin dort dans son nid !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "3f7d2e3d",
+      "statut": "genere",
+      "octets": 16128,
+      "dureeMs": null
+    },
+    "phrase.souris.dite": {
+      "fichier": "qc/sylvie/consignes/phrase/souris.dite.mp3",
+      "texte": "La souris joue avec le doudou !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8fef83e5",
+      "statut": "genere",
+      "octets": 17136,
+      "dureeMs": null
+    },
+    "phrase.vache.dite": {
+      "fichier": "qc/sylvie/consignes/phrase/vache.dite.mp3",
+      "texte": "La vache mange le chou !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e9c886ef",
+      "statut": "genere",
+      "octets": 14256,
+      "dureeMs": null
+    },
+    "reaction.abeille": {
+      "fichier": "qc/sylvie/consignes/bouche/reaction.abeille.mp3",
+      "texte": "L'abeille butine : zzzzz !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7582abdd",
+      "statut": "genere",
+      "octets": 23184,
+      "dureeMs": null
+    },
+    "reaction.loup": {
+      "fichier": "qc/sylvie/consignes/bouche/reaction.loup.mp3",
+      "texte": "Le loup répond : ouuuu !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a1684ab4",
+      "statut": "genere",
+      "octets": 18000,
+      "dureeMs": null
+    },
+    "reaction.serpent": {
+      "fichier": "qc/sylvie/consignes/bouche/reaction.serpent.mp3",
+      "texte": "Le serpent aime ça ! Regarde-le danser.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "23547016",
+      "statut": "genere",
+      "octets": 27792,
+      "dureeMs": null
+    },
+    "reaction.tigre": {
+      "fichier": "qc/sylvie/consignes/bouche/reaction.tigre.mp3",
+      "texte": "Le tigre grogne : rrrrr !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6558c154",
+      "statut": "genere",
+      "octets": 22608,
+      "dureeMs": null
+    },
+    "reaction.train": {
+      "fichier": "qc/sylvie/consignes/bouche/reaction.train.mp3",
+      "texte": "Le train roule : chhhhh !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "dfe1a7d5",
+      "statut": "genere",
+      "octets": 22752,
+      "dureeMs": null
+    },
+    "reaction.vache": {
+      "fichier": "qc/sylvie/consignes/bouche/reaction.vache.mp3",
+      "texte": "La vache meugle : mmmmm !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b73b1237",
+      "statut": "genere",
+      "octets": 20016,
+      "dureeMs": null
+    },
+    "recette.fin": {
+      "fichier": "qc/sylvie/consignes/recette/fin.mp3",
+      "texte": "La pomme est lavée et l’adulte l’a coupée. Les morceaux sont prêts dans l’assiette. Miam !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5208d167",
+      "statut": "genere",
+      "octets": 46944,
+      "dureeMs": null
+    },
+    "recette.fin_securite": {
+      "fichier": "qc/sylvie/consignes/recette/fin_securite.mp3",
+      "texte": "Le fruit est lavé, l’adulte l’a préparé et les morceaux sont dans l’assiette. Bon appétit !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "beb40a76",
+      "statut": "genere",
+      "octets": 44352,
+      "dureeMs": null
+    },
+    "retour.bravo.1": {
+      "fichier": "qc/sylvie/retours/bravo.1.mp3",
+      "texte": "Bravo !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "+5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "81879c8e",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "retour.bravo.2": {
+      "fichier": "qc/sylvie/retours/bravo.2.mp3",
+      "texte": "Super !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "+5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "c8f16173",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "retour.bravo.3": {
+      "fichier": "qc/sylvie/retours/bravo.3.mp3",
+      "texte": "Oui, c'est ça !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "+5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "db36a59c",
+      "statut": "genere",
+      "octets": 11664,
+      "dureeMs": null
+    },
+    "retour.bravo.4": {
+      "fichier": "qc/sylvie/retours/bravo.4.mp3",
+      "texte": "Excellent !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "+5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "6466b298",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "retour.bravo.5": {
+      "fichier": "qc/sylvie/retours/bravo.5.mp3",
+      "texte": "Wow, bien joué !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "+5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "18784d0f",
+      "statut": "genere",
+      "octets": 13104,
+      "dureeMs": null
+    },
+    "retour.encore.1": {
+      "fichier": "qc/sylvie/retours/encore.1.mp3",
+      "texte": "Presque ! On écoute encore.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "200826e4",
+      "statut": "genere",
+      "octets": 22752,
+      "dureeMs": null
+    },
+    "retour.encore.2": {
+      "fichier": "qc/sylvie/retours/encore.2.mp3",
+      "texte": "Hmm, essaie encore.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "2d39ba9c",
+      "statut": "genere",
+      "octets": 15696,
+      "dureeMs": null
+    },
+    "retour.encore.3": {
+      "fichier": "qc/sylvie/retours/encore.3.mp3",
+      "texte": "Pas tout à fait. Je te le redis.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "c9e59eec",
+      "statut": "genere",
+      "octets": 22752,
+      "dureeMs": null
+    },
+    "retour.fin.1": {
+      "fichier": "qc/sylvie/retours/fin.1.mp3",
+      "texte": "On a bien joué ! À tantôt !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "2d7fdb25",
+      "statut": "genere",
+      "octets": 22464,
+      "dureeMs": null
+    },
+    "retour.fin.2": {
+      "fichier": "qc/sylvie/retours/fin.2.mp3",
+      "texte": "C'était super. À la prochaine !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "7aba5688",
+      "statut": "genere",
+      "octets": 24192,
+      "dureeMs": null
+    },
+    "saut.1": {
+      "fichier": "qc/sylvie/consignes/grenouille/saut.1.mp3",
+      "texte": "Elle saute de un !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1cfeee08",
+      "statut": "genere",
+      "octets": 12384,
+      "dureeMs": null
+    },
+    "saut.2": {
+      "fichier": "qc/sylvie/consignes/grenouille/saut.2.mp3",
+      "texte": "Elle saute de deux !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0b7fb035",
+      "statut": "genere",
+      "octets": 13248,
+      "dureeMs": null
+    },
+    "saut.3": {
+      "fichier": "qc/sylvie/consignes/grenouille/saut.3.mp3",
+      "texte": "Elle saute de trois !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7b9eb753",
+      "statut": "genere",
+      "octets": 14112,
+      "dureeMs": null
+    },
+    "son.ch": {
+      "fichier": "qc/sylvie/consignes/bouche/son.ch.mp3",
+      "texte": "Chhhhh…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "25f148de",
+      "statut": "genere",
+      "octets": 17280,
+      "dureeMs": null
+    },
+    "son.lettre.b": {
+      "fichier": "qc/sylvie/consignes/motcache/son.lettre.b.mp3",
+      "texte": "Bbbb…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fac88903",
+      "statut": "genere",
+      "octets": 12384,
+      "dureeMs": null
+    },
+    "son.lettre.ch": {
+      "fichier": "qc/sylvie/consignes/motcache/son.lettre.ch.mp3",
+      "texte": "Chhhh…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8e92848e",
+      "statut": "genere",
+      "octets": 16128,
+      "dureeMs": null
+    },
+    "son.lettre.l": {
+      "fichier": "qc/sylvie/consignes/motcache/son.lettre.l.mp3",
+      "texte": "Llll…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d93ccb23",
+      "statut": "genere",
+      "octets": 12240,
+      "dureeMs": null
+    },
+    "son.lettre.m": {
+      "fichier": "qc/sylvie/consignes/motcache/son.lettre.m.mp3",
+      "texte": "Mmmm…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "afabac0a",
+      "statut": "genere",
+      "octets": 12528,
+      "dureeMs": null
+    },
+    "son.lettre.p": {
+      "fichier": "qc/sylvie/consignes/motcache/son.lettre.p.mp3",
+      "texte": "Pppp…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c30ac0c0",
+      "statut": "genere",
+      "octets": 11808,
+      "dureeMs": null
+    },
+    "son.lettre.s": {
+      "fichier": "qc/sylvie/consignes/motcache/son.lettre.s.mp3",
+      "texte": "Ssss…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "31ef2eec",
+      "statut": "genere",
+      "octets": 13824,
+      "dureeMs": null
+    },
+    "son.mmm": {
+      "fichier": "qc/sylvie/consignes/bouche/son.mmm.mp3",
+      "texte": "Mmmmm…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e106fc24",
+      "statut": "genere",
+      "octets": 13536,
+      "dureeMs": null
+    },
+    "son.ou": {
+      "fichier": "qc/sylvie/consignes/bouche/son.ou.mp3",
+      "texte": "Ouuuu…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "dd9b7cf9",
+      "statut": "genere",
+      "octets": 12816,
+      "dureeMs": null
+    },
+    "son.rrr": {
+      "fichier": "qc/sylvie/consignes/bouche/son.rrr.mp3",
+      "texte": "Rrrrrr…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "298ab6a8",
+      "statut": "genere",
+      "octets": 18432,
+      "dureeMs": null
+    },
+    "son.sss": {
+      "fichier": "qc/sylvie/consignes/bouche/son.sss.mp3",
+      "texte": "Sssssss…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f65c722d",
+      "statut": "genere",
+      "octets": 16560,
+      "dureeMs": null
+    },
+    "son.zzz": {
+      "fichier": "qc/sylvie/consignes/bouche/son.zzz.mp3",
+      "texte": "Zzzzzz…",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "350a7da5",
+      "statut": "genere",
+      "octets": 16128,
+      "dureeMs": null
+    },
+    "syll.avion.1": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.avion.1.mp3",
+      "texte": "a",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b2755c14",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.avion.2": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.avion.2.mp3",
+      "texte": "vion",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "77a1db91",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.ballon.1": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.ballon.1.mp3",
+      "texte": "bal",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "79e6b558",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.ballon.2": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.ballon.2.mp3",
+      "texte": "lon",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ed7aae1f",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.banane.1": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.banane.1.mp3",
+      "texte": "ba",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6f930f48",
+      "statut": "genere",
+      "octets": 9216,
+      "dureeMs": null
+    },
+    "syll.banane.2": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.banane.2.mp3",
+      "texte": "na",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e1959834",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.banane.3": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.banane.3.mp3",
+      "texte": "ne",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7942fb20",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.bateau.1": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.bateau.1.mp3",
+      "texte": "ba",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6f930f48",
+      "statut": "genere",
+      "octets": 9216,
+      "dureeMs": null
+    },
+    "syll.bateau.2": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.bateau.2.mp3",
+      "texte": "teau",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9c2d9817",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.bonbon.1": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.bonbon.1.mp3",
+      "texte": "bon",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "41bfb1e4",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.bonbon.2": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.bonbon.2.mp3",
+      "texte": "bon",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "41bfb1e4",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.chapeau.1": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.chapeau.1.mp3",
+      "texte": "cha",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fb5e857d",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.chapeau.2": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.chapeau.2.mp3",
+      "texte": "peau",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4e7b4a38",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.chocolat.1": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.chocolat.1.mp3",
+      "texte": "cho",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9c1c9c68",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.chocolat.2": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.chocolat.2.mp3",
+      "texte": "co",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8550dd00",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.chocolat.3": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.chocolat.3.mp3",
+      "texte": "lat",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9a0fff91",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.doudou.1": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.doudou.1.mp3",
+      "texte": "dou",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fc8dcf58",
+      "statut": "genere",
+      "octets": 9360,
+      "dureeMs": null
+    },
+    "syll.doudou.2": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.doudou.2.mp3",
+      "texte": "dou",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fc8dcf58",
+      "statut": "genere",
+      "octets": 9360,
+      "dureeMs": null
+    },
+    "syll.gateau.1": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.gateau.1.mp3",
+      "texte": "ga",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "712f87ab",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.gateau.2": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.gateau.2.mp3",
+      "texte": "teau",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9c2d9817",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.lapin.1": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.lapin.1.mp3",
+      "texte": "la",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "db14a099",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.lapin.2": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.lapin.2.mp3",
+      "texte": "pin",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9d7c7412",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.mouton.1": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.mouton.1.mp3",
+      "texte": "mou",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "dec73a82",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.mouton.2": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.mouton.2.mp3",
+      "texte": "ton",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1e1c7dcc",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.pantalon.1": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.pantalon.1.mp3",
+      "texte": "pan",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "bbd5a44e",
+      "statut": "genere",
+      "octets": 11664,
+      "dureeMs": null
+    },
+    "syll.pantalon.2": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.pantalon.2.mp3",
+      "texte": "ta",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2d2aff2f",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.pantalon.3": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.pantalon.3.mp3",
+      "texte": "lon",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ed7aae1f",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.pizza.1": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.pizza.1.mp3",
+      "texte": "piz",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a4a417f8",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.pizza.2": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.pizza.2.mp3",
+      "texte": "za",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0c7bd31b",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.poisson.1": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.poisson.1.mp3",
+      "texte": "pois",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ac1d69ac",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.poisson.2": {
+      "fichier": "qc/sylvie/consignes/syllabes/syll.poisson.2.mp3",
+      "texte": "son",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "11cf8223",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.avion": {
+      "fichier": "qc/sylvie/consignes/syllabes/syllmot.avion.mp3",
+      "texte": "avion",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ab8b64fc",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.ballon": {
+      "fichier": "qc/sylvie/consignes/syllabes/syllmot.ballon.mp3",
+      "texte": "ballon",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fc50eacf",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.banane": {
+      "fichier": "qc/sylvie/consignes/syllabes/syllmot.banane.mp3",
+      "texte": "banane",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "67266933",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.bateau": {
+      "fichier": "qc/sylvie/consignes/syllabes/syllmot.bateau.mp3",
+      "texte": "bateau",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "501b81f9",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.bonbon": {
+      "fichier": "qc/sylvie/consignes/syllabes/syllmot.bonbon.mp3",
+      "texte": "bonbon",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "54d5af38",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.chapeau": {
+      "fichier": "qc/sylvie/consignes/syllabes/syllmot.chapeau.mp3",
+      "texte": "chapeau",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fa6ae84a",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.chocolat": {
+      "fichier": "qc/sylvie/consignes/syllabes/syllmot.chocolat.mp3",
+      "texte": "chocolat",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0d52b782",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.doudou": {
+      "fichier": "qc/sylvie/consignes/syllabes/syllmot.doudou.mp3",
+      "texte": "doudou",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1e8e977b",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.gateau": {
+      "fichier": "qc/sylvie/consignes/syllabes/syllmot.gateau.mp3",
+      "texte": "gâteau",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "40d582dd",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.lapin": {
+      "fichier": "qc/sylvie/consignes/syllabes/syllmot.lapin.mp3",
+      "texte": "lapin",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a52d865a",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.mouton": {
+      "fichier": "qc/sylvie/consignes/syllabes/syllmot.mouton.mp3",
+      "texte": "mouton",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "051de632",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.pantalon": {
+      "fichier": "qc/sylvie/consignes/syllabes/syllmot.pantalon.mp3",
+      "texte": "pantalon",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ea5380cf",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.pizza": {
+      "fichier": "qc/sylvie/consignes/syllabes/syllmot.pizza.mp3",
+      "texte": "pizza",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "85a6a25d",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.poisson": {
+      "fichier": "qc/sylvie/consignes/syllabes/syllmot.poisson.mp3",
+      "texte": "poisson",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8393da22",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "theatre.bravo": {
+      "fichier": "qc/sylvie/consignes/theatre/bravo.mp3",
+      "texte": "Quelle belle scène ! On la rejoue ?",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "04ded53d",
+      "statut": "genere",
+      "octets": 23472,
+      "dureeMs": null
+    },
+    "trace.bravo": {
+      "fichier": "qc/sylvie/retours/bravo.mp3",
+      "texte": "Bravo ! Tu as suivi tout le chemin !",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "+5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "acf9c9f4",
+      "statut": "genere",
+      "octets": 21744,
+      "dureeMs": null
+    },
+    "traverser.rappel": {
+      "fichier": "qc/sylvie/consignes/traverser/rappel.mp3",
+      "texte": "Bravo ! Et rappelle-toi : dans la vraie rue, on traverse toujours avec un adulte, la main dans la main.",
+      "voix": "fr-CA-SylvieNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "3e8ba388",
+      "statut": "genere",
+      "octets": 49248,
+      "dureeMs": null
+    }
+  }
+}

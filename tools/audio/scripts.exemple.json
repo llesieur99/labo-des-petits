@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T18:00:00Z",
+  "deck": "qc",
+  "voix": {
+    "principale": "fr-CA-SylvieNeural",
+    "secondaire": "fr-CA-JeanNeural"
+  },
+  "clips": [
+    {
+      "id": "act.rimes.titre",
+      "texte": "La chasse aux rimes",
+      "categorie": "consigne",
+      "activite": "rimes",
+      "prosodie": {"rate": "-10%", "pitch": "+0%"},
+      "style": "friendly"
+    },
+    {
+      "id": "act.rimes.consigne",
+      "texte": "Écoute bien le mot, puis touche l'image qui rime avec lui.",
+      "categorie": "consigne",
+      "activite": "rimes",
+      "prosodie": {"rate": "-10%", "pitch": "+0%"},
+      "style": "friendly"
+    },
+    {
+      "id": "act.rimes.aide",
+      "texte": "Cherche un mot qui finit pareil. Tu peux réessayer autant de fois que tu veux.",
+      "categorie": "consigne",
+      "activite": "rimes",
+      "prosodie": {"rate": "-10%", "pitch": "+0%"},
+      "style": "gentle"
+    },
+    {
+      "id": "retour.bravo",
+      "texte": "Bravo !",
+      "categorie": "retour",
+      "prosodie": {"rate": "+0%", "pitch": "+2%"},
+      "style": "cheerful"
+    },
+    {
+      "id": "retour.presque",
+      "texte": "Presque ! Essaie encore.",
+      "categorie": "retour",
+      "prosodie": {"rate": "-5%", "pitch": "+0%"},
+      "style": "gentle"
+    },
+    {
+      "id": "retour.genial",
+      "texte": "Génial, tu es un champion des rimes !",
+      "categorie": "retour",
+      "prosodie": {"rate": "+0%", "pitch": "+2%"},
+      "style": "cheerful"
+    },
+    {
+      "id": "lex.chapeau",
+      "texte": "chapeau",
+      "categorie": "lexique",
+      "concept": "chapeau",
+      "prosodie": {"rate": "-15%", "pitch": "+0%"},
+      "style": "friendly"
+    },
+    {
+      "id": "lex.gateau",
+      "texte": "gâteau",
+      "categorie": "lexique",
+      "concept": "gateau",
+      "prosodie": {"rate": "-15%", "pitch": "+0%"},
+      "style": "friendly"
+    },
+    {
+      "id": "lex.raton",
+      "texte": "raton",
+      "categorie": "lexique",
+      "concept": "raton",
+      "prosodie": {"rate": "-15%", "pitch": "+0%"},
+      "style": "friendly"
+    },
+    {
+      "id": "phrase.je-tecoute",
+      "texte": "Je t'écoute !",
+      "categorie": "phrase",
+      "prosodie": {"rate": "+0%", "pitch": "+0%"},
+      "style": "friendly"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# Fichiers produits localement, jamais versionnés
+.cache/
+.venv/
+ecoutes/
+__pycache__/

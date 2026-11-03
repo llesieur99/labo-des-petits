@@ -1,0 +1,194 @@
+name: jeux_enfants
+description: "Jeux pour enfants de 4 à 7 ans — gratuit, hors ligne, en français québécois d'abord."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.3.0+10
+
+environment:
+  sdk: ^3.12.2
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.5+1
+  just_audio: ^0.10.6
+  audio_session: ^0.2.4
+  shared_preferences: ^2.5.6
+  sqflite: ^2.4.4+2
+  path_provider: ^2.1.6
+  record: ^7.1.2
+  image_picker: ^1.2.4
+  intl: ^0.20.3
+  flutter_svg: ^2.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^6.0.0
+  sqflite_common_ffi: ^2.4.4
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  assets:
+    - assets/identite/
+    - assets/textes/
+    # PIÈGE FLUTTER : une entrée de dossier ne couvre que les fichiers
+    # DIRECTEMENT dedans — chaque sous-dossier de clips doit être listé,
+    # sinon les MP3 ne sont pas embarqués et l'app est silencieuse.
+    # Un test garde-fou (test/audio/coherence_pubspec_test.dart) vérifie
+    # cette liste contre tous les manifestes audio : s'il échoue, ajouter
+    # ici le dossier manqué qu'il nomme.
+    - assets/audio/neutre/
+    - assets/audio/neutre/sons/
+    - assets/audio/qc/
+    - assets/audio/qc/antoine/
+    - assets/audio/qc/antoine/consignes/
+    - assets/audio/qc/antoine/consignes/animal/
+    - assets/audio/qc/antoine/consignes/balance/
+    - assets/audio/qc/antoine/consignes/bouche/
+    - assets/audio/qc/antoine/consignes/bus/
+    - assets/audio/qc/antoine/consignes/chanson/
+    - assets/audio/qc/antoine/consignes/chemin/
+    - assets/audio/qc/antoine/consignes/code/
+    - assets/audio/qc/antoine/consignes/couper/
+    - assets/audio/qc/antoine/consignes/fenetre/
+    - assets/audio/qc/antoine/consignes/flotte/
+    - assets/audio/qc/antoine/consignes/formes/
+    - assets/audio/qc/antoine/consignes/gateau/
+    - assets/audio/qc/antoine/consignes/graine/
+    - assets/audio/qc/antoine/consignes/grenouille/
+    - assets/audio/qc/antoine/consignes/habiller/
+    - assets/audio/qc/antoine/consignes/hauteur/
+    - assets/audio/qc/antoine/consignes/heure/
+    - assets/audio/qc/antoine/consignes/histoire/
+    - assets/audio/qc/antoine/consignes/intrus/
+    - assets/audio/qc/antoine/consignes/journuit/
+    - assets/audio/qc/antoine/consignes/lettre/
+    - assets/audio/qc/antoine/consignes/mains/
+    - assets/audio/qc/antoine/consignes/manque/
+    - assets/audio/qc/antoine/consignes/milo/
+    - assets/audio/qc/antoine/consignes/monstre/
+    - assets/audio/qc/antoine/consignes/motcache/
+    - assets/audio/qc/antoine/consignes/mots/
+    - assets/audio/qc/antoine/consignes/ombres/
+    - assets/audio/qc/antoine/consignes/ordres/
+    - assets/audio/qc/antoine/consignes/papillon/
+    - assets/audio/qc/antoine/consignes/peinture/
+    - assets/audio/qc/antoine/consignes/perles/
+    - assets/audio/qc/antoine/consignes/petit/
+    - assets/audio/qc/antoine/consignes/phrase/
+    - assets/audio/qc/antoine/consignes/plusmoins/
+    - assets/audio/qc/antoine/consignes/ranger/
+    - assets/audio/qc/antoine/consignes/recette/
+    - assets/audio/qc/antoine/consignes/rimes/
+    - assets/audio/qc/antoine/consignes/rythme/
+    - assets/audio/qc/antoine/consignes/sac/
+    - assets/audio/qc/antoine/consignes/sens/
+    - assets/audio/qc/antoine/consignes/sialors/
+    - assets/audio/qc/antoine/consignes/spatial/
+    - assets/audio/qc/antoine/consignes/syllabes/
+    - assets/audio/qc/antoine/consignes/table/
+    - assets/audio/qc/antoine/consignes/theatre/
+    - assets/audio/qc/antoine/consignes/tours/
+    - assets/audio/qc/antoine/consignes/traverser/
+    - assets/audio/qc/antoine/lexique/
+    - assets/audio/qc/antoine/retours/
+    - assets/audio/qc/sylvie/
+    - assets/audio/qc/sylvie/consignes/
+    - assets/audio/qc/sylvie/consignes/animal/
+    - assets/audio/qc/sylvie/consignes/balance/
+    - assets/audio/qc/sylvie/consignes/bouche/
+    - assets/audio/qc/sylvie/consignes/bus/
+    - assets/audio/qc/sylvie/consignes/chanson/
+    - assets/audio/qc/sylvie/consignes/chemin/
+    - assets/audio/qc/sylvie/consignes/code/
+    - assets/audio/qc/sylvie/consignes/couper/
+    - assets/audio/qc/sylvie/consignes/fenetre/
+    - assets/audio/qc/sylvie/consignes/flotte/
+    - assets/audio/qc/sylvie/consignes/formes/
+    - assets/audio/qc/sylvie/consignes/gateau/
+    - assets/audio/qc/sylvie/consignes/graine/
+    - assets/audio/qc/sylvie/consignes/grenouille/
+    - assets/audio/qc/sylvie/consignes/habiller/
+    - assets/audio/qc/sylvie/consignes/hauteur/
+    - assets/audio/qc/sylvie/consignes/heure/
+    - assets/audio/qc/sylvie/consignes/histoire/
+    - assets/audio/qc/sylvie/consignes/intrus/
+    - assets/audio/qc/sylvie/consignes/journuit/
+    - assets/audio/qc/sylvie/consignes/lettre/
+    - assets/audio/qc/sylvie/consignes/mains/
+    - assets/audio/qc/sylvie/consignes/manque/
+    - assets/audio/qc/sylvie/consignes/milo/
+    - assets/audio/qc/sylvie/consignes/monstre/
+    - assets/audio/qc/sylvie/consignes/motcache/
+    - assets/audio/qc/sylvie/consignes/mots/
+    - assets/audio/qc/sylvie/consignes/ombres/
+    - assets/audio/qc/sylvie/consignes/ordres/
+    - assets/audio/qc/sylvie/consignes/papillon/
+    - assets/audio/qc/sylvie/consignes/peinture/
+    - assets/audio/qc/sylvie/consignes/perles/
+    - assets/audio/qc/sylvie/consignes/petit/
+    - assets/audio/qc/sylvie/consignes/phrase/
+    - assets/audio/qc/sylvie/consignes/plusmoins/
+    - assets/audio/qc/sylvie/consignes/ranger/
+    - assets/audio/qc/sylvie/consignes/recette/
+    - assets/audio/qc/sylvie/consignes/rimes/
+    - assets/audio/qc/sylvie/consignes/rythme/
+    - assets/audio/qc/sylvie/consignes/sac/
+    - assets/audio/qc/sylvie/consignes/sens/
+    - assets/audio/qc/sylvie/consignes/sialors/
+    - assets/audio/qc/sylvie/consignes/spatial/
+    - assets/audio/qc/sylvie/consignes/syllabes/
+    - assets/audio/qc/sylvie/consignes/table/
+    - assets/audio/qc/sylvie/consignes/theatre/
+    - assets/audio/qc/sylvie/consignes/tours/
+    - assets/audio/qc/sylvie/consignes/traverser/
+    - assets/audio/qc/sylvie/lexique/
+    - assets/audio/qc/sylvie/retours/
+    - assets/images/concepts/
+
+  fonts:
+    - family: Andika
+      fonts:
+        - asset: assets/fonts/Andika-Regular.ttf
+        - asset: assets/fonts/Andika-Bold.ttf
+          weight: 700

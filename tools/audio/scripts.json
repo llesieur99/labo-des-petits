@@ -1,0 +1,5299 @@
+{
+  "version": 1,
+  "genere": "2026-10-27T03:11:57.148168Z",
+  "deck": "qc",
+  "voix": {
+    "principale": "fr-CA-AntoineNeural",
+    "secondaire": "fr-CA-SylvieNeural"
+  },
+  "clips": [
+    {
+      "id": "retour.bravo.1",
+      "texte": "Bravo !",
+      "categorie": "retour",
+      "prosodie": {
+        "rate": "+5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful"
+    },
+    {
+      "id": "retour.bravo.2",
+      "texte": "Super !",
+      "categorie": "retour",
+      "prosodie": {
+        "rate": "+5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful"
+    },
+    {
+      "id": "retour.bravo.3",
+      "texte": "Oui, c'est ça !",
+      "categorie": "retour",
+      "prosodie": {
+        "rate": "+5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful"
+    },
+    {
+      "id": "retour.bravo.4",
+      "texte": "Excellent !",
+      "categorie": "retour",
+      "prosodie": {
+        "rate": "+5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful"
+    },
+    {
+      "id": "retour.bravo.5",
+      "texte": "Wow, bien joué !",
+      "categorie": "retour",
+      "prosodie": {
+        "rate": "+5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful"
+    },
+    {
+      "id": "retour.encore.1",
+      "texte": "Presque ! On écoute encore.",
+      "categorie": "retour",
+      "prosodie": {
+        "rate": "-5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful"
+    },
+    {
+      "id": "retour.encore.2",
+      "texte": "Hmm, essaie encore.",
+      "categorie": "retour",
+      "prosodie": {
+        "rate": "-5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful"
+    },
+    {
+      "id": "retour.encore.3",
+      "texte": "Pas tout à fait. Je te le redis.",
+      "categorie": "retour",
+      "prosodie": {
+        "rate": "-5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful"
+    },
+    {
+      "id": "retour.fin.1",
+      "texte": "On a bien joué ! À tantôt !",
+      "categorie": "retour",
+      "prosodie": {
+        "rate": "-5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful"
+    },
+    {
+      "id": "retour.fin.2",
+      "texte": "C'était super. À la prochaine !",
+      "categorie": "retour",
+      "prosodie": {
+        "rate": "-5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful"
+    },
+    {
+      "id": "trace.bravo",
+      "texte": "Bravo ! Tu as suivi tout le chemin !",
+      "categorie": "retour",
+      "prosodie": {
+        "rate": "+5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful"
+    },
+    {
+      "id": "consigne.repete",
+      "texte": "Je te le redis.",
+      "categorie": "consigne",
+      "prosodie": {
+        "rate": "-5%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.touche",
+      "texte": "Touche la bonne image.",
+      "categorie": "consigne",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.ecoute",
+      "texte": "Écoute bien…",
+      "categorie": "consigne",
+      "prosodie": {
+        "rate": "-5%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.rimes.titre",
+      "texte": "La chasse aux rimes",
+      "categorie": "consigne",
+      "activite": "rimes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.rimes.g1",
+      "texte": "Trouve l'image qui rime avec",
+      "categorie": "consigne",
+      "activite": "rimes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.rimes.g2",
+      "texte": "Écoute bien. Quel mot rime avec…",
+      "categorie": "consigne",
+      "activite": "rimes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.rimes.g3",
+      "texte": "Lequel rime avec…",
+      "categorie": "consigne",
+      "activite": "rimes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.bouche.titre",
+      "texte": "La bouche à sons",
+      "categorie": "consigne",
+      "activite": "bouche",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.bouche.g1",
+      "texte": "Écoute bien ce son… et fais-le toi aussi !",
+      "categorie": "consigne",
+      "activite": "bouche",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "son.sss",
+      "texte": "Sssssss…",
+      "categorie": "consigne",
+      "activite": "bouche",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "son.ou",
+      "texte": "Ouuuu…",
+      "categorie": "consigne",
+      "activite": "bouche",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "son.ch",
+      "texte": "Chhhhh…",
+      "categorie": "consigne",
+      "activite": "bouche",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "son.mmm",
+      "texte": "Mmmmm…",
+      "categorie": "consigne",
+      "activite": "bouche",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "son.rrr",
+      "texte": "Rrrrrr…",
+      "categorie": "consigne",
+      "activite": "bouche",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "son.zzz",
+      "texte": "Zzzzzz…",
+      "categorie": "consigne",
+      "activite": "bouche",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "reaction.serpent",
+      "texte": "Le serpent aime ça ! Regarde-le danser.",
+      "categorie": "consigne",
+      "activite": "bouche",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "reaction.loup",
+      "texte": "Le loup répond : ouuuu !",
+      "categorie": "consigne",
+      "activite": "bouche",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "reaction.train",
+      "texte": "Le train roule : chhhhh !",
+      "categorie": "consigne",
+      "activite": "bouche",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "reaction.vache",
+      "texte": "La vache meugle : mmmmm !",
+      "categorie": "consigne",
+      "activite": "bouche",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "reaction.tigre",
+      "texte": "Le tigre grogne : rrrrr !",
+      "categorie": "consigne",
+      "activite": "bouche",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "reaction.abeille",
+      "texte": "L'abeille butine : zzzzz !",
+      "categorie": "consigne",
+      "activite": "bouche",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.syllabes.titre",
+      "texte": "Les syllabes qui sautent",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.syllabes.g1",
+      "texte": "Écoute le mot. La grenouille saute une fois pour chaque syllabe. À toi après !",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syllmot.chapeau",
+      "texte": "chapeau",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.chapeau.1",
+      "texte": "cha",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.chapeau.2",
+      "texte": "peau",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syllmot.bateau",
+      "texte": "bateau",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.bateau.1",
+      "texte": "ba",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.bateau.2",
+      "texte": "teau",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syllmot.gateau",
+      "texte": "gâteau",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.gateau.1",
+      "texte": "ga",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.gateau.2",
+      "texte": "teau",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syllmot.ballon",
+      "texte": "ballon",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.ballon.1",
+      "texte": "bal",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.ballon.2",
+      "texte": "lon",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syllmot.bonbon",
+      "texte": "bonbon",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.bonbon.1",
+      "texte": "bon",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.bonbon.2",
+      "texte": "bon",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syllmot.mouton",
+      "texte": "mouton",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.mouton.1",
+      "texte": "mou",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.mouton.2",
+      "texte": "ton",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syllmot.poisson",
+      "texte": "poisson",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.poisson.1",
+      "texte": "pois",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.poisson.2",
+      "texte": "son",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syllmot.lapin",
+      "texte": "lapin",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.lapin.1",
+      "texte": "la",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.lapin.2",
+      "texte": "pin",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syllmot.pizza",
+      "texte": "pizza",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.pizza.1",
+      "texte": "piz",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.pizza.2",
+      "texte": "za",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syllmot.doudou",
+      "texte": "doudou",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.doudou.1",
+      "texte": "dou",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.doudou.2",
+      "texte": "dou",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syllmot.chocolat",
+      "texte": "chocolat",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.chocolat.1",
+      "texte": "cho",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.chocolat.2",
+      "texte": "co",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.chocolat.3",
+      "texte": "lat",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syllmot.banane",
+      "texte": "banane",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.banane.1",
+      "texte": "ba",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.banane.2",
+      "texte": "na",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.banane.3",
+      "texte": "ne",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syllmot.avion",
+      "texte": "avion",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.avion.1",
+      "texte": "a",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.avion.2",
+      "texte": "vion",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syllmot.pantalon",
+      "texte": "pantalon",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.pantalon.1",
+      "texte": "pan",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.pantalon.2",
+      "texte": "ta",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "syll.pantalon.3",
+      "texte": "lon",
+      "categorie": "consigne",
+      "activite": "syllabes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.motcache.titre",
+      "texte": "Le mot caché dans la maison",
+      "categorie": "consigne",
+      "activite": "motcache",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.motcache.g1",
+      "texte": "Trouve quelque chose qui commence par…",
+      "categorie": "consigne",
+      "activite": "motcache",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "son.lettre.m",
+      "texte": "Mmmm…",
+      "categorie": "consigne",
+      "activite": "motcache",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "son.lettre.s",
+      "texte": "Ssss…",
+      "categorie": "consigne",
+      "activite": "motcache",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "son.lettre.p",
+      "texte": "Pppp…",
+      "categorie": "consigne",
+      "activite": "motcache",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "son.lettre.ch",
+      "texte": "Chhhh…",
+      "categorie": "consigne",
+      "activite": "motcache",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "son.lettre.b",
+      "texte": "Bbbb…",
+      "categorie": "consigne",
+      "activite": "motcache",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "son.lettre.l",
+      "texte": "Llll…",
+      "categorie": "consigne",
+      "activite": "motcache",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.phrase.titre",
+      "texte": "La phrase en images",
+      "categorie": "consigne",
+      "activite": "phrase",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.phrase.g1",
+      "texte": "Place les images pour faire la phrase :",
+      "categorie": "consigne",
+      "activite": "phrase",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "mot.mange",
+      "texte": "mange",
+      "categorie": "consigne",
+      "activite": "phrase",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "mot.dort",
+      "texte": "dort",
+      "categorie": "consigne",
+      "activite": "phrase",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "mot.joue",
+      "texte": "joue",
+      "categorie": "consigne",
+      "activite": "phrase",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "phrase.chat.dite",
+      "texte": "Le chat mange la pomme !",
+      "categorie": "consigne",
+      "activite": "phrase",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "phrase.lapin.dite",
+      "texte": "Le lapin dort dans son lit !",
+      "categorie": "consigne",
+      "activite": "phrase",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "phrase.vache.dite",
+      "texte": "La vache mange le chou !",
+      "categorie": "consigne",
+      "activite": "phrase",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "phrase.poussin.dite",
+      "texte": "Le poussin dort dans son nid !",
+      "categorie": "consigne",
+      "activite": "phrase",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "phrase.souris.dite",
+      "texte": "La souris joue avec le doudou !",
+      "categorie": "consigne",
+      "activite": "phrase",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.lettre.titre",
+      "texte": "La lettre en pâte à modeler",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.lettre.g1",
+      "texte": "Suis la lettre avec ton doigt, doucement.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.o.dit",
+      "texte": "C'est la lettre o.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.c.dit",
+      "texte": "C'est la lettre c.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.s.dit",
+      "texte": "C'est la lettre s.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.u.dit",
+      "texte": "C'est la lettre u.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.l.dit",
+      "texte": "C'est la lettre l.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.a.dit",
+      "texte": "C'est la lettre a.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.e.dit",
+      "texte": "C'est la lettre e.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.i.dit",
+      "texte": "C'est la lettre i.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.m.dit",
+      "texte": "C'est la lettre m.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.n.dit",
+      "texte": "C'est la lettre n.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.r.dit",
+      "texte": "C'est la lettre r.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.d.dit",
+      "texte": "C'est la lettre d.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.p.dit",
+      "texte": "C'est la lettre p.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.b.dit",
+      "texte": "C'est la lettre b.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.q.dit",
+      "texte": "C'est la lettre q.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.t.dit",
+      "texte": "C'est la lettre t.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.f.dit",
+      "texte": "C'est la lettre f.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.v.dit",
+      "texte": "C'est la lettre v.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.w.dit",
+      "texte": "C'est la lettre w.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.y.dit",
+      "texte": "C'est la lettre y.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.k.dit",
+      "texte": "C'est la lettre k.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lettre.x.dit",
+      "texte": "C'est la lettre x.",
+      "categorie": "consigne",
+      "activite": "lettre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.bus.titre",
+      "texte": "Le bus des amis",
+      "categorie": "consigne",
+      "activite": "bus",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.bus.g1",
+      "texte": "Écoute bien l'histoire du bus.",
+      "categorie": "consigne",
+      "activite": "bus",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.bus.monte1",
+      "texte": "Un ami monte dans le bus.",
+      "categorie": "consigne",
+      "activite": "bus",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.bus.monte2",
+      "texte": "Deux amis montent dans le bus.",
+      "categorie": "consigne",
+      "activite": "bus",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.bus.monte3",
+      "texte": "Trois amis montent dans le bus.",
+      "categorie": "consigne",
+      "activite": "bus",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.bus.descend1",
+      "texte": "Un ami descend du bus.",
+      "categorie": "consigne",
+      "activite": "bus",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.bus.descend2",
+      "texte": "Deux amis descendent du bus.",
+      "categorie": "consigne",
+      "activite": "bus",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.bus.combien",
+      "texte": "Combien d'amis restent dans le bus ?",
+      "categorie": "consigne",
+      "activite": "bus",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.balance.titre",
+      "texte": "La balance du marché",
+      "categorie": "consigne",
+      "activite": "balance",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.balance.g1",
+      "texte": "Mets le même nombre de fruits dans chaque plateau. La balance doit être bien droite !",
+      "categorie": "consigne",
+      "activite": "balance",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.balance.penche",
+      "texte": "Ça penche ! Ajoute ou enlève des fruits.",
+      "categorie": "consigne",
+      "activite": "balance",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.balance.egal",
+      "texte": "C'est égal ! La balance est bien droite !",
+      "categorie": "consigne",
+      "activite": "balance",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.gateau.titre",
+      "texte": "Partager le gâteau",
+      "categorie": "consigne",
+      "activite": "gateau",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.gateau.g1",
+      "texte": "Regarde le gâteau…",
+      "categorie": "consigne",
+      "activite": "gateau",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.gateau.deux",
+      "texte": "Deux amis veulent chacun la même part. En combien de parts coupe-t-on le gâteau ?",
+      "categorie": "consigne",
+      "activite": "gateau",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.gateau.quatre",
+      "texte": "Maintenant, quatre amis veulent chacun la même part. En combien de parts coupe-t-on le gâteau ?",
+      "categorie": "consigne",
+      "activite": "gateau",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.perles.titre",
+      "texte": "Perles à motifs",
+      "categorie": "consigne",
+      "activite": "perles",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.perles.g1",
+      "texte": "Regarde bien le collier…",
+      "categorie": "consigne",
+      "activite": "perles",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.perles.g2",
+      "texte": "Quelle perle vient après ? Continue le collier !",
+      "categorie": "consigne",
+      "activite": "perles",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.grenouille.titre",
+      "texte": "La grenouille sur la ligne",
+      "categorie": "consigne",
+      "activite": "grenouille",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.grenouille.e1",
+      "texte": "La grenouille est sur la ligne. Regarde bien !",
+      "categorie": "consigne",
+      "activite": "grenouille",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.grenouille.e2",
+      "texte": "Où est-elle arrivée ? Touche le bon nombre !",
+      "categorie": "consigne",
+      "activite": "grenouille",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "saut.1",
+      "texte": "Elle saute de un !",
+      "categorie": "consigne",
+      "activite": "grenouille",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "saut.2",
+      "texte": "Elle saute de deux !",
+      "categorie": "consigne",
+      "activite": "grenouille",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "saut.3",
+      "texte": "Elle saute de trois !",
+      "categorie": "consigne",
+      "activite": "grenouille",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.plusmoins.titre",
+      "texte": "Plus, moins, pareil",
+      "categorie": "consigne",
+      "activite": "plusmoins",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.plusmoins.g1",
+      "texte": "Regarde les deux tas !",
+      "categorie": "consigne",
+      "activite": "plusmoins",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.plusmoins.plus",
+      "texte": "Où y a-t-il le PLUS de fruits ? Touche ce côté-là !",
+      "categorie": "consigne",
+      "activite": "plusmoins",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.plusmoins.moins",
+      "texte": "Où y a-t-il le MOINS de fruits ? Touche ce côté-là !",
+      "categorie": "consigne",
+      "activite": "plusmoins",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.formes.titre",
+      "texte": "Formes qui s'emboîtent",
+      "categorie": "consigne",
+      "activite": "formes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.formes.g1",
+      "texte": "Chaque forme a sa case. Mets chaque forme dans la bonne case !",
+      "categorie": "consigne",
+      "activite": "formes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.heure.titre",
+      "texte": "L'heure du goûter",
+      "categorie": "consigne",
+      "activite": "heure",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.heure.g1",
+      "texte": "Regarde l'horloge…",
+      "categorie": "consigne",
+      "activite": "heure",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.heure.reveil",
+      "texte": "Il est sept heures et demie du matin. Que fait-on ?",
+      "categorie": "consigne",
+      "activite": "heure",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.heure.diner",
+      "texte": "Il est midi ! Qu'est-ce qu'on fait à midi ?",
+      "categorie": "consigne",
+      "activite": "heure",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.heure.parc",
+      "texte": "Il est quatre heures. Le soleil brille. Que fait-on ?",
+      "categorie": "consigne",
+      "activite": "heure",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.heure.dodo",
+      "texte": "Il est huit heures du soir. Il fait noir dehors. Que fait-on ?",
+      "categorie": "consigne",
+      "activite": "heure",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.intrus.titre",
+      "texte": "L'intrus qui parle",
+      "categorie": "consigne",
+      "activite": "intrus",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.intrus.manger",
+      "texte": "Tout ça, ça se mange… sauf un ! Touche ce qui ne se mange pas.",
+      "categorie": "consigne",
+      "activite": "intrus",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.intrus.porter",
+      "texte": "Tout ça, ça se porte… sauf un ! Touche ce qui ne se porte pas.",
+      "categorie": "consigne",
+      "activite": "intrus",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.intrus.animaux",
+      "texte": "Tout ça, ce sont des animaux… sauf un ! Touche celui qui n'est pas un animal.",
+      "categorie": "consigne",
+      "activite": "intrus",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.intrus.jouer",
+      "texte": "Tout ça, c'est pour jouer… sauf un ! Touche ce qui n'est pas un jeu.",
+      "categorie": "consigne",
+      "activite": "intrus",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.intrus.maison",
+      "texte": "Voici des objets. Un animal s’est glissé parmi eux. Touche l’animal !",
+      "categorie": "consigne",
+      "activite": "intrus",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "explication.intrus.manger",
+      "texte": "Celui-là, ça ne se mange pas !",
+      "categorie": "consigne",
+      "activite": "intrus",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "explication.intrus.porter",
+      "texte": "Celui-là, ça ne se porte pas !",
+      "categorie": "consigne",
+      "activite": "intrus",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "explication.intrus.animaux",
+      "texte": "Celui-là, ce n'est pas un animal !",
+      "categorie": "consigne",
+      "activite": "intrus",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "explication.intrus.jouer",
+      "texte": "Celui-là, ça ne se joue pas !",
+      "categorie": "consigne",
+      "activite": "intrus",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "explication.intrus.maison",
+      "texte": "Celui-là est un animal, les autres sont des objets !",
+      "categorie": "consigne",
+      "activite": "intrus",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.histoire.titre",
+      "texte": "L'histoire en quatre cases",
+      "categorie": "consigne",
+      "activite": "histoire",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.histoire.g1",
+      "texte": "Remets l'histoire dans l'ordre. Commence par le début !",
+      "categorie": "consigne",
+      "activite": "histoire",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "histoire.plante.raconte",
+      "texte": "On met la graine dans la terre, on l'arrose, le soleil la réchauffe, et une belle fleur pousse !",
+      "categorie": "consigne",
+      "activite": "histoire",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "histoire.poussin.raconte",
+      "texte": "Dans l'œuf, il y avait un petit poussin. Il casse la coquille, et il devient une belle poule !",
+      "categorie": "consigne",
+      "activite": "histoire",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "histoire.papillon.raconte",
+      "texte": "Un petit œuf devient une chenille, et la chenille devient un beau papillon !",
+      "categorie": "consigne",
+      "activite": "histoire",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "histoire.chat.raconte",
+      "texte": "Le chat dormait dans son lit. Il se réveille, il mange, et il va jouer avec son ballon !",
+      "categorie": "consigne",
+      "activite": "histoire",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "histoire.soiree.raconte",
+      "texte": "Le soleil se couche, la lune se lève, les étoiles apparaissent… et on va dormir !",
+      "categorie": "consigne",
+      "activite": "histoire",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "histoire.matin.raconte",
+      "texte": "Le matin, le soleil se lève, on prend un bon café, et on prépare le sac pour l'école !",
+      "categorie": "consigne",
+      "activite": "histoire",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.manque.titre",
+      "texte": "Qu'est-ce qui manque ?",
+      "categorie": "consigne",
+      "activite": "manque",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.manque.e1",
+      "texte": "Regarde bien tous les objets…",
+      "categorie": "consigne",
+      "activite": "manque",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.manque.e2",
+      "texte": "Oh ! Un objet a disparu. Qu'est-ce qui manque ?",
+      "categorie": "consigne",
+      "activite": "manque",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.manque.e3",
+      "texte": "Touche l'objet qui a disparu !",
+      "categorie": "consigne",
+      "activite": "manque",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.sialors.titre",
+      "texte": "Si… alors",
+      "categorie": "consigne",
+      "activite": "sialors",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.sialors.pluie",
+      "texte": "S'il pleut, que prend le chat pour sortir ?",
+      "categorie": "consigne",
+      "activite": "sialors",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.sialors.soleil",
+      "texte": "S'il fait très beau et très chaud, que met le chat sur ses yeux ?",
+      "categorie": "consigne",
+      "activite": "sialors",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.sialors.neige",
+      "texte": "S'il neige et qu'il fait froid, que met le chat autour du cou ?",
+      "categorie": "consigne",
+      "activite": "sialors",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.sialors.faim",
+      "texte": "Le chat a très faim. Que mange-t-il ?",
+      "categorie": "consigne",
+      "activite": "sialors",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.sialors.soif",
+      "texte": "Le chat a très soif. Que boit-il ?",
+      "categorie": "consigne",
+      "activite": "sialors",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.chemin.titre",
+      "texte": "Le chemin du doigt",
+      "categorie": "consigne",
+      "activite": "chemin",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.chemin.g1",
+      "texte": "Suis le chemin avec ton doigt, tout au long. Vas-y doucement !",
+      "categorie": "consigne",
+      "activite": "chemin",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.code.titre",
+      "texte": "Le code de trois blocs",
+      "categorie": "consigne",
+      "activite": "code",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.code.g1",
+      "texte": "Pose tes blocs pour amener la souris jusqu'à la pomme. Après, appuie sur le bouton vert !",
+      "categorie": "consigne",
+      "activite": "code",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "code.bravo",
+      "texte": "Bravo ! La souris a suivi ton programme !",
+      "categorie": "consigne",
+      "activite": "code",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.ordres.titre",
+      "texte": "Trois ordres, pas plus",
+      "categorie": "consigne",
+      "activite": "ordres",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.ordres.g1",
+      "texte": "Écoute bien les ordres, puis fais-les dans l'ordre.",
+      "categorie": "consigne",
+      "activite": "ordres",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "ordres.1.dit",
+      "texte": "Prends le ballon, et va le porter jusqu'à la maison !",
+      "categorie": "consigne",
+      "activite": "ordres",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "ordres.1.fin",
+      "texte": "Le ballon est arrivé à la maison !",
+      "categorie": "consigne",
+      "activite": "ordres",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "ordres.2.dit",
+      "texte": "Le chat a faim. Prends le chat, puis donne-lui son assiette !",
+      "categorie": "consigne",
+      "activite": "ordres",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "ordres.2.fin",
+      "texte": "Le chat mange dans son assiette. Miam !",
+      "categorie": "consigne",
+      "activite": "ordres",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "ordres.3.dit",
+      "texte": "Prends le ballon, mets-le dans le sac, puis prends ton toutou !",
+      "categorie": "consigne",
+      "activite": "ordres",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "ordres.3.fin",
+      "texte": "Tu as tout pris : le ballon dans le sac, et le toutou !",
+      "categorie": "consigne",
+      "activite": "ordres",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "ordres.4.dit",
+      "texte": "Prends la fleur, donne-lui de l'eau, puis mets-la au soleil !",
+      "categorie": "consigne",
+      "activite": "ordres",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "ordres.4.fin",
+      "texte": "La fleur a de l'eau et du soleil. Elle est contente !",
+      "categorie": "consigne",
+      "activite": "ordres",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.sens.vue",
+      "texte": "Avec tes yeux, tu vois une lumière dans le ciel. Quelle image montre cette lumière ?",
+      "categorie": "consigne",
+      "activite": "sens",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.sens.odorat",
+      "texte": "Avec ton nez, tu sens une bonne odeur dans le jardin. Quelle image peut avoir cette odeur ?",
+      "categorie": "consigne",
+      "activite": "sens",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.sens.gout",
+      "texte": "Avec ta bouche, tu goûtes un aliment. Quelle image montre quelque chose à manger ?",
+      "categorie": "consigne",
+      "activite": "sens",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.sens.titre",
+      "texte": "Les cinq sens",
+      "categorie": "consigne",
+      "activite": "sens",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.sens.doux",
+      "texte": "C'est tout doux ! Qu'est-ce qui est tout doux au toucher ?",
+      "categorie": "consigne",
+      "activite": "sens",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.sens.dur",
+      "texte": "C'est dur comme un caillou ! Qu'est-ce qui est dur ?",
+      "categorie": "consigne",
+      "activite": "sens",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "cri.chat",
+      "texte": "Miaou ! Qui fait ce bruit ?",
+      "categorie": "consigne",
+      "activite": "sens",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "cri.vache",
+      "texte": "Meuh ! Qui fait ce bruit ?",
+      "categorie": "consigne",
+      "activite": "sens",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "cri.loup",
+      "texte": "Ouuuuu ! Qui fait ce bruit ?",
+      "categorie": "consigne",
+      "activite": "sens",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "cri.serpent",
+      "texte": "Ssssss ! Qui fait ce bruit ?",
+      "categorie": "consigne",
+      "activite": "sens",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "cri.poule",
+      "texte": "Cot cot codet ! Qui fait ce bruit ?",
+      "categorie": "consigne",
+      "activite": "sens",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "cri.abeille",
+      "texte": "Zzzzzz ! Qui fait ce bruit ?",
+      "categorie": "consigne",
+      "activite": "sens",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "cri.hibou",
+      "texte": "Hou hou ! Qui fait ce bruit ?",
+      "categorie": "consigne",
+      "activite": "sens",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "cri.tigre",
+      "texte": "Rrrrrr ! Qui fait ce bruit ?",
+      "categorie": "consigne",
+      "activite": "sens",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.flotte.titre",
+      "texte": "Flotte ou coule",
+      "categorie": "consigne",
+      "activite": "flotte",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.flotte.g1",
+      "texte": "Devine : est-ce que ça flotte sur l'eau, ou est-ce que ça coule au fond ?",
+      "categorie": "consigne",
+      "activite": "flotte",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.flotte.plouf",
+      "texte": "Plouf ! Regarde bien…",
+      "categorie": "consigne",
+      "activite": "flotte",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.graine.titre",
+      "texte": "La graine",
+      "categorie": "consigne",
+      "activite": "graine",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.graine.g1",
+      "texte": "Regarde bien la plante !",
+      "categorie": "consigne",
+      "activite": "graine",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.graine.e1",
+      "texte": "Une petite graine dort dans la terre. Que lui faut-il pour se réveiller ?",
+      "categorie": "consigne",
+      "activite": "graine",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.graine.e2",
+      "texte": "Ça pousse ! Mais la pousse a besoin de lumière. Que fait-on ?",
+      "categorie": "consigne",
+      "activite": "graine",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.graine.e3",
+      "texte": "La pousse est grande. Elle a soif ! Que lui donnes-tu ?",
+      "categorie": "consigne",
+      "activite": "graine",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.graine.e4",
+      "texte": "Regarde comme elle est belle ! Elle a encore besoin d'eau.",
+      "categorie": "consigne",
+      "activite": "graine",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.graine.e5",
+      "texte": "Bravo ! La fleur est ouverte !",
+      "categorie": "consigne",
+      "activite": "graine",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.habiller.titre",
+      "texte": "S'habiller pour sortir",
+      "categorie": "consigne",
+      "activite": "habiller",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.habiller.g1",
+      "texte": "C'est l'hiver dehors ! Mets les affaires de neige dans le bac à neige, et les affaires d'été dans le bac au soleil.",
+      "categorie": "consigne",
+      "activite": "habiller",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.journuit.titre",
+      "texte": "Jour et nuit",
+      "categorie": "consigne",
+      "activite": "journuit",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.journuit.g1",
+      "texte": "Regarde le ciel.",
+      "categorie": "consigne",
+      "activite": "journuit",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.journuit.e1",
+      "texte": "Le soleil se lève doucement. Quel moment de la journée commence ?",
+      "categorie": "consigne",
+      "activite": "journuit",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.journuit.e2",
+      "texte": "Le soleil est haut dans le ciel. C'est l'heure du dîner !",
+      "categorie": "consigne",
+      "activite": "journuit",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.journuit.e3",
+      "texte": "Le soleil descend. Bientôt la nuit. Qu'est-ce qui se lève dans le ciel ?",
+      "categorie": "consigne",
+      "activite": "journuit",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.journuit.e4",
+      "texte": "Il fait tout noir, les étoiles brillent. Que fait-on ?",
+      "categorie": "consigne",
+      "activite": "journuit",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.ombres.titre",
+      "texte": "Les ombres",
+      "categorie": "consigne",
+      "activite": "ombres",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.ombres.g1",
+      "texte": "Regarde bien la lampe et l'ombre…",
+      "categorie": "consigne",
+      "activite": "ombres",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.ombres.g2",
+      "texte": "La lampe brille d'un côté. De quel côté est l'ombre ?",
+      "categorie": "consigne",
+      "activite": "ombres",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.petit.titre",
+      "texte": "Le petit et sa maison",
+      "categorie": "consigne",
+      "activite": "petit",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.petit.g1",
+      "texte": "Chaque animal a sa maison. Mets les animaux dans le bon bac !",
+      "categorie": "consigne",
+      "activite": "petit",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.spatial.titre",
+      "texte": "Devant, derrière, à côté",
+      "categorie": "consigne",
+      "activite": "spatial",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.spatial.e1",
+      "texte": "Regarde bien où est le chat…",
+      "categorie": "consigne",
+      "activite": "spatial",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.spatial.e2",
+      "texte": "Où est le chat ? Touche la bonne image !",
+      "categorie": "consigne",
+      "activite": "spatial",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.fenetre.titre",
+      "texte": "Regarde par la fenêtre",
+      "categorie": "consigne",
+      "activite": "fenetre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.fenetre.e1",
+      "texte": "Regarde bien par la fenêtre…",
+      "categorie": "consigne",
+      "activite": "fenetre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.fenetre.e2",
+      "texte": "Quel temps fait-il dans la fenêtre ? Touche la bonne image !",
+      "categorie": "consigne",
+      "activite": "fenetre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.milo.titre",
+      "texte": "La figure de Milo",
+      "categorie": "consigne",
+      "activite": "milo",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.milo.g1",
+      "texte": "Regarde ce qui arrive à Milo.",
+      "categorie": "consigne",
+      "activite": "milo",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.milo.visage",
+      "texte": "Comment se sent Milo ?",
+      "categorie": "consigne",
+      "activite": "milo",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.milo.action",
+      "texte": "Qu'est-ce qui peut aider Milo ?",
+      "categorie": "consigne",
+      "activite": "milo",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "milo.1.debut",
+      "texte": "Milo joue avec son ballon. Le ballon s'envole dans le ciel et disparaît !",
+      "categorie": "consigne",
+      "activite": "milo",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "milo.2.debut",
+      "texte": "Milo veut un biscuit, mais la boîte est vide. Il n'y a plus rien !",
+      "categorie": "consigne",
+      "activite": "milo",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "milo.3.debut",
+      "texte": "Il fait tout noir. Milo entend un grand bruit : BOUUM !",
+      "categorie": "consigne",
+      "activite": "milo",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "milo.4.debut",
+      "texte": "Milo fait un casse-tête. Le morceau ne rentre pas, et il tombe par terre.",
+      "categorie": "consigne",
+      "activite": "milo",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "milo.5.debut",
+      "texte": "Milo retrouve son ami au parc. Il sourit et se sent content.",
+      "categorie": "consigne",
+      "activite": "milo",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "milo.6.debut",
+      "texte": "Milo a fini sa tour de blocs. Il est content de ce qu’il a construit.",
+      "categorie": "consigne",
+      "activite": "milo",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "milo.7.debut",
+      "texte": "La tour de Milo tombe. Il est déçu et se sent triste.",
+      "categorie": "consigne",
+      "activite": "milo",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "milo.8.debut",
+      "texte": "Milo entend le tonnerre. Il a peur et veut rester près de son papa.",
+      "categorie": "consigne",
+      "activite": "milo",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "milo.9.debut",
+      "texte": "Milo essaie de fermer son manteau. Ça bloque et il commence à se fâcher.",
+      "categorie": "consigne",
+      "activite": "milo",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "milo.10.debut",
+      "texte": "L’ami de Milo doit rentrer à la maison. Milo est triste de lui dire au revoir.",
+      "categorie": "consigne",
+      "activite": "milo",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.tours.titre",
+      "texte": "À tour de rôle",
+      "categorie": "consigne",
+      "activite": "tours",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.tours.g1",
+      "texte": "Trouve :",
+      "categorie": "consigne",
+      "activite": "tours",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.tours.mien",
+      "texte": "À toi !",
+      "categorie": "consigne",
+      "activite": "tours",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.tours.autre",
+      "texte": "À l'autre !",
+      "categorie": "consigne",
+      "activite": "tours",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.monstre.titre",
+      "texte": "Le calme du monstre",
+      "categorie": "consigne",
+      "activite": "monstre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.monstre.g1",
+      "texte": "Tape tout doucement, sans te presser, pour endormir le monstre.",
+      "categorie": "consigne",
+      "activite": "monstre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.mots.titre",
+      "texte": "Les mots pour demander",
+      "categorie": "consigne",
+      "activite": "mots",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.mots.g1",
+      "texte": "Que peut dire Milo ?",
+      "categorie": "consigne",
+      "activite": "mots",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "mots.1.debut",
+      "texte": "Milo veut jouer avec le ballon de son ami. Son ami le tient dans ses bras.",
+      "categorie": "consigne",
+      "activite": "mots",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "mots.2.debut",
+      "texte": "Un ami bouscule Milo sans faire exprès. Ça ne fait pas mal, mais Milo n'aime pas ça.",
+      "categorie": "consigne",
+      "activite": "mots",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "mots.3.debut",
+      "texte": "Milo attend son tour à la glissoire. Un ami passe devant lui.",
+      "categorie": "consigne",
+      "activite": "mots",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "mots.4.debut",
+      "texte": "Milo n’arrive pas à fermer son manteau. Il voudrait que son papa l’aide.",
+      "categorie": "consigne",
+      "activite": "mots",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "mots.5.debut",
+      "texte": "Un ami veut faire un câlin à Milo. Milo ne veut pas de câlin maintenant.",
+      "categorie": "consigne",
+      "activite": "mots",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "mots.6.debut",
+      "texte": "Son ami joue encore sur la balançoire. Milo est d’accord pour jouer après lui.",
+      "categorie": "consigne",
+      "activite": "mots",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "mots.7.debut",
+      "texte": "Milo voudrait le crayon bleu. Il appartient à son amie, qui a fini de dessiner.",
+      "categorie": "consigne",
+      "activite": "mots",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "mots.8.debut",
+      "texte": "Un ami chatouille Milo. Milo ne trouve plus ça amusant et veut que ça s’arrête.",
+      "categorie": "consigne",
+      "activite": "mots",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "mots.9.debut",
+      "texte": "Milo ne comprend pas son casse-tête. Il voudrait qu’un adulte lui montre comment commencer.",
+      "categorie": "consigne",
+      "activite": "mots",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.peinture.titre",
+      "texte": "La peinture qui se mélange",
+      "categorie": "consigne",
+      "activite": "peinture",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.peinture.orange",
+      "texte": "Peins du rouge, puis ajoute du jaune. Que se passe-t-il ?",
+      "categorie": "consigne",
+      "activite": "peinture",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.peinture.violet",
+      "texte": "Peins du rouge, puis ajoute du bleu. Que se passe-t-il ?",
+      "categorie": "consigne",
+      "activite": "peinture",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.peinture.vert",
+      "texte": "Peins du jaune, puis ajoute du bleu. Que se passe-t-il ?",
+      "categorie": "consigne",
+      "activite": "peinture",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.papillon.titre",
+      "texte": "Les ailes du papillon",
+      "categorie": "consigne",
+      "activite": "papillon",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.papillon.g1",
+      "texte": "Peins les points sur l'aile. L'autre aile se copie toute seule !",
+      "categorie": "consigne",
+      "activite": "papillon",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.theatre.titre",
+      "texte": "Le théâtre de vingt secondes",
+      "categorie": "consigne",
+      "activite": "theatre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.theatre.g1",
+      "texte": "Fais bouger tes deux amis avec ton doigt. Après, on rejoue la scène !",
+      "categorie": "consigne",
+      "activite": "theatre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "theatre.bravo",
+      "texte": "Quelle belle scène ! On la rejoue ?",
+      "categorie": "consigne",
+      "activite": "theatre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.rythme.titre",
+      "texte": "Le rythme des pas",
+      "categorie": "consigne",
+      "activite": "rythme",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.rythme.g1",
+      "texte": "Tape sur le tambour en même temps que moi. Écoute bien…",
+      "categorie": "consigne",
+      "activite": "rythme",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.animal.titre",
+      "texte": "Animal inventé",
+      "categorie": "consigne",
+      "activite": "animal",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.atelier.g1",
+      "texte": "On invente un animal !",
+      "categorie": "consigne",
+      "activite": "animal",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.atelier.tete",
+      "texte": "Choisis une tête !",
+      "categorie": "consigne",
+      "activite": "animal",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.atelier.corps",
+      "texte": "Choisis un corps !",
+      "categorie": "consigne",
+      "activite": "animal",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.atelier.queue",
+      "texte": "Choisis une queue !",
+      "categorie": "consigne",
+      "activite": "animal",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.atelier.nom",
+      "texte": "Donne-lui un nom !",
+      "categorie": "consigne",
+      "activite": "animal",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.atelier.felicite",
+      "texte": "Quel beau nom !",
+      "categorie": "consigne",
+      "activite": "animal",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.atelier.mange",
+      "texte": "Qu'est-ce qu'il mange ?",
+      "categorie": "consigne",
+      "activite": "animal",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.chanson.titre",
+      "texte": "Chanson de quatre cases",
+      "categorie": "consigne",
+      "activite": "chanson",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.chanson.g1",
+      "texte": "Place quatre sons dans les cases. Après, on écoute ta chanson !",
+      "categorie": "consigne",
+      "activite": "chanson",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "chanson.bravo",
+      "texte": "Ta chanson est belle ! Écoutons-la encore !",
+      "categorie": "consigne",
+      "activite": "chanson",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.hauteur.titre",
+      "texte": "Aigu, grave, fort, doux",
+      "categorie": "consigne",
+      "activite": "hauteur",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.hauteur.g1",
+      "texte": "Écoute bien ce son ! Qui chante tout en haut, ou qui grogne tout en bas ?",
+      "categorie": "consigne",
+      "activite": "hauteur",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.hauteur.g2",
+      "texte": "Écoute bien ce son ! Est-ce qu'il est fort, ou est-ce qu'il est tout doux ?",
+      "categorie": "consigne",
+      "activite": "hauteur",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.table.titre",
+      "texte": "Mettre la table",
+      "categorie": "consigne",
+      "activite": "table",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.table.assiette",
+      "texte": "Donne une assiette à chaque ami.",
+      "categorie": "consigne",
+      "activite": "table",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.table.verre",
+      "texte": "Donne un verre à chaque ami.",
+      "categorie": "consigne",
+      "activite": "table",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.table.fourchette",
+      "texte": "Donne une fourchette à chaque ami.",
+      "categorie": "consigne",
+      "activite": "table",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.sac.titre",
+      "texte": "Mon sac du matin",
+      "categorie": "consigne",
+      "activite": "sac",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.sac.g1",
+      "texte": "On prépare le sac pour l'école. Mets dans le sac :",
+      "categorie": "consigne",
+      "activite": "sac",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.sac.fin",
+      "texte": "Et laisse le reste à la maison.",
+      "categorie": "consigne",
+      "activite": "sac",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.couper.titre",
+      "texte": "Découper avec le doigt",
+      "categorie": "consigne",
+      "activite": "couper",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.couper.g1",
+      "texte": "Suis la ligne avec ton doigt, comme des ciseaux. Pars du point !",
+      "categorie": "consigne",
+      "activite": "couper",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.mains.avant_repas",
+      "texte": "Avant de manger, on lave ses mains. Retrouve tous les gestes dans le bon ordre.",
+      "categorie": "consigne",
+      "activite": "mains",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.mains.apres_parc",
+      "texte": "Tu reviens du parc. Retrouve tous les gestes pour bien laver tes mains.",
+      "categorie": "consigne",
+      "activite": "mains",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.mains.apres_animal",
+      "texte": "Après avoir touché un animal, on lave ses mains. Remets les gestes dans le bon ordre.",
+      "categorie": "consigne",
+      "activite": "mains",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.mains.apres_toilette",
+      "texte": "Après les toilettes, on lave ses mains. Remets tous les gestes dans le bon ordre.",
+      "categorie": "consigne",
+      "activite": "mains",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.mains.titre",
+      "texte": "Laver les mains",
+      "categorie": "consigne",
+      "activite": "mains",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.mains.g1",
+      "texte": "Remets les gestes dans l'ordre pour laver tes mains !",
+      "categorie": "consigne",
+      "activite": "mains",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "mains.comptine",
+      "texte": "On mouille les mains, on savonne, on frotte partout pendant vingt secondes, puis on rince. Ensuite, on ferme le robinet et on sèche les mains avec une serviette propre. Bravo !",
+      "categorie": "consigne",
+      "activite": "mains",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.recette.pomme",
+      "texte": "Avec un adulte, prépare une pomme : lave-la, laisse l’adulte la couper, puis mets les morceaux dans une assiette. Remets les images dans l’ordre.",
+      "categorie": "consigne",
+      "activite": "recette",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.recette.fraise",
+      "texte": "Avec un adulte, prépare des fraises : lave-les, laisse l’adulte les couper, puis mets les morceaux dans une assiette. Remets les images dans l’ordre.",
+      "categorie": "consigne",
+      "activite": "recette",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.recette.banane",
+      "texte": "Avec un adulte, prépare une banane : lave la peau, laisse l’adulte la peler et la couper, puis mets les morceaux dans une assiette. Remets les images dans l’ordre.",
+      "categorie": "consigne",
+      "activite": "recette",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.recette.aide",
+      "texte": "Prépare la collation avec un adulte. Lave le fruit, demande de l’aide, laisse l’adulte le couper, puis mets les morceaux dans une assiette. Remets les images dans l’ordre.",
+      "categorie": "consigne",
+      "activite": "recette",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "recette.fin_securite",
+      "texte": "Le fruit est lavé, l’adulte l’a préparé et les morceaux sont dans l’assiette. Bon appétit !",
+      "categorie": "consigne",
+      "activite": "recette",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.recette.titre",
+      "texte": "La recette de trois gestes",
+      "categorie": "consigne",
+      "activite": "recette",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.recette.g1",
+      "texte": "Avec un adulte : lave la pomme, laisse l’adulte la couper, puis place les morceaux dans une assiette. Remets les gestes dans le bon ordre.",
+      "categorie": "consigne",
+      "activite": "recette",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "recette.fin",
+      "texte": "La pomme est lavée et l’adulte l’a coupée. Les morceaux sont prêts dans l’assiette. Miam !",
+      "categorie": "consigne",
+      "activite": "recette",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.ranger.trois",
+      "texte": "On range ! Les jouets, les vêtements et les livres : chacun dans son bac !",
+      "categorie": "consigne",
+      "activite": "ranger",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.ranger.vetements_livres",
+      "texte": "On range ! Les vêtements dans un bac, les livres dans l’autre !",
+      "categorie": "consigne",
+      "activite": "ranger",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.ranger.titre",
+      "texte": "Ranger",
+      "categorie": "consigne",
+      "activite": "ranger",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.ranger.jouets",
+      "texte": "On range ! Mets les jouets dans un bac, et les vêtements dans l'autre !",
+      "categorie": "consigne",
+      "activite": "ranger",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.ranger.livres",
+      "texte": "On range ! Les jouets d'un côté, les livres de l'autre !",
+      "categorie": "consigne",
+      "activite": "ranger",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.traverser.parc",
+      "texte": "Pour aller au parc, on traverse avec un adulte, main dans la main. On s’arrête, on regarde et on écoute. L’adulte décide quand on peut traverser en marchant. Remets les images dans l’ordre.",
+      "categorie": "consigne",
+      "activite": "traverser",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.traverser.ecole",
+      "texte": "Sur le chemin de l’école, on traverse avec un adulte, main dans la main. On s’arrête, on regarde et on écoute. L’adulte décide quand on peut traverser en marchant. Remets les images dans l’ordre.",
+      "categorie": "consigne",
+      "activite": "traverser",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "act.traverser.titre",
+      "texte": "Traverser",
+      "categorie": "consigne",
+      "activite": "traverser",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.traverser.g1",
+      "texte": "Avec un adulte, on s’arrête, on regarde et on écoute avant de traverser. Remets les images dans l’ordre.",
+      "categorie": "consigne",
+      "activite": "traverser",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "consigne.traverser.g2",
+      "texte": "Avec un adulte : stop, regarde, écoute, puis traverse quand c’est possible. Remets les images dans l’ordre.",
+      "categorie": "consigne",
+      "activite": "traverser",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "traverser.rappel",
+      "texte": "Bravo ! Et rappelle-toi : dans la vraie rue, on traverse toujours avec un adulte, la main dans la main.",
+      "categorie": "consigne",
+      "activite": "traverser",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.chapeau",
+      "texte": "chapeau",
+      "categorie": "lexique",
+      "concept": "chapeau",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.bateau",
+      "texte": "bateau",
+      "categorie": "lexique",
+      "concept": "bateau",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.gateau",
+      "texte": "gâteau",
+      "categorie": "lexique",
+      "concept": "gateau",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.cadeau",
+      "texte": "cadeau",
+      "categorie": "lexique",
+      "concept": "cadeau",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.oiseau",
+      "texte": "oiseau",
+      "categorie": "lexique",
+      "concept": "oiseau",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.chateau",
+      "texte": "château",
+      "categorie": "lexique",
+      "concept": "chateau",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.velo",
+      "texte": "vélo",
+      "categorie": "lexique",
+      "concept": "velo",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.moto",
+      "texte": "moto",
+      "categorie": "lexique",
+      "concept": "moto",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.ballon",
+      "texte": "ballon",
+      "categorie": "lexique",
+      "concept": "ballon",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.bonbon",
+      "texte": "bonbon",
+      "categorie": "lexique",
+      "concept": "bonbon",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.mouton",
+      "texte": "mouton",
+      "categorie": "lexique",
+      "concept": "mouton",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.poisson",
+      "texte": "poisson",
+      "categorie": "lexique",
+      "concept": "poisson",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.maison",
+      "texte": "maison",
+      "categorie": "lexique",
+      "concept": "maison",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.camion",
+      "texte": "camion",
+      "categorie": "lexique",
+      "concept": "camion",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.cochon",
+      "texte": "cochon",
+      "categorie": "lexique",
+      "concept": "cochon",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.lapin",
+      "texte": "lapin",
+      "categorie": "lexique",
+      "concept": "lapin",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.sapin",
+      "texte": "sapin",
+      "categorie": "lexique",
+      "concept": "sapin",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.poussin",
+      "texte": "poussin",
+      "categorie": "lexique",
+      "concept": "poussin",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.chemin",
+      "texte": "chemin",
+      "categorie": "lexique",
+      "concept": "chemin",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.matin",
+      "texte": "matin",
+      "categorie": "lexique",
+      "concept": "matin",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.loup",
+      "texte": "loup",
+      "categorie": "lexique",
+      "concept": "loup",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.chou",
+      "texte": "chou",
+      "categorie": "lexique",
+      "concept": "chou",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.hibou",
+      "texte": "hibou",
+      "categorie": "lexique",
+      "concept": "hibou",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.caillou",
+      "texte": "caillou",
+      "categorie": "lexique",
+      "concept": "caillou",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.genou",
+      "texte": "genou",
+      "categorie": "lexique",
+      "concept": "genou",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.doudou",
+      "texte": "doudou",
+      "categorie": "lexique",
+      "concept": "doudou",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.chat",
+      "texte": "chat",
+      "categorie": "lexique",
+      "concept": "chat",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.rat",
+      "texte": "rat",
+      "categorie": "lexique",
+      "concept": "rat",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.chocolat",
+      "texte": "chocolat",
+      "categorie": "lexique",
+      "concept": "chocolat",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.pizza",
+      "texte": "pizza",
+      "categorie": "lexique",
+      "concept": "pizza",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.papa",
+      "texte": "papa",
+      "categorie": "lexique",
+      "concept": "papa",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.souris",
+      "texte": "souris",
+      "categorie": "lexique",
+      "concept": "souris",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.lit",
+      "texte": "lit",
+      "categorie": "lexique",
+      "concept": "lit",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.nid",
+      "texte": "nid",
+      "categorie": "lexique",
+      "concept": "nid",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.bougie",
+      "texte": "bougie",
+      "categorie": "lexique",
+      "concept": "bougie",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.ami",
+      "texte": "ami",
+      "categorie": "lexique",
+      "concept": "ami",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.bebe",
+      "texte": "bébé",
+      "categorie": "lexique",
+      "concept": "bebe",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.fusee",
+      "texte": "fusée",
+      "categorie": "lexique",
+      "concept": "fusee",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.nez",
+      "texte": "nez",
+      "categorie": "lexique",
+      "concept": "nez",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.pied",
+      "texte": "pied",
+      "categorie": "lexique",
+      "concept": "pied",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.cafe",
+      "texte": "café",
+      "categorie": "lexique",
+      "concept": "cafe",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.poupee",
+      "texte": "poupée",
+      "categorie": "lexique",
+      "concept": "poupee",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.fourchette",
+      "texte": "fourchette",
+      "categorie": "lexique",
+      "concept": "fourchette",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.chaussette",
+      "texte": "chaussette",
+      "categorie": "lexique",
+      "concept": "chaussette",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.assiette",
+      "texte": "assiette",
+      "categorie": "lexique",
+      "concept": "assiette",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.casquette",
+      "texte": "casquette",
+      "categorie": "lexique",
+      "concept": "casquette",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.crevette",
+      "texte": "crevette",
+      "categorie": "lexique",
+      "concept": "crevette",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.fleur",
+      "texte": "fleur",
+      "categorie": "lexique",
+      "concept": "fleur",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.coeur",
+      "texte": "cœur",
+      "categorie": "lexique",
+      "concept": "coeur",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.beurre",
+      "texte": "beurre",
+      "categorie": "lexique",
+      "concept": "beurre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.couleur",
+      "texte": "couleur",
+      "categorie": "lexique",
+      "concept": "couleur",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.enfant",
+      "texte": "enfant",
+      "categorie": "lexique",
+      "concept": "enfant",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.bus",
+      "texte": "bus",
+      "categorie": "lexique",
+      "concept": "bus",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.poule",
+      "texte": "poule",
+      "categorie": "lexique",
+      "concept": "poule",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.papillon",
+      "texte": "papillon",
+      "categorie": "lexique",
+      "concept": "papillon",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.chenille",
+      "texte": "chenille",
+      "categorie": "lexique",
+      "concept": "chenille",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.oeuf",
+      "texte": "œuf",
+      "categorie": "lexique",
+      "concept": "oeuf",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.un",
+      "texte": "1",
+      "categorie": "lexique",
+      "concept": "un",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.deux",
+      "texte": "2",
+      "categorie": "lexique",
+      "concept": "deux",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.trois",
+      "texte": "3",
+      "categorie": "lexique",
+      "concept": "trois",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.quatre",
+      "texte": "4",
+      "categorie": "lexique",
+      "concept": "quatre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.cinq",
+      "texte": "5",
+      "categorie": "lexique",
+      "concept": "cinq",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.six",
+      "texte": "6",
+      "categorie": "lexique",
+      "concept": "six",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.sept",
+      "texte": "7",
+      "categorie": "lexique",
+      "concept": "sept",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.huit",
+      "texte": "8",
+      "categorie": "lexique",
+      "concept": "huit",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.neuf",
+      "texte": "9",
+      "categorie": "lexique",
+      "concept": "neuf",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.dix",
+      "texte": "10",
+      "categorie": "lexique",
+      "concept": "dix",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.manteau",
+      "texte": "manteau",
+      "categorie": "lexique",
+      "concept": "manteau",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.mitaines",
+      "texte": "mitaines",
+      "categorie": "lexique",
+      "concept": "mitaines",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.bottes",
+      "texte": "bottes",
+      "categorie": "lexique",
+      "concept": "bottes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.echarpe",
+      "texte": "écharpe",
+      "categorie": "lexique",
+      "concept": "echarpe",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.lunettes",
+      "texte": "lunettes de soleil",
+      "categorie": "lexique",
+      "concept": "lunettes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.maillot",
+      "texte": "maillot de bain",
+      "categorie": "lexique",
+      "concept": "maillot",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.gougounes",
+      "texte": "gougounes",
+      "categorie": "lexique",
+      "concept": "gougounes",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.souliers",
+      "texte": "souliers",
+      "categorie": "lexique",
+      "concept": "souliers",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.parapluie",
+      "texte": "parapluie",
+      "categorie": "lexique",
+      "concept": "parapluie",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.neige",
+      "texte": "neige",
+      "categorie": "lexique",
+      "concept": "neige",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.soleil",
+      "texte": "soleil",
+      "categorie": "lexique",
+      "concept": "soleil",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.nuage",
+      "texte": "nuage",
+      "categorie": "lexique",
+      "concept": "nuage",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.sac",
+      "texte": "sac à dos",
+      "categorie": "lexique",
+      "concept": "sac",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.lunch",
+      "texte": "lunch",
+      "categorie": "lexique",
+      "concept": "lunch",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.verre",
+      "texte": "verre",
+      "categorie": "lexique",
+      "concept": "verre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.pomme",
+      "texte": "pomme",
+      "categorie": "lexique",
+      "concept": "pomme",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.graine",
+      "texte": "graine",
+      "categorie": "lexique",
+      "concept": "graine",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.eau",
+      "texte": "eau",
+      "categorie": "lexique",
+      "concept": "eau",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.pot",
+      "texte": "pot",
+      "categorie": "lexique",
+      "concept": "pot",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.dormir",
+      "texte": "dormir",
+      "categorie": "lexique",
+      "concept": "dormir",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.lune",
+      "texte": "lune",
+      "categorie": "lexique",
+      "concept": "lune",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.etoile",
+      "texte": "étoile",
+      "categorie": "lexique",
+      "concept": "etoile",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.visage_content",
+      "texte": "content",
+      "categorie": "lexique",
+      "concept": "visage_content",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.visage_triste",
+      "texte": "triste",
+      "categorie": "lexique",
+      "concept": "visage_triste",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.visage_colere",
+      "texte": "fâché",
+      "categorie": "lexique",
+      "concept": "visage_colere",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.visage_peur",
+      "texte": "peur",
+      "categorie": "lexique",
+      "concept": "visage_peur",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.aide",
+      "texte": "demander de l'aide",
+      "categorie": "lexique",
+      "concept": "aide",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.respirer",
+      "texte": "respirer",
+      "categorie": "lexique",
+      "concept": "respirer",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.recommencer",
+      "texte": "recommencer",
+      "categorie": "lexique",
+      "concept": "recommencer",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.calin",
+      "texte": "un câlin",
+      "categorie": "lexique",
+      "concept": "calin",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.rouge",
+      "texte": "rouge",
+      "categorie": "lexique",
+      "concept": "rouge",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.jaune",
+      "texte": "jaune",
+      "categorie": "lexique",
+      "concept": "jaune",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.bleu",
+      "texte": "bleu",
+      "categorie": "lexique",
+      "concept": "bleu",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.orange",
+      "texte": "orange",
+      "categorie": "lexique",
+      "concept": "orange",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.vert",
+      "texte": "vert",
+      "categorie": "lexique",
+      "concept": "vert",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.violet",
+      "texte": "violet",
+      "categorie": "lexique",
+      "concept": "violet",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.monstre",
+      "texte": "le monstre",
+      "categorie": "lexique",
+      "concept": "monstre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.monstre_dodo",
+      "texte": "le monstre dort",
+      "categorie": "lexique",
+      "concept": "monstre_dodo",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.serpent",
+      "texte": "le serpent",
+      "categorie": "lexique",
+      "concept": "serpent",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.train",
+      "texte": "le train",
+      "categorie": "lexique",
+      "concept": "train",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.vache",
+      "texte": "la vache",
+      "categorie": "lexique",
+      "concept": "vache",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.tigre",
+      "texte": "le tigre",
+      "categorie": "lexique",
+      "concept": "tigre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.abeille",
+      "texte": "l'abeille",
+      "categorie": "lexique",
+      "concept": "abeille",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.grenouille",
+      "texte": "la grenouille",
+      "categorie": "lexique",
+      "concept": "grenouille",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.tambour",
+      "texte": "le tambour",
+      "categorie": "lexique",
+      "concept": "tambour",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.demander",
+      "texte": "demander gentiment",
+      "categorie": "lexique",
+      "concept": "demander",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.stop",
+      "texte": "dire stop",
+      "categorie": "lexique",
+      "concept": "stop",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.attendre",
+      "texte": "attendre son tour",
+      "categorie": "lexique",
+      "concept": "attendre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.pluie",
+      "texte": "la pluie",
+      "categorie": "lexique",
+      "concept": "pluie",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.devant",
+      "texte": "devant",
+      "categorie": "lexique",
+      "concept": "devant",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.derriere",
+      "texte": "derrière",
+      "categorie": "lexique",
+      "concept": "derriere",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.acote",
+      "texte": "à côté",
+      "categorie": "lexique",
+      "concept": "acote",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.dans",
+      "texte": "dans",
+      "categorie": "lexique",
+      "concept": "dans",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.forme_rond",
+      "texte": "le rond",
+      "categorie": "lexique",
+      "concept": "forme_rond",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.forme_carre",
+      "texte": "le carré",
+      "categorie": "lexique",
+      "concept": "forme_carre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.forme_triangle",
+      "texte": "le triangle",
+      "categorie": "lexique",
+      "concept": "forme_triangle",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.forme_losange",
+      "texte": "le losange",
+      "categorie": "lexique",
+      "concept": "forme_losange",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.haut",
+      "texte": "en haut",
+      "categorie": "lexique",
+      "concept": "haut",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.bas",
+      "texte": "en bas",
+      "categorie": "lexique",
+      "concept": "bas",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.gauche",
+      "texte": "à gauche",
+      "categorie": "lexique",
+      "concept": "gauche",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.droite",
+      "texte": "à droite",
+      "categorie": "lexique",
+      "concept": "droite",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.casier",
+      "texte": "la case",
+      "categorie": "lexique",
+      "concept": "casier",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.banane",
+      "texte": "une banane",
+      "categorie": "lexique",
+      "concept": "banane",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.fraise",
+      "texte": "une fraise",
+      "categorie": "lexique",
+      "concept": "fraise",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.raisin",
+      "texte": "du raisin",
+      "categorie": "lexique",
+      "concept": "raisin",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.vent",
+      "texte": "le vent",
+      "categorie": "lexique",
+      "concept": "vent",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.ours",
+      "texte": "l'ours",
+      "categorie": "lexique",
+      "concept": "ours",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.grelot",
+      "texte": "le grelot",
+      "categorie": "lexique",
+      "concept": "grelot",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.fort",
+      "texte": "fort",
+      "categorie": "lexique",
+      "concept": "fort",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.doux",
+      "texte": "doux",
+      "categorie": "lexique",
+      "concept": "doux",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.robinet",
+      "texte": "le robinet",
+      "categorie": "lexique",
+      "concept": "robinet",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.savon",
+      "texte": "le savon",
+      "categorie": "lexique",
+      "concept": "savon",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.frotter",
+      "texte": "frotter les mains",
+      "categorie": "lexique",
+      "concept": "frotter",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.couteau",
+      "texte": "le couteau",
+      "categorie": "lexique",
+      "concept": "couteau",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.livre",
+      "texte": "le livre",
+      "categorie": "lexique",
+      "concept": "livre",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.panneau_stop",
+      "texte": "le panneau stop",
+      "categorie": "lexique",
+      "concept": "panneau_stop",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.regarder",
+      "texte": "regarder",
+      "categorie": "lexique",
+      "concept": "regarder",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.ecouter",
+      "texte": "écouter",
+      "categorie": "lexique",
+      "concept": "ecouter",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    },
+    {
+      "id": "lex.marcher",
+      "texte": "marcher",
+      "categorie": "lexique",
+      "concept": "marcher",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": ""
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img">
+  <title>Deux ballons reliés par des ondes sonores</title>
+
+  <!-- Fond crème arrondi : la carte du jeu -->
+  <rect x="2" y="2" width="124" height="124" rx="30" fill="#FDF6E3"/>
+
+  <!-- Ondes sonores entre les deux ballons (dessinées en premier :
+       leurs bouts se cachent derrière les ballons) -->
+  <path d="M37 54.8 A28 28 0 0 1 91 54.8" fill="none" stroke="#4A90D9" stroke-width="5" stroke-linecap="round"/>
+  <path d="M28.3 52.4 A37 37 0 0 1 99.7 52.4" fill="none" stroke="#4CAF7D" stroke-width="5" stroke-linecap="round"/>
+  <path d="M19.6 50.1 A46 46 0 0 1 108.4 50.1" fill="none" stroke="#E8734A" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Ballon corail (gauche) -->
+  <g>
+    <ellipse cx="38" cy="67" rx="21" ry="24.5" fill="#E8734A"/>
+    <path d="M33.8 90 L42.2 90 L38 97 Z" fill="#E8734A"/>
+    <ellipse cx="30.5" cy="53" rx="5.5" ry="8" fill="#FFFFFF" opacity="0.3" transform="rotate(-22 30.5 53)"/>
+    <path d="M38 97 q7 6 0 11 q-7 6 1 9" fill="none" stroke="#4A90D9" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- Ballon jaune (droite) -->
+  <g>
+    <ellipse cx="90" cy="67" rx="21" ry="24.5" fill="#F6C445"/>
+    <path d="M85.8 90 L94.2 90 L90 97 Z" fill="#F6C445"/>
+    <ellipse cx="82.5" cy="53" rx="5.5" ry="8" fill="#FFFFFF" opacity="0.3" transform="rotate(-22 82.5 53)"/>
+    <path d="M90 97 q-7 6 0 11 q7 6 -1 9" fill="none" stroke="#4A90D9" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- Petits éclats de sons -->
+  <circle cx="23" cy="27" r="3.5" fill="#4CAF7D"/>
+  <circle cx="105" cy="27" r="3.5" fill="#4A90D9"/>
+</svg>

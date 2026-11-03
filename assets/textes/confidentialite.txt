@@ -1,0 +1,18 @@
+Confidentialité de Labo des Petits
+Dernière mise à jour : 26 octobre 2026
+
+Labo des Petits est une application de jeux en français destinée aux enfants de 4 à 7 ans. Les jeux fonctionnent hors ligne, sans compte, sans publicité et sans outil de suivi ou de mesure d’usage. Aucune donnée de jeu n’est transmise à l’éditeur ou à un prestataire.
+
+Données sur l’appareil
+Le prénom ou surnom, l’avatar, l’âge choisi, les réglages, la progression, les collants et le temps de jeu quotidien restent dans le stockage local de l’application. Un surnom suffit : aucun nom complet ni adresse courriel d’enfant n’est nécessaire. Ces informations servent à retrouver les jeux et récompenses de chaque profil.
+
+Microphone facultatif
+Le micro est désactivé par défaut. Un adulte peut l’autoriser depuis l’espace parent, puis accorder la permission du système. Certains jeux permettent alors de s’enregistrer pour se réécouter. La voix n’est ni reconnue, ni évaluée, ni envoyée sur Internet. Le fichier temporaire est effacé après la réécoute ou l’annulation ; le nettoyage traite aussi les enregistrements interrompus. Tous les jeux restent utilisables sans micro. L’adulte peut désactiver le micro dans l’application ou dans les réglages du téléphone.
+
+Contrôle et suppression
+L’espace parent permet de remettre à zéro la progression ou de supprimer un profil et ses données. Il est protégé par un maintien de bouton suivi d’un calcul. Désinstaller l’application supprime son stockage local selon le fonctionnement du système. Les sauvegardes et restaurations éventuellement réalisées par iOS ou Android dépendent des réglages de l’appareil ; Labo des Petits n’exploite aucun service de sauvegarde de l’éditeur.
+
+Soutien
+L’espace parent permet de rédiger une recommandation ou un commentaire. Le bouton ouvre un brouillon adressé à support@le-sieur.ca dans l’application de courriel du parent ; Labo des Petits n’envoie rien automatiquement et ne joint aucun profil, progression, détail de l’appareil, photo ou enregistrement. Le parent relit le brouillon puis décide de l’envoyer. Si vous nous écrivez, votre message et l’adresse courriel utilisée seront traités pour vous répondre et examiner votre retour. N’envoyez pas de nom complet ni d’autre renseignement personnel concernant un enfant.
+
+Cette politique sera mise à jour si le fonctionnement de l’application change.

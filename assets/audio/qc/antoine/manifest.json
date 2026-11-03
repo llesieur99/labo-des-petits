@@ -1,0 +1,6759 @@
+{
+  "version": 1,
+  "deck": "qc",
+  "voix": {
+    "principale": "fr-CA-AntoineNeural",
+    "secondaire": "fr-CA-SylvieNeural"
+  },
+  "genere": "2026-10-27T03:13:27Z",
+  "clips": {
+    "act.animal.titre": {
+      "fichier": "qc/antoine/consignes/animal/titre.mp3",
+      "texte": "Animal inventé",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "77058097",
+      "statut": "genere",
+      "octets": 13824,
+      "dureeMs": null
+    },
+    "act.balance.titre": {
+      "fichier": "qc/antoine/consignes/balance/titre.mp3",
+      "texte": "La balance du marché",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4b921280",
+      "statut": "genere",
+      "octets": 14544,
+      "dureeMs": null
+    },
+    "act.bouche.titre": {
+      "fichier": "qc/antoine/consignes/bouche/titre.mp3",
+      "texte": "La bouche à sons",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "3a2fed75",
+      "statut": "genere",
+      "octets": 12672,
+      "dureeMs": null
+    },
+    "act.bus.titre": {
+      "fichier": "qc/antoine/consignes/bus/titre.mp3",
+      "texte": "Le bus des amis",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "bdcacd5b",
+      "statut": "genere",
+      "octets": 13104,
+      "dureeMs": null
+    },
+    "act.chanson.titre": {
+      "fichier": "qc/antoine/consignes/chanson/titre.mp3",
+      "texte": "Chanson de quatre cases",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a0e92cd6",
+      "statut": "genere",
+      "octets": 15840,
+      "dureeMs": null
+    },
+    "act.chemin.titre": {
+      "fichier": "qc/antoine/consignes/chemin/titre.mp3",
+      "texte": "Le chemin du doigt",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7702de4e",
+      "statut": "genere",
+      "octets": 12528,
+      "dureeMs": null
+    },
+    "act.code.titre": {
+      "fichier": "qc/antoine/consignes/code/titre.mp3",
+      "texte": "Le code de trois blocs",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "817d13d7",
+      "statut": "genere",
+      "octets": 14400,
+      "dureeMs": null
+    },
+    "act.couper.titre": {
+      "fichier": "qc/antoine/consignes/couper/titre.mp3",
+      "texte": "Découper avec le doigt",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c3805543",
+      "statut": "genere",
+      "octets": 14544,
+      "dureeMs": null
+    },
+    "act.fenetre.titre": {
+      "fichier": "qc/antoine/consignes/fenetre/titre.mp3",
+      "texte": "Regarde par la fenêtre",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "be4d02be",
+      "statut": "genere",
+      "octets": 14976,
+      "dureeMs": null
+    },
+    "act.flotte.titre": {
+      "fichier": "qc/antoine/consignes/flotte/titre.mp3",
+      "texte": "Flotte ou coule",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "be9ce1b1",
+      "statut": "genere",
+      "octets": 12384,
+      "dureeMs": null
+    },
+    "act.formes.titre": {
+      "fichier": "qc/antoine/consignes/formes/titre.mp3",
+      "texte": "Formes qui s'emboîtent",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "090094bc",
+      "statut": "genere",
+      "octets": 14688,
+      "dureeMs": null
+    },
+    "act.gateau.titre": {
+      "fichier": "qc/antoine/consignes/gateau/titre.mp3",
+      "texte": "Partager le gâteau",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "72d6aba1",
+      "statut": "genere",
+      "octets": 13392,
+      "dureeMs": null
+    },
+    "act.graine.titre": {
+      "fichier": "qc/antoine/consignes/graine/titre.mp3",
+      "texte": "La graine",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6697e188",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "act.grenouille.titre": {
+      "fichier": "qc/antoine/consignes/grenouille/titre.mp3",
+      "texte": "La grenouille sur la ligne",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f55a726d",
+      "statut": "genere",
+      "octets": 14976,
+      "dureeMs": null
+    },
+    "act.habiller.titre": {
+      "fichier": "qc/antoine/consignes/habiller/titre.mp3",
+      "texte": "S'habiller pour sortir",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f92f2c17",
+      "statut": "genere",
+      "octets": 14688,
+      "dureeMs": null
+    },
+    "act.hauteur.titre": {
+      "fichier": "qc/antoine/consignes/hauteur/titre.mp3",
+      "texte": "Aigu, grave, fort, doux",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c92e4aaa",
+      "statut": "genere",
+      "octets": 21456,
+      "dureeMs": null
+    },
+    "act.heure.titre": {
+      "fichier": "qc/antoine/consignes/heure/titre.mp3",
+      "texte": "L'heure du goûter",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1e800145",
+      "statut": "genere",
+      "octets": 12096,
+      "dureeMs": null
+    },
+    "act.histoire.titre": {
+      "fichier": "qc/antoine/consignes/histoire/titre.mp3",
+      "texte": "L'histoire en quatre cases",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "18e3ee30",
+      "statut": "genere",
+      "octets": 16128,
+      "dureeMs": null
+    },
+    "act.intrus.titre": {
+      "fichier": "qc/antoine/consignes/intrus/titre.mp3",
+      "texte": "L'intrus qui parle",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "58f5c954",
+      "statut": "genere",
+      "octets": 13680,
+      "dureeMs": null
+    },
+    "act.journuit.titre": {
+      "fichier": "qc/antoine/consignes/journuit/titre.mp3",
+      "texte": "Jour et nuit",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "502ce21e",
+      "statut": "genere",
+      "octets": 11808,
+      "dureeMs": null
+    },
+    "act.lettre.titre": {
+      "fichier": "qc/antoine/consignes/lettre/titre.mp3",
+      "texte": "La lettre en pâte à modeler",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9f5c76b9",
+      "statut": "genere",
+      "octets": 15408,
+      "dureeMs": null
+    },
+    "act.mains.titre": {
+      "fichier": "qc/antoine/consignes/mains/titre.mp3",
+      "texte": "Laver les mains",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1760dfda",
+      "statut": "genere",
+      "octets": 11376,
+      "dureeMs": null
+    },
+    "act.manque.titre": {
+      "fichier": "qc/antoine/consignes/manque/titre.mp3",
+      "texte": "Qu'est-ce qui manque ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7d49812c",
+      "statut": "genere",
+      "octets": 11664,
+      "dureeMs": null
+    },
+    "act.milo.titre": {
+      "fichier": "qc/antoine/consignes/milo/titre.mp3",
+      "texte": "La figure de Milo",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8ee95ccc",
+      "statut": "genere",
+      "octets": 13680,
+      "dureeMs": null
+    },
+    "act.monstre.titre": {
+      "fichier": "qc/antoine/consignes/monstre/titre.mp3",
+      "texte": "Le calme du monstre",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "787c5ff9",
+      "statut": "genere",
+      "octets": 14544,
+      "dureeMs": null
+    },
+    "act.motcache.titre": {
+      "fichier": "qc/antoine/consignes/motcache/titre.mp3",
+      "texte": "Le mot caché dans la maison",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d9ff2cff",
+      "statut": "genere",
+      "octets": 15408,
+      "dureeMs": null
+    },
+    "act.mots.titre": {
+      "fichier": "qc/antoine/consignes/mots/titre.mp3",
+      "texte": "Les mots pour demander",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c555f864",
+      "statut": "genere",
+      "octets": 14256,
+      "dureeMs": null
+    },
+    "act.ombres.titre": {
+      "fichier": "qc/antoine/consignes/ombres/titre.mp3",
+      "texte": "Les ombres",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4000e391",
+      "statut": "genere",
+      "octets": 11664,
+      "dureeMs": null
+    },
+    "act.ordres.titre": {
+      "fichier": "qc/antoine/consignes/ordres/titre.mp3",
+      "texte": "Trois ordres, pas plus",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "3a7f4cd0",
+      "statut": "genere",
+      "octets": 15984,
+      "dureeMs": null
+    },
+    "act.papillon.titre": {
+      "fichier": "qc/antoine/consignes/papillon/titre.mp3",
+      "texte": "Les ailes du papillon",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6ce01939",
+      "statut": "genere",
+      "octets": 13680,
+      "dureeMs": null
+    },
+    "act.peinture.titre": {
+      "fichier": "qc/antoine/consignes/peinture/titre.mp3",
+      "texte": "La peinture qui se mélange",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1466ace1",
+      "statut": "genere",
+      "octets": 16272,
+      "dureeMs": null
+    },
+    "act.perles.titre": {
+      "fichier": "qc/antoine/consignes/perles/titre.mp3",
+      "texte": "Perles à motifs",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4f3448c7",
+      "statut": "genere",
+      "octets": 12384,
+      "dureeMs": null
+    },
+    "act.petit.titre": {
+      "fichier": "qc/antoine/consignes/petit/titre.mp3",
+      "texte": "Le petit et sa maison",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4caa9908",
+      "statut": "genere",
+      "octets": 14256,
+      "dureeMs": null
+    },
+    "act.phrase.titre": {
+      "fichier": "qc/antoine/consignes/phrase/titre.mp3",
+      "texte": "La phrase en images",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "86e82351",
+      "statut": "genere",
+      "octets": 14688,
+      "dureeMs": null
+    },
+    "act.plusmoins.titre": {
+      "fichier": "qc/antoine/consignes/plusmoins/titre.mp3",
+      "texte": "Plus, moins, pareil",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "968bd9ec",
+      "statut": "genere",
+      "octets": 17280,
+      "dureeMs": null
+    },
+    "act.ranger.titre": {
+      "fichier": "qc/antoine/consignes/ranger/titre.mp3",
+      "texte": "Ranger",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5b5bf036",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "act.recette.titre": {
+      "fichier": "qc/antoine/consignes/recette/titre.mp3",
+      "texte": "La recette de trois gestes",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c305d61f",
+      "statut": "genere",
+      "octets": 15264,
+      "dureeMs": null
+    },
+    "act.rimes.titre": {
+      "fichier": "qc/antoine/consignes/rimes/titre.mp3",
+      "texte": "La chasse aux rimes",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "eed82a5d",
+      "statut": "genere",
+      "octets": 13392,
+      "dureeMs": null
+    },
+    "act.rythme.titre": {
+      "fichier": "qc/antoine/consignes/rythme/titre.mp3",
+      "texte": "Le rythme des pas",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "665b3c43",
+      "statut": "genere",
+      "octets": 12816,
+      "dureeMs": null
+    },
+    "act.sac.titre": {
+      "fichier": "qc/antoine/consignes/sac/titre.mp3",
+      "texte": "Mon sac du matin",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1f31dafd",
+      "statut": "genere",
+      "octets": 13680,
+      "dureeMs": null
+    },
+    "act.sens.titre": {
+      "fichier": "qc/antoine/consignes/sens/titre.mp3",
+      "texte": "Les cinq sens",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fc5a00ad",
+      "statut": "genere",
+      "octets": 13104,
+      "dureeMs": null
+    },
+    "act.sialors.titre": {
+      "fichier": "qc/antoine/consignes/sialors/titre.mp3",
+      "texte": "Si… alors",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5a46bfd2",
+      "statut": "genere",
+      "octets": 13680,
+      "dureeMs": null
+    },
+    "act.spatial.titre": {
+      "fichier": "qc/antoine/consignes/spatial/titre.mp3",
+      "texte": "Devant, derrière, à côté",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7ee04a15",
+      "statut": "genere",
+      "octets": 20160,
+      "dureeMs": null
+    },
+    "act.syllabes.titre": {
+      "fichier": "qc/antoine/consignes/syllabes/titre.mp3",
+      "texte": "Les syllabes qui sautent",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ef085d3d",
+      "statut": "genere",
+      "octets": 14400,
+      "dureeMs": null
+    },
+    "act.table.titre": {
+      "fichier": "qc/antoine/consignes/table/titre.mp3",
+      "texte": "Mettre la table",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7705fdeb",
+      "statut": "genere",
+      "octets": 12672,
+      "dureeMs": null
+    },
+    "act.theatre.titre": {
+      "fichier": "qc/antoine/consignes/theatre/titre.mp3",
+      "texte": "Le théâtre de vingt secondes",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b27156f7",
+      "statut": "genere",
+      "octets": 17136,
+      "dureeMs": null
+    },
+    "act.tours.titre": {
+      "fichier": "qc/antoine/consignes/tours/titre.mp3",
+      "texte": "À tour de rôle",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "84c7b63c",
+      "statut": "genere",
+      "octets": 12672,
+      "dureeMs": null
+    },
+    "act.traverser.titre": {
+      "fichier": "qc/antoine/consignes/traverser/titre.mp3",
+      "texte": "Traverser",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "3b9142dc",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "chanson.bravo": {
+      "fichier": "qc/antoine/consignes/chanson/bravo.mp3",
+      "texte": "Ta chanson est belle ! Écoutons-la encore !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a9648021",
+      "statut": "genere",
+      "octets": 28512,
+      "dureeMs": null
+    },
+    "code.bravo": {
+      "fichier": "qc/antoine/consignes/code/bravo.mp3",
+      "texte": "Bravo ! La souris a suivi ton programme !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1c20c9ca",
+      "statut": "genere",
+      "octets": 27360,
+      "dureeMs": null
+    },
+    "consigne.atelier.corps": {
+      "fichier": "qc/antoine/consignes/animal/atelier.corps.mp3",
+      "texte": "Choisis un corps !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ae041646",
+      "statut": "genere",
+      "octets": 13536,
+      "dureeMs": null
+    },
+    "consigne.atelier.felicite": {
+      "fichier": "qc/antoine/consignes/animal/atelier.felicite.mp3",
+      "texte": "Quel beau nom !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "66ce3bd5",
+      "statut": "genere",
+      "octets": 11520,
+      "dureeMs": null
+    },
+    "consigne.atelier.g1": {
+      "fichier": "qc/antoine/consignes/animal/atelier.g1.mp3",
+      "texte": "On invente un animal !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "3c9517a6",
+      "statut": "genere",
+      "octets": 15408,
+      "dureeMs": null
+    },
+    "consigne.atelier.mange": {
+      "fichier": "qc/antoine/consignes/animal/atelier.mange.mp3",
+      "texte": "Qu'est-ce qu'il mange ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4a32e4f3",
+      "statut": "genere",
+      "octets": 12816,
+      "dureeMs": null
+    },
+    "consigne.atelier.nom": {
+      "fichier": "qc/antoine/consignes/animal/atelier.nom.mp3",
+      "texte": "Donne-lui un nom !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "db73e7cd",
+      "statut": "genere",
+      "octets": 12816,
+      "dureeMs": null
+    },
+    "consigne.atelier.queue": {
+      "fichier": "qc/antoine/consignes/animal/atelier.queue.mp3",
+      "texte": "Choisis une queue !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5331c552",
+      "statut": "genere",
+      "octets": 12528,
+      "dureeMs": null
+    },
+    "consigne.atelier.tete": {
+      "fichier": "qc/antoine/consignes/animal/atelier.tete.mp3",
+      "texte": "Choisis une tête !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f5fbcb50",
+      "statut": "genere",
+      "octets": 12960,
+      "dureeMs": null
+    },
+    "consigne.balance.egal": {
+      "fichier": "qc/antoine/consignes/balance/egal.mp3",
+      "texte": "C'est égal ! La balance est bien droite !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "297c4a34",
+      "statut": "genere",
+      "octets": 26208,
+      "dureeMs": null
+    },
+    "consigne.balance.g1": {
+      "fichier": "qc/antoine/consignes/balance/g1.mp3",
+      "texte": "Mets le même nombre de fruits dans chaque plateau. La balance doit être bien droite !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "17b16d9d",
+      "statut": "genere",
+      "octets": 39312,
+      "dureeMs": null
+    },
+    "consigne.balance.penche": {
+      "fichier": "qc/antoine/consignes/balance/penche.mp3",
+      "texte": "Ça penche ! Ajoute ou enlève des fruits.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "919fef9b",
+      "statut": "genere",
+      "octets": 25920,
+      "dureeMs": null
+    },
+    "consigne.bouche.g1": {
+      "fichier": "qc/antoine/consignes/bouche/g1.mp3",
+      "texte": "Écoute bien ce son… et fais-le toi aussi !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e67c49f4",
+      "statut": "genere",
+      "octets": 22752,
+      "dureeMs": null
+    },
+    "consigne.bus.combien": {
+      "fichier": "qc/antoine/consignes/bus/combien.mp3",
+      "texte": "Combien d'amis restent dans le bus ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1bf5a981",
+      "statut": "genere",
+      "octets": 17568,
+      "dureeMs": null
+    },
+    "consigne.bus.descend1": {
+      "fichier": "qc/antoine/consignes/bus/descend1.mp3",
+      "texte": "Un ami descend du bus.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "3f8a7fb4",
+      "statut": "genere",
+      "octets": 15552,
+      "dureeMs": null
+    },
+    "consigne.bus.descend2": {
+      "fichier": "qc/antoine/consignes/bus/descend2.mp3",
+      "texte": "Deux amis descendent du bus.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e5dd4674",
+      "statut": "genere",
+      "octets": 17280,
+      "dureeMs": null
+    },
+    "consigne.bus.g1": {
+      "fichier": "qc/antoine/consignes/bus/g1.mp3",
+      "texte": "Écoute bien l'histoire du bus.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a25f6849",
+      "statut": "genere",
+      "octets": 17856,
+      "dureeMs": null
+    },
+    "consigne.bus.monte1": {
+      "fichier": "qc/antoine/consignes/bus/monte1.mp3",
+      "texte": "Un ami monte dans le bus.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "69c8a341",
+      "statut": "genere",
+      "octets": 16128,
+      "dureeMs": null
+    },
+    "consigne.bus.monte2": {
+      "fichier": "qc/antoine/consignes/bus/monte2.mp3",
+      "texte": "Deux amis montent dans le bus.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d9dc2611",
+      "statut": "genere",
+      "octets": 16992,
+      "dureeMs": null
+    },
+    "consigne.bus.monte3": {
+      "fichier": "qc/antoine/consignes/bus/monte3.mp3",
+      "texte": "Trois amis montent dans le bus.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ecc3230f",
+      "statut": "genere",
+      "octets": 17136,
+      "dureeMs": null
+    },
+    "consigne.chanson.g1": {
+      "fichier": "qc/antoine/consignes/chanson/g1.mp3",
+      "texte": "Place quatre sons dans les cases. Après, on écoute ta chanson !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a1aeaa0e",
+      "statut": "genere",
+      "octets": 34416,
+      "dureeMs": null
+    },
+    "consigne.chemin.g1": {
+      "fichier": "qc/antoine/consignes/chemin/g1.mp3",
+      "texte": "Suis le chemin avec ton doigt, tout au long. Vas-y doucement !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "612956a0",
+      "statut": "genere",
+      "octets": 32400,
+      "dureeMs": null
+    },
+    "consigne.code.g1": {
+      "fichier": "qc/antoine/consignes/code/g1.mp3",
+      "texte": "Pose tes blocs pour amener la souris jusqu'à la pomme. Après, appuie sur le bouton vert !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "43d395c5",
+      "statut": "genere",
+      "octets": 40752,
+      "dureeMs": null
+    },
+    "consigne.couper.g1": {
+      "fichier": "qc/antoine/consignes/couper/g1.mp3",
+      "texte": "Suis la ligne avec ton doigt, comme des ciseaux. Pars du point !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "cc6925dc",
+      "statut": "genere",
+      "octets": 32112,
+      "dureeMs": null
+    },
+    "consigne.ecoute": {
+      "fichier": "qc/antoine/consignes/ecoute.mp3",
+      "texte": "Écoute bien…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-5%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0da68261",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "consigne.fenetre.e1": {
+      "fichier": "qc/antoine/consignes/fenetre/e1.mp3",
+      "texte": "Regarde bien par la fenêtre…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "096ad844",
+      "statut": "genere",
+      "octets": 17568,
+      "dureeMs": null
+    },
+    "consigne.fenetre.e2": {
+      "fichier": "qc/antoine/consignes/fenetre/e2.mp3",
+      "texte": "Quel temps fait-il dans la fenêtre ? Touche la bonne image !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6669c592",
+      "statut": "genere",
+      "octets": 30240,
+      "dureeMs": null
+    },
+    "consigne.flotte.g1": {
+      "fichier": "qc/antoine/consignes/flotte/g1.mp3",
+      "texte": "Devine : est-ce que ça flotte sur l'eau, ou est-ce que ça coule au fond ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "16792479",
+      "statut": "genere",
+      "octets": 28656,
+      "dureeMs": null
+    },
+    "consigne.flotte.plouf": {
+      "fichier": "qc/antoine/consignes/flotte/plouf.mp3",
+      "texte": "Plouf ! Regarde bien…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "109f6395",
+      "statut": "genere",
+      "octets": 20448,
+      "dureeMs": null
+    },
+    "consigne.formes.g1": {
+      "fichier": "qc/antoine/consignes/formes/g1.mp3",
+      "texte": "Chaque forme a sa case. Mets chaque forme dans la bonne case !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0cf7c024",
+      "statut": "genere",
+      "octets": 33264,
+      "dureeMs": null
+    },
+    "consigne.gateau.deux": {
+      "fichier": "qc/antoine/consignes/gateau/deux.mp3",
+      "texte": "Deux amis veulent chacun la même part. En combien de parts coupe-t-on le gâteau ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4c1a52cd",
+      "statut": "genere",
+      "octets": 37008,
+      "dureeMs": null
+    },
+    "consigne.gateau.g1": {
+      "fichier": "qc/antoine/consignes/gateau/g1.mp3",
+      "texte": "Regarde le gâteau…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "864cc0da",
+      "statut": "genere",
+      "octets": 13680,
+      "dureeMs": null
+    },
+    "consigne.gateau.quatre": {
+      "fichier": "qc/antoine/consignes/gateau/quatre.mp3",
+      "texte": "Maintenant, quatre amis veulent chacun la même part. En combien de parts coupe-t-on le gâteau ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f82c965e",
+      "statut": "genere",
+      "octets": 41184,
+      "dureeMs": null
+    },
+    "consigne.graine.e1": {
+      "fichier": "qc/antoine/consignes/graine/e1.mp3",
+      "texte": "Une petite graine dort dans la terre. Que lui faut-il pour se réveiller ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8ceffaae",
+      "statut": "genere",
+      "octets": 34128,
+      "dureeMs": null
+    },
+    "consigne.graine.e2": {
+      "fichier": "qc/antoine/consignes/graine/e2.mp3",
+      "texte": "Ça pousse ! Mais la pousse a besoin de lumière. Que fait-on ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7aff8061",
+      "statut": "genere",
+      "octets": 38160,
+      "dureeMs": null
+    },
+    "consigne.graine.e3": {
+      "fichier": "qc/antoine/consignes/graine/e3.mp3",
+      "texte": "La pousse est grande. Elle a soif ! Que lui donnes-tu ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8fa81ec5",
+      "statut": "genere",
+      "octets": 35424,
+      "dureeMs": null
+    },
+    "consigne.graine.e4": {
+      "fichier": "qc/antoine/consignes/graine/e4.mp3",
+      "texte": "Regarde comme elle est belle ! Elle a encore besoin d'eau.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "bfef96d2",
+      "statut": "genere",
+      "octets": 30384,
+      "dureeMs": null
+    },
+    "consigne.graine.e5": {
+      "fichier": "qc/antoine/consignes/graine/e5.mp3",
+      "texte": "Bravo ! La fleur est ouverte !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "cb23a1aa",
+      "statut": "genere",
+      "octets": 23472,
+      "dureeMs": null
+    },
+    "consigne.graine.g1": {
+      "fichier": "qc/antoine/consignes/graine/g1.mp3",
+      "texte": "Regarde bien la plante !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "44c9488b",
+      "statut": "genere",
+      "octets": 15840,
+      "dureeMs": null
+    },
+    "consigne.grenouille.e1": {
+      "fichier": "qc/antoine/consignes/grenouille/e1.mp3",
+      "texte": "La grenouille est sur la ligne. Regarde bien !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "387be4dd",
+      "statut": "genere",
+      "octets": 28080,
+      "dureeMs": null
+    },
+    "consigne.grenouille.e2": {
+      "fichier": "qc/antoine/consignes/grenouille/e2.mp3",
+      "texte": "Où est-elle arrivée ? Touche le bon nombre !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fd069cda",
+      "statut": "genere",
+      "octets": 26352,
+      "dureeMs": null
+    },
+    "consigne.habiller.g1": {
+      "fichier": "qc/antoine/consignes/habiller/g1.mp3",
+      "texte": "C'est l'hiver dehors ! Mets les affaires de neige dans le bac à neige, et les affaires d'été dans le bac au soleil.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e9654c9d",
+      "statut": "genere",
+      "octets": 47520,
+      "dureeMs": null
+    },
+    "consigne.hauteur.g1": {
+      "fichier": "qc/antoine/consignes/hauteur/g1.mp3",
+      "texte": "Écoute bien ce son ! Qui chante tout en haut, ou qui grogne tout en bas ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c15895e8",
+      "statut": "genere",
+      "octets": 36576,
+      "dureeMs": null
+    },
+    "consigne.hauteur.g2": {
+      "fichier": "qc/antoine/consignes/hauteur/g2.mp3",
+      "texte": "Écoute bien ce son ! Est-ce qu'il est fort, ou est-ce qu'il est tout doux ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f66fd3b1",
+      "statut": "genere",
+      "octets": 33408,
+      "dureeMs": null
+    },
+    "consigne.heure.diner": {
+      "fichier": "qc/antoine/consignes/heure/diner.mp3",
+      "texte": "Il est midi ! Qu'est-ce qu'on fait à midi ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "46501b32",
+      "statut": "genere",
+      "octets": 24912,
+      "dureeMs": null
+    },
+    "consigne.heure.dodo": {
+      "fichier": "qc/antoine/consignes/heure/dodo.mp3",
+      "texte": "Il est huit heures du soir. Il fait noir dehors. Que fait-on ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "beaddfa2",
+      "statut": "genere",
+      "octets": 38880,
+      "dureeMs": null
+    },
+    "consigne.heure.g1": {
+      "fichier": "qc/antoine/consignes/heure/g1.mp3",
+      "texte": "Regarde l'horloge…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a51da3e4",
+      "statut": "genere",
+      "octets": 13824,
+      "dureeMs": null
+    },
+    "consigne.heure.parc": {
+      "fichier": "qc/antoine/consignes/heure/parc.mp3",
+      "texte": "Il est quatre heures. Le soleil brille. Que fait-on ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2207da42",
+      "statut": "genere",
+      "octets": 35136,
+      "dureeMs": null
+    },
+    "consigne.heure.reveil": {
+      "fichier": "qc/antoine/consignes/heure/reveil.mp3",
+      "texte": "Il est sept heures et demie du matin. Que fait-on ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b3414710",
+      "statut": "genere",
+      "octets": 27216,
+      "dureeMs": null
+    },
+    "consigne.histoire.g1": {
+      "fichier": "qc/antoine/consignes/histoire/g1.mp3",
+      "texte": "Remets l'histoire dans l'ordre. Commence par le début !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "79008eee",
+      "statut": "genere",
+      "octets": 29808,
+      "dureeMs": null
+    },
+    "consigne.intrus.animaux": {
+      "fichier": "qc/antoine/consignes/intrus/animaux.mp3",
+      "texte": "Tout ça, ce sont des animaux… sauf un ! Touche celui qui n'est pas un animal.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9ff25396",
+      "statut": "genere",
+      "octets": 40896,
+      "dureeMs": null
+    },
+    "consigne.intrus.jouer": {
+      "fichier": "qc/antoine/consignes/intrus/jouer.mp3",
+      "texte": "Tout ça, c'est pour jouer… sauf un ! Touche ce qui n'est pas un jeu.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "06d9f26a",
+      "statut": "genere",
+      "octets": 36288,
+      "dureeMs": null
+    },
+    "consigne.intrus.maison": {
+      "fichier": "qc/antoine/consignes/intrus/maison.mp3",
+      "texte": "Voici des objets. Un animal s’est glissé parmi eux. Touche l’animal !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7202894c",
+      "statut": "genere",
+      "octets": 43344,
+      "dureeMs": null
+    },
+    "consigne.intrus.manger": {
+      "fichier": "qc/antoine/consignes/intrus/manger.mp3",
+      "texte": "Tout ça, ça se mange… sauf un ! Touche ce qui ne se mange pas.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ba2b3119",
+      "statut": "genere",
+      "octets": 35568,
+      "dureeMs": null
+    },
+    "consigne.intrus.porter": {
+      "fichier": "qc/antoine/consignes/intrus/porter.mp3",
+      "texte": "Tout ça, ça se porte… sauf un ! Touche ce qui ne se porte pas.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "84c5a82e",
+      "statut": "genere",
+      "octets": 35568,
+      "dureeMs": null
+    },
+    "consigne.journuit.e1": {
+      "fichier": "qc/antoine/consignes/journuit/e1.mp3",
+      "texte": "Le soleil se lève doucement. Quel moment de la journée commence ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d5825685",
+      "statut": "genere",
+      "octets": 31680,
+      "dureeMs": null
+    },
+    "consigne.journuit.e2": {
+      "fichier": "qc/antoine/consignes/journuit/e2.mp3",
+      "texte": "Le soleil est haut dans le ciel. C'est l'heure du dîner !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "549b8f28",
+      "statut": "genere",
+      "octets": 30096,
+      "dureeMs": null
+    },
+    "consigne.journuit.e3": {
+      "fichier": "qc/antoine/consignes/journuit/e3.mp3",
+      "texte": "Le soleil descend. Bientôt la nuit. Qu'est-ce qui se lève dans le ciel ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "151f083c",
+      "statut": "genere",
+      "octets": 39888,
+      "dureeMs": null
+    },
+    "consigne.journuit.e4": {
+      "fichier": "qc/antoine/consignes/journuit/e4.mp3",
+      "texte": "Il fait tout noir, les étoiles brillent. Que fait-on ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "28f50684",
+      "statut": "genere",
+      "octets": 29664,
+      "dureeMs": null
+    },
+    "consigne.journuit.g1": {
+      "fichier": "qc/antoine/consignes/journuit/g1.mp3",
+      "texte": "Regarde le ciel.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "3bff8a81",
+      "statut": "genere",
+      "octets": 14256,
+      "dureeMs": null
+    },
+    "consigne.lettre.g1": {
+      "fichier": "qc/antoine/consignes/lettre/g1.mp3",
+      "texte": "Suis la lettre avec ton doigt, doucement.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1bdee45a",
+      "statut": "genere",
+      "octets": 19296,
+      "dureeMs": null
+    },
+    "consigne.mains.apres_animal": {
+      "fichier": "qc/antoine/consignes/mains/apres_animal.mp3",
+      "texte": "Après avoir touché un animal, on lave ses mains. Remets les gestes dans le bon ordre.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ae531eef",
+      "statut": "genere",
+      "octets": 41760,
+      "dureeMs": null
+    },
+    "consigne.mains.apres_parc": {
+      "fichier": "qc/antoine/consignes/mains/apres_parc.mp3",
+      "texte": "Tu reviens du parc. Retrouve tous les gestes pour bien laver tes mains.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "16b918d4",
+      "statut": "genere",
+      "octets": 34992,
+      "dureeMs": null
+    },
+    "consigne.mains.apres_toilette": {
+      "fichier": "qc/antoine/consignes/mains/apres_toilette.mp3",
+      "texte": "Après les toilettes, on lave ses mains. Remets tous les gestes dans le bon ordre.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ca31c788",
+      "statut": "genere",
+      "octets": 37296,
+      "dureeMs": null
+    },
+    "consigne.mains.avant_repas": {
+      "fichier": "qc/antoine/consignes/mains/avant_repas.mp3",
+      "texte": "Avant de manger, on lave ses mains. Retrouve tous les gestes dans le bon ordre.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "21823a47",
+      "statut": "genere",
+      "octets": 39312,
+      "dureeMs": null
+    },
+    "consigne.mains.g1": {
+      "fichier": "qc/antoine/consignes/mains/g1.mp3",
+      "texte": "Remets les gestes dans l'ordre pour laver tes mains !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f6236f1f",
+      "statut": "genere",
+      "octets": 21888,
+      "dureeMs": null
+    },
+    "consigne.manque.e1": {
+      "fichier": "qc/antoine/consignes/manque/e1.mp3",
+      "texte": "Regarde bien tous les objets…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "65f8b4ef",
+      "statut": "genere",
+      "octets": 17424,
+      "dureeMs": null
+    },
+    "consigne.manque.e2": {
+      "fichier": "qc/antoine/consignes/manque/e2.mp3",
+      "texte": "Oh ! Un objet a disparu. Qu'est-ce qui manque ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "683ee7a5",
+      "statut": "genere",
+      "octets": 33696,
+      "dureeMs": null
+    },
+    "consigne.manque.e3": {
+      "fichier": "qc/antoine/consignes/manque/e3.mp3",
+      "texte": "Touche l'objet qui a disparu !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "529e8602",
+      "statut": "genere",
+      "octets": 16992,
+      "dureeMs": null
+    },
+    "consigne.milo.action": {
+      "fichier": "qc/antoine/consignes/milo/action.mp3",
+      "texte": "Qu'est-ce qui peut aider Milo ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "46069571",
+      "statut": "genere",
+      "octets": 14832,
+      "dureeMs": null
+    },
+    "consigne.milo.g1": {
+      "fichier": "qc/antoine/consignes/milo/g1.mp3",
+      "texte": "Regarde ce qui arrive à Milo.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d20756bd",
+      "statut": "genere",
+      "octets": 17856,
+      "dureeMs": null
+    },
+    "consigne.milo.visage": {
+      "fichier": "qc/antoine/consignes/milo/visage.mp3",
+      "texte": "Comment se sent Milo ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "61195887",
+      "statut": "genere",
+      "octets": 13248,
+      "dureeMs": null
+    },
+    "consigne.monstre.g1": {
+      "fichier": "qc/antoine/consignes/monstre/g1.mp3",
+      "texte": "Tape tout doucement, sans te presser, pour endormir le monstre.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4d065271",
+      "statut": "genere",
+      "octets": 28224,
+      "dureeMs": null
+    },
+    "consigne.motcache.g1": {
+      "fichier": "qc/antoine/consignes/motcache/g1.mp3",
+      "texte": "Trouve quelque chose qui commence par…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0377c6ec",
+      "statut": "genere",
+      "octets": 19440,
+      "dureeMs": null
+    },
+    "consigne.mots.g1": {
+      "fichier": "qc/antoine/consignes/mots/g1.mp3",
+      "texte": "Que peut dire Milo ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "14f6d91c",
+      "statut": "genere",
+      "octets": 12672,
+      "dureeMs": null
+    },
+    "consigne.ombres.g1": {
+      "fichier": "qc/antoine/consignes/ombres/g1.mp3",
+      "texte": "Regarde bien la lampe et l'ombre…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7ce175c9",
+      "statut": "genere",
+      "octets": 19152,
+      "dureeMs": null
+    },
+    "consigne.ombres.g2": {
+      "fichier": "qc/antoine/consignes/ombres/g2.mp3",
+      "texte": "La lampe brille d'un côté. De quel côté est l'ombre ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "edc11512",
+      "statut": "genere",
+      "octets": 30240,
+      "dureeMs": null
+    },
+    "consigne.ordres.g1": {
+      "fichier": "qc/antoine/consignes/ordres/g1.mp3",
+      "texte": "Écoute bien les ordres, puis fais-les dans l'ordre.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f76d534d",
+      "statut": "genere",
+      "octets": 23040,
+      "dureeMs": null
+    },
+    "consigne.papillon.g1": {
+      "fichier": "qc/antoine/consignes/papillon/g1.mp3",
+      "texte": "Peins les points sur l'aile. L'autre aile se copie toute seule !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6151eea7",
+      "statut": "genere",
+      "octets": 30960,
+      "dureeMs": null
+    },
+    "consigne.peinture.orange": {
+      "fichier": "qc/antoine/consignes/peinture/orange.mp3",
+      "texte": "Peins du rouge, puis ajoute du jaune. Que se passe-t-il ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "45bde12b",
+      "statut": "genere",
+      "octets": 31392,
+      "dureeMs": null
+    },
+    "consigne.peinture.vert": {
+      "fichier": "qc/antoine/consignes/peinture/vert.mp3",
+      "texte": "Peins du jaune, puis ajoute du bleu. Que se passe-t-il ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5453dc04",
+      "statut": "genere",
+      "octets": 30384,
+      "dureeMs": null
+    },
+    "consigne.peinture.violet": {
+      "fichier": "qc/antoine/consignes/peinture/violet.mp3",
+      "texte": "Peins du rouge, puis ajoute du bleu. Que se passe-t-il ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "18f458b3",
+      "statut": "genere",
+      "octets": 30384,
+      "dureeMs": null
+    },
+    "consigne.perles.g1": {
+      "fichier": "qc/antoine/consignes/perles/g1.mp3",
+      "texte": "Regarde bien le collier…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5210d535",
+      "statut": "genere",
+      "octets": 15696,
+      "dureeMs": null
+    },
+    "consigne.perles.g2": {
+      "fichier": "qc/antoine/consignes/perles/g2.mp3",
+      "texte": "Quelle perle vient après ? Continue le collier !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "58f9a824",
+      "statut": "genere",
+      "octets": 27216,
+      "dureeMs": null
+    },
+    "consigne.petit.g1": {
+      "fichier": "qc/antoine/consignes/petit/g1.mp3",
+      "texte": "Chaque animal a sa maison. Mets les animaux dans le bon bac !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "022a6d7b",
+      "statut": "genere",
+      "octets": 32544,
+      "dureeMs": null
+    },
+    "consigne.phrase.g1": {
+      "fichier": "qc/antoine/consignes/phrase/g1.mp3",
+      "texte": "Place les images pour faire la phrase :",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c8e2b16f",
+      "statut": "genere",
+      "octets": 19008,
+      "dureeMs": null
+    },
+    "consigne.plusmoins.g1": {
+      "fichier": "qc/antoine/consignes/plusmoins/g1.mp3",
+      "texte": "Regarde les deux tas !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9b69e4e0",
+      "statut": "genere",
+      "octets": 14544,
+      "dureeMs": null
+    },
+    "consigne.plusmoins.moins": {
+      "fichier": "qc/antoine/consignes/plusmoins/moins.mp3",
+      "texte": "Où y a-t-il le MOINS de fruits ? Touche ce côté-là !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e9f91381",
+      "statut": "genere",
+      "octets": 27792,
+      "dureeMs": null
+    },
+    "consigne.plusmoins.plus": {
+      "fichier": "qc/antoine/consignes/plusmoins/plus.mp3",
+      "texte": "Où y a-t-il le PLUS de fruits ? Touche ce côté-là !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f073b1ec",
+      "statut": "genere",
+      "octets": 27792,
+      "dureeMs": null
+    },
+    "consigne.ranger.jouets": {
+      "fichier": "qc/antoine/consignes/ranger/jouets.mp3",
+      "texte": "On range ! Mets les jouets dans un bac, et les vêtements dans l'autre !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b1d8544b",
+      "statut": "genere",
+      "octets": 34848,
+      "dureeMs": null
+    },
+    "consigne.ranger.livres": {
+      "fichier": "qc/antoine/consignes/ranger/livres.mp3",
+      "texte": "On range ! Les jouets d'un côté, les livres de l'autre !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ceaf5f78",
+      "statut": "genere",
+      "octets": 32832,
+      "dureeMs": null
+    },
+    "consigne.ranger.trois": {
+      "fichier": "qc/antoine/consignes/ranger/trois.mp3",
+      "texte": "On range ! Les jouets, les vêtements et les livres : chacun dans son bac !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7eceabcb",
+      "statut": "genere",
+      "octets": 38736,
+      "dureeMs": null
+    },
+    "consigne.ranger.vetements_livres": {
+      "fichier": "qc/antoine/consignes/ranger/vetements_livres.mp3",
+      "texte": "On range ! Les vêtements dans un bac, les livres dans l’autre !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a10944d5",
+      "statut": "genere",
+      "octets": 34560,
+      "dureeMs": null
+    },
+    "consigne.recette.aide": {
+      "fichier": "qc/antoine/consignes/recette/aide.mp3",
+      "texte": "Prépare la collation avec un adulte. Lave le fruit, demande de l’aide, laisse l’adulte le couper, puis mets les morceaux dans une assiette. Remets les images dans l’ordre.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0b9243d8",
+      "statut": "genere",
+      "octets": 74448,
+      "dureeMs": null
+    },
+    "consigne.recette.banane": {
+      "fichier": "qc/antoine/consignes/recette/banane.mp3",
+      "texte": "Avec un adulte, prépare une banane : lave la peau, laisse l’adulte la peler et la couper, puis mets les morceaux dans une assiette. Remets les images dans l’ordre.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "098c0e93",
+      "statut": "genere",
+      "octets": 67680,
+      "dureeMs": null
+    },
+    "consigne.recette.fraise": {
+      "fichier": "qc/antoine/consignes/recette/fraise.mp3",
+      "texte": "Avec un adulte, prépare des fraises : lave-les, laisse l’adulte les couper, puis mets les morceaux dans une assiette. Remets les images dans l’ordre.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "86696ea3",
+      "statut": "genere",
+      "octets": 62496,
+      "dureeMs": null
+    },
+    "consigne.recette.g1": {
+      "fichier": "qc/antoine/consignes/recette/g1.mp3",
+      "texte": "Avec un adulte : lave la pomme, laisse l’adulte la couper, puis place les morceaux dans une assiette. Remets les gestes dans le bon ordre.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1f77dcf5",
+      "statut": "genere",
+      "octets": 59472,
+      "dureeMs": null
+    },
+    "consigne.recette.pomme": {
+      "fichier": "qc/antoine/consignes/recette/pomme.mp3",
+      "texte": "Avec un adulte, prépare une pomme : lave-la, laisse l’adulte la couper, puis mets les morceaux dans une assiette. Remets les images dans l’ordre.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5b142495",
+      "statut": "genere",
+      "octets": 61632,
+      "dureeMs": null
+    },
+    "consigne.repete": {
+      "fichier": "qc/antoine/consignes/repete.mp3",
+      "texte": "Je te le redis.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-5%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2772c315",
+      "statut": "genere",
+      "octets": 11664,
+      "dureeMs": null
+    },
+    "consigne.rimes.g1": {
+      "fichier": "qc/antoine/consignes/rimes/g1.mp3",
+      "texte": "Trouve l'image qui rime avec",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "85cf4e81",
+      "statut": "genere",
+      "octets": 16848,
+      "dureeMs": null
+    },
+    "consigne.rimes.g2": {
+      "fichier": "qc/antoine/consignes/rimes/g2.mp3",
+      "texte": "Écoute bien. Quel mot rime avec…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "32e95c30",
+      "statut": "genere",
+      "octets": 23616,
+      "dureeMs": null
+    },
+    "consigne.rimes.g3": {
+      "fichier": "qc/antoine/consignes/rimes/g3.mp3",
+      "texte": "Lequel rime avec…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9c270933",
+      "statut": "genere",
+      "octets": 13680,
+      "dureeMs": null
+    },
+    "consigne.rythme.g1": {
+      "fichier": "qc/antoine/consignes/rythme/g1.mp3",
+      "texte": "Tape sur le tambour en même temps que moi. Écoute bien…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "36003339",
+      "statut": "genere",
+      "octets": 29088,
+      "dureeMs": null
+    },
+    "consigne.sac.fin": {
+      "fichier": "qc/antoine/consignes/sac/fin.mp3",
+      "texte": "Et laisse le reste à la maison.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1172fd7c",
+      "statut": "genere",
+      "octets": 15984,
+      "dureeMs": null
+    },
+    "consigne.sac.g1": {
+      "fichier": "qc/antoine/consignes/sac/g1.mp3",
+      "texte": "On prépare le sac pour l'école. Mets dans le sac :",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9822e16e",
+      "statut": "genere",
+      "octets": 28224,
+      "dureeMs": null
+    },
+    "consigne.sens.doux": {
+      "fichier": "qc/antoine/consignes/sens/doux.mp3",
+      "texte": "C'est tout doux ! Qu'est-ce qui est tout doux au toucher ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5223c73b",
+      "statut": "genere",
+      "octets": 26928,
+      "dureeMs": null
+    },
+    "consigne.sens.dur": {
+      "fichier": "qc/antoine/consignes/sens/dur.mp3",
+      "texte": "C'est dur comme un caillou ! Qu'est-ce qui est dur ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a6bd6f4f",
+      "statut": "genere",
+      "octets": 26640,
+      "dureeMs": null
+    },
+    "consigne.sens.gout": {
+      "fichier": "qc/antoine/consignes/sens/gout.mp3",
+      "texte": "Avec ta bouche, tu goûtes un aliment. Quelle image montre quelque chose à manger ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "84c18e7f",
+      "statut": "genere",
+      "octets": 39312,
+      "dureeMs": null
+    },
+    "consigne.sens.odorat": {
+      "fichier": "qc/antoine/consignes/sens/odorat.mp3",
+      "texte": "Avec ton nez, tu sens une bonne odeur dans le jardin. Quelle image peut avoir cette odeur ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d5687e7f",
+      "statut": "genere",
+      "octets": 41328,
+      "dureeMs": null
+    },
+    "consigne.sens.vue": {
+      "fichier": "qc/antoine/consignes/sens/vue.mp3",
+      "texte": "Avec tes yeux, tu vois une lumière dans le ciel. Quelle image montre cette lumière ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "24cabfb6",
+      "statut": "genere",
+      "octets": 40320,
+      "dureeMs": null
+    },
+    "consigne.sialors.faim": {
+      "fichier": "qc/antoine/consignes/sialors/faim.mp3",
+      "texte": "Le chat a très faim. Que mange-t-il ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8624760e",
+      "statut": "genere",
+      "octets": 25344,
+      "dureeMs": null
+    },
+    "consigne.sialors.neige": {
+      "fichier": "qc/antoine/consignes/sialors/neige.mp3",
+      "texte": "S'il neige et qu'il fait froid, que met le chat autour du cou ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b3655d46",
+      "statut": "genere",
+      "octets": 26208,
+      "dureeMs": null
+    },
+    "consigne.sialors.pluie": {
+      "fichier": "qc/antoine/consignes/sialors/pluie.mp3",
+      "texte": "S'il pleut, que prend le chat pour sortir ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "89b0547e",
+      "statut": "genere",
+      "octets": 20736,
+      "dureeMs": null
+    },
+    "consigne.sialors.soif": {
+      "fichier": "qc/antoine/consignes/sialors/soif.mp3",
+      "texte": "Le chat a très soif. Que boit-il ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1c44f5a1",
+      "statut": "genere",
+      "octets": 25488,
+      "dureeMs": null
+    },
+    "consigne.sialors.soleil": {
+      "fichier": "qc/antoine/consignes/sialors/soleil.mp3",
+      "texte": "S'il fait très beau et très chaud, que met le chat sur ses yeux ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "82023ed0",
+      "statut": "genere",
+      "octets": 26208,
+      "dureeMs": null
+    },
+    "consigne.spatial.e1": {
+      "fichier": "qc/antoine/consignes/spatial/e1.mp3",
+      "texte": "Regarde bien où est le chat…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f4ec8357",
+      "statut": "genere",
+      "octets": 17568,
+      "dureeMs": null
+    },
+    "consigne.spatial.e2": {
+      "fichier": "qc/antoine/consignes/spatial/e2.mp3",
+      "texte": "Où est le chat ? Touche la bonne image !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1929a979",
+      "statut": "genere",
+      "octets": 24624,
+      "dureeMs": null
+    },
+    "consigne.syllabes.g1": {
+      "fichier": "qc/antoine/consignes/syllabes/g1.mp3",
+      "texte": "Écoute le mot. La grenouille saute une fois pour chaque syllabe. À toi après !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "64c404f3",
+      "statut": "genere",
+      "octets": 42768,
+      "dureeMs": null
+    },
+    "consigne.table.assiette": {
+      "fichier": "qc/antoine/consignes/table/assiette.mp3",
+      "texte": "Donne une assiette à chaque ami.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "47db00de",
+      "statut": "genere",
+      "octets": 16416,
+      "dureeMs": null
+    },
+    "consigne.table.fourchette": {
+      "fichier": "qc/antoine/consignes/table/fourchette.mp3",
+      "texte": "Donne une fourchette à chaque ami.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0f376185",
+      "statut": "genere",
+      "octets": 16128,
+      "dureeMs": null
+    },
+    "consigne.table.verre": {
+      "fichier": "qc/antoine/consignes/table/verre.mp3",
+      "texte": "Donne un verre à chaque ami.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d1268738",
+      "statut": "genere",
+      "octets": 15696,
+      "dureeMs": null
+    },
+    "consigne.theatre.g1": {
+      "fichier": "qc/antoine/consignes/theatre/g1.mp3",
+      "texte": "Fais bouger tes deux amis avec ton doigt. Après, on rejoue la scène !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "71b33425",
+      "statut": "genere",
+      "octets": 36720,
+      "dureeMs": null
+    },
+    "consigne.touche": {
+      "fichier": "qc/antoine/consignes/touche.mp3",
+      "texte": "Touche la bonne image.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "3028f98a",
+      "statut": "genere",
+      "octets": 14400,
+      "dureeMs": null
+    },
+    "consigne.tours.autre": {
+      "fichier": "qc/antoine/consignes/tours/autre.mp3",
+      "texte": "À l'autre !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fac9f9c3",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "consigne.tours.g1": {
+      "fichier": "qc/antoine/consignes/tours/g1.mp3",
+      "texte": "Trouve :",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d9491872",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "consigne.tours.mien": {
+      "fichier": "qc/antoine/consignes/tours/mien.mp3",
+      "texte": "À toi !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "53bd97a1",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "consigne.traverser.ecole": {
+      "fichier": "qc/antoine/consignes/traverser/ecole.mp3",
+      "texte": "Sur le chemin de l’école, on traverse avec un adulte, main dans la main. On s’arrête, on regarde et on écoute. L’adulte décide quand on peut traverser en marchant. Remets les images dans l’ordre.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ec0fb8d9",
+      "statut": "genere",
+      "octets": 89568,
+      "dureeMs": null
+    },
+    "consigne.traverser.g1": {
+      "fichier": "qc/antoine/consignes/traverser/g1.mp3",
+      "texte": "Avec un adulte, on s’arrête, on regarde et on écoute avant de traverser. Remets les images dans l’ordre.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d027e0a6",
+      "statut": "genere",
+      "octets": 48960,
+      "dureeMs": null
+    },
+    "consigne.traverser.g2": {
+      "fichier": "qc/antoine/consignes/traverser/g2.mp3",
+      "texte": "Avec un adulte : stop, regarde, écoute, puis traverse quand c’est possible. Remets les images dans l’ordre.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9b790c54",
+      "statut": "genere",
+      "octets": 51984,
+      "dureeMs": null
+    },
+    "consigne.traverser.parc": {
+      "fichier": "qc/antoine/consignes/traverser/parc.mp3",
+      "texte": "Pour aller au parc, on traverse avec un adulte, main dans la main. On s’arrête, on regarde et on écoute. L’adulte décide quand on peut traverser en marchant. Remets les images dans l’ordre.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "488596fd",
+      "statut": "genere",
+      "octets": 87264,
+      "dureeMs": null
+    },
+    "cri.abeille": {
+      "fichier": "qc/antoine/consignes/sens/cri.abeille.mp3",
+      "texte": "Zzzzzz ! Qui fait ce bruit ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1cd29b6a",
+      "statut": "genere",
+      "octets": 30096,
+      "dureeMs": null
+    },
+    "cri.chat": {
+      "fichier": "qc/antoine/consignes/sens/cri.chat.mp3",
+      "texte": "Miaou ! Qui fait ce bruit ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "cc1af5de",
+      "statut": "genere",
+      "octets": 22320,
+      "dureeMs": null
+    },
+    "cri.hibou": {
+      "fichier": "qc/antoine/consignes/sens/cri.hibou.mp3",
+      "texte": "Hou hou ! Qui fait ce bruit ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6a126d2e",
+      "statut": "genere",
+      "octets": 21024,
+      "dureeMs": null
+    },
+    "cri.loup": {
+      "fichier": "qc/antoine/consignes/sens/cri.loup.mp3",
+      "texte": "Ouuuuu ! Qui fait ce bruit ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7a81a140",
+      "statut": "genere",
+      "octets": 24768,
+      "dureeMs": null
+    },
+    "cri.poule": {
+      "fichier": "qc/antoine/consignes/sens/cri.poule.mp3",
+      "texte": "Cot cot codet ! Qui fait ce bruit ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "73d1e191",
+      "statut": "genere",
+      "octets": 24048,
+      "dureeMs": null
+    },
+    "cri.serpent": {
+      "fichier": "qc/antoine/consignes/sens/cri.serpent.mp3",
+      "texte": "Ssssss ! Qui fait ce bruit ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5571ac87",
+      "statut": "genere",
+      "octets": 29664,
+      "dureeMs": null
+    },
+    "cri.tigre": {
+      "fichier": "qc/antoine/consignes/sens/cri.tigre.mp3",
+      "texte": "Rrrrrr ! Qui fait ce bruit ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1a0ac5e5",
+      "statut": "genere",
+      "octets": 30960,
+      "dureeMs": null
+    },
+    "cri.vache": {
+      "fichier": "qc/antoine/consignes/sens/cri.vache.mp3",
+      "texte": "Meuh ! Qui fait ce bruit ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "cb3bbf7d",
+      "statut": "genere",
+      "octets": 20736,
+      "dureeMs": null
+    },
+    "explication.intrus.animaux": {
+      "fichier": "qc/antoine/consignes/intrus/explication.intrus.animaux.mp3",
+      "texte": "Celui-là, ce n'est pas un animal !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a60678fb",
+      "statut": "genere",
+      "octets": 20160,
+      "dureeMs": null
+    },
+    "explication.intrus.jouer": {
+      "fichier": "qc/antoine/consignes/intrus/explication.intrus.jouer.mp3",
+      "texte": "Celui-là, ça ne se joue pas !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c42ea649",
+      "statut": "genere",
+      "octets": 18000,
+      "dureeMs": null
+    },
+    "explication.intrus.maison": {
+      "fichier": "qc/antoine/consignes/intrus/explication.intrus.maison.mp3",
+      "texte": "Celui-là est un animal, les autres sont des objets !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "dab55c73",
+      "statut": "genere",
+      "octets": 26208,
+      "dureeMs": null
+    },
+    "explication.intrus.manger": {
+      "fichier": "qc/antoine/consignes/intrus/explication.intrus.manger.mp3",
+      "texte": "Celui-là, ça ne se mange pas !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5fcc3caf",
+      "statut": "genere",
+      "octets": 18432,
+      "dureeMs": null
+    },
+    "explication.intrus.porter": {
+      "fichier": "qc/antoine/consignes/intrus/explication.intrus.porter.mp3",
+      "texte": "Celui-là, ça ne se porte pas !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ec68076a",
+      "statut": "genere",
+      "octets": 18720,
+      "dureeMs": null
+    },
+    "histoire.chat.raconte": {
+      "fichier": "qc/antoine/consignes/histoire/chat.raconte.mp3",
+      "texte": "Le chat dormait dans son lit. Il se réveille, il mange, et il va jouer avec son ballon !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "37ba68a1",
+      "statut": "genere",
+      "octets": 42912,
+      "dureeMs": null
+    },
+    "histoire.matin.raconte": {
+      "fichier": "qc/antoine/consignes/histoire/matin.raconte.mp3",
+      "texte": "Le matin, le soleil se lève, on prend un bon café, et on prépare le sac pour l'école !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "bd50f005",
+      "statut": "genere",
+      "octets": 38016,
+      "dureeMs": null
+    },
+    "histoire.papillon.raconte": {
+      "fichier": "qc/antoine/consignes/histoire/papillon.raconte.mp3",
+      "texte": "Un petit œuf devient une chenille, et la chenille devient un beau papillon !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8d2c1dd5",
+      "statut": "genere",
+      "octets": 29808,
+      "dureeMs": null
+    },
+    "histoire.plante.raconte": {
+      "fichier": "qc/antoine/consignes/histoire/plante.raconte.mp3",
+      "texte": "On met la graine dans la terre, on l'arrose, le soleil la réchauffe, et une belle fleur pousse !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0b126371",
+      "statut": "genere",
+      "octets": 38304,
+      "dureeMs": null
+    },
+    "histoire.poussin.raconte": {
+      "fichier": "qc/antoine/consignes/histoire/poussin.raconte.mp3",
+      "texte": "Dans l'œuf, il y avait un petit poussin. Il casse la coquille, et il devient une belle poule !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "db175494",
+      "statut": "genere",
+      "octets": 44352,
+      "dureeMs": null
+    },
+    "histoire.soiree.raconte": {
+      "fichier": "qc/antoine/consignes/histoire/soiree.raconte.mp3",
+      "texte": "Le soleil se couche, la lune se lève, les étoiles apparaissent… et on va dormir !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "22eaacde",
+      "statut": "genere",
+      "octets": 36576,
+      "dureeMs": null
+    },
+    "lettre.a.dit": {
+      "fichier": "qc/antoine/consignes/lettre/a.dit.mp3",
+      "texte": "C'est la lettre a.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ebd7c0da",
+      "statut": "genere",
+      "octets": 11520,
+      "dureeMs": null
+    },
+    "lettre.b.dit": {
+      "fichier": "qc/antoine/consignes/lettre/b.dit.mp3",
+      "texte": "C'est la lettre b.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "98364b00",
+      "statut": "genere",
+      "octets": 12672,
+      "dureeMs": null
+    },
+    "lettre.c.dit": {
+      "fichier": "qc/antoine/consignes/lettre/c.dit.mp3",
+      "texte": "C'est la lettre c.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "57fb1280",
+      "statut": "genere",
+      "octets": 12672,
+      "dureeMs": null
+    },
+    "lettre.d.dit": {
+      "fichier": "qc/antoine/consignes/lettre/d.dit.mp3",
+      "texte": "C'est la lettre d.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "01948023",
+      "statut": "genere",
+      "octets": 12672,
+      "dureeMs": null
+    },
+    "lettre.e.dit": {
+      "fichier": "qc/antoine/consignes/lettre/e.dit.mp3",
+      "texte": "C'est la lettre e.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8e67049d",
+      "statut": "genere",
+      "octets": 11808,
+      "dureeMs": null
+    },
+    "lettre.f.dit": {
+      "fichier": "qc/antoine/consignes/lettre/f.dit.mp3",
+      "texte": "C'est la lettre f.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "390f404c",
+      "statut": "genere",
+      "octets": 12672,
+      "dureeMs": null
+    },
+    "lettre.i.dit": {
+      "fichier": "qc/antoine/consignes/lettre/i.dit.mp3",
+      "texte": "C'est la lettre i.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2b515ea7",
+      "statut": "genere",
+      "octets": 11808,
+      "dureeMs": null
+    },
+    "lettre.k.dit": {
+      "fichier": "qc/antoine/consignes/lettre/k.dit.mp3",
+      "texte": "C'est la lettre k.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "14f2fe40",
+      "statut": "genere",
+      "octets": 12816,
+      "dureeMs": null
+    },
+    "lettre.l.dit": {
+      "fichier": "qc/antoine/consignes/lettre/l.dit.mp3",
+      "texte": "C'est la lettre l.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a3052668",
+      "statut": "genere",
+      "octets": 12672,
+      "dureeMs": null
+    },
+    "lettre.m.dit": {
+      "fichier": "qc/antoine/consignes/lettre/m.dit.mp3",
+      "texte": "C'est la lettre m.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d9401e86",
+      "statut": "genere",
+      "octets": 12384,
+      "dureeMs": null
+    },
+    "lettre.n.dit": {
+      "fichier": "qc/antoine/consignes/lettre/n.dit.mp3",
+      "texte": "C'est la lettre n.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e3810c2c",
+      "statut": "genere",
+      "octets": 12672,
+      "dureeMs": null
+    },
+    "lettre.o.dit": {
+      "fichier": "qc/antoine/consignes/lettre/o.dit.mp3",
+      "texte": "C'est la lettre o.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "df3dceeb",
+      "statut": "genere",
+      "octets": 11520,
+      "dureeMs": null
+    },
+    "lettre.p.dit": {
+      "fichier": "qc/antoine/consignes/lettre/p.dit.mp3",
+      "texte": "C'est la lettre p.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7c1f82fa",
+      "statut": "genere",
+      "octets": 12672,
+      "dureeMs": null
+    },
+    "lettre.q.dit": {
+      "fichier": "qc/antoine/consignes/lettre/q.dit.mp3",
+      "texte": "C'est la lettre q.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "17a65150",
+      "statut": "genere",
+      "octets": 12672,
+      "dureeMs": null
+    },
+    "lettre.r.dit": {
+      "fichier": "qc/antoine/consignes/lettre/r.dit.mp3",
+      "texte": "C'est la lettre r.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1222a0c0",
+      "statut": "genere",
+      "octets": 13104,
+      "dureeMs": null
+    },
+    "lettre.s.dit": {
+      "fichier": "qc/antoine/consignes/lettre/s.dit.mp3",
+      "texte": "C'est la lettre s.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "688e3ad1",
+      "statut": "genere",
+      "octets": 12960,
+      "dureeMs": null
+    },
+    "lettre.t.dit": {
+      "fichier": "qc/antoine/consignes/lettre/t.dit.mp3",
+      "texte": "C'est la lettre t.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "40298742",
+      "statut": "genere",
+      "octets": 12672,
+      "dureeMs": null
+    },
+    "lettre.u.dit": {
+      "fichier": "qc/antoine/consignes/lettre/u.dit.mp3",
+      "texte": "C'est la lettre u.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "436bddd1",
+      "statut": "genere",
+      "octets": 11664,
+      "dureeMs": null
+    },
+    "lettre.v.dit": {
+      "fichier": "qc/antoine/consignes/lettre/v.dit.mp3",
+      "texte": "C'est la lettre v.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "cd13724b",
+      "statut": "genere",
+      "octets": 12672,
+      "dureeMs": null
+    },
+    "lettre.w.dit": {
+      "fichier": "qc/antoine/consignes/lettre/w.dit.mp3",
+      "texte": "C'est la lettre w.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "bd422124",
+      "statut": "genere",
+      "octets": 14544,
+      "dureeMs": null
+    },
+    "lettre.x.dit": {
+      "fichier": "qc/antoine/consignes/lettre/x.dit.mp3",
+      "texte": "C'est la lettre x.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1e922fd3",
+      "statut": "genere",
+      "octets": 12816,
+      "dureeMs": null
+    },
+    "lettre.y.dit": {
+      "fichier": "qc/antoine/consignes/lettre/y.dit.mp3",
+      "texte": "C'est la lettre y.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c465c09f",
+      "statut": "genere",
+      "octets": 11808,
+      "dureeMs": null
+    },
+    "lex.abeille": {
+      "fichier": "qc/antoine/lexique/abeille.mp3",
+      "texte": "l'abeille",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0005b1a0",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.acote": {
+      "fichier": "qc/antoine/lexique/acote.mp3",
+      "texte": "à côté",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6783ceed",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.aide": {
+      "fichier": "qc/antoine/lexique/aide.mp3",
+      "texte": "demander de l'aide",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f41743a8",
+      "statut": "genere",
+      "octets": 13104,
+      "dureeMs": null
+    },
+    "lex.ami": {
+      "fichier": "qc/antoine/lexique/ami.mp3",
+      "texte": "ami",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0923085e",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.assiette": {
+      "fichier": "qc/antoine/lexique/assiette.mp3",
+      "texte": "assiette",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f15fab06",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.attendre": {
+      "fichier": "qc/antoine/lexique/attendre.mp3",
+      "texte": "attendre son tour",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6c8c25dd",
+      "statut": "genere",
+      "octets": 13824,
+      "dureeMs": null
+    },
+    "lex.ballon": {
+      "fichier": "qc/antoine/lexique/ballon.mp3",
+      "texte": "ballon",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b549cdca",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.banane": {
+      "fichier": "qc/antoine/lexique/banane.mp3",
+      "texte": "une banane",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f9597f71",
+      "statut": "genere",
+      "octets": 11376,
+      "dureeMs": null
+    },
+    "lex.bas": {
+      "fichier": "qc/antoine/lexique/bas.mp3",
+      "texte": "en bas",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "65e7d0fd",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.bateau": {
+      "fichier": "qc/antoine/lexique/bateau.mp3",
+      "texte": "bateau",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2ca5e345",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.bebe": {
+      "fichier": "qc/antoine/lexique/bebe.mp3",
+      "texte": "bébé",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "36505b1a",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.beurre": {
+      "fichier": "qc/antoine/lexique/beurre.mp3",
+      "texte": "beurre",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c2ef78bb",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.bleu": {
+      "fichier": "qc/antoine/lexique/bleu.mp3",
+      "texte": "bleu",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9869a237",
+      "statut": "genere",
+      "octets": 9072,
+      "dureeMs": null
+    },
+    "lex.bonbon": {
+      "fichier": "qc/antoine/lexique/bonbon.mp3",
+      "texte": "bonbon",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "bc200821",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.bottes": {
+      "fichier": "qc/antoine/lexique/bottes.mp3",
+      "texte": "bottes",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "907b820a",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.bougie": {
+      "fichier": "qc/antoine/lexique/bougie.mp3",
+      "texte": "bougie",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ec06c131",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.bus": {
+      "fichier": "qc/antoine/lexique/bus.mp3",
+      "texte": "bus",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "634ceb3e",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.cadeau": {
+      "fichier": "qc/antoine/lexique/cadeau.mp3",
+      "texte": "cadeau",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "98e79b34",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.cafe": {
+      "fichier": "qc/antoine/lexique/cafe.mp3",
+      "texte": "café",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0613aa6c",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.caillou": {
+      "fichier": "qc/antoine/lexique/caillou.mp3",
+      "texte": "caillou",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e8051b96",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.calin": {
+      "fichier": "qc/antoine/lexique/calin.mp3",
+      "texte": "un câlin",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a65b1e57",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.camion": {
+      "fichier": "qc/antoine/lexique/camion.mp3",
+      "texte": "camion",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "84bc4192",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.casier": {
+      "fichier": "qc/antoine/lexique/casier.mp3",
+      "texte": "la case",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "85194faa",
+      "statut": "genere",
+      "octets": 10800,
+      "dureeMs": null
+    },
+    "lex.casquette": {
+      "fichier": "qc/antoine/lexique/casquette.mp3",
+      "texte": "casquette",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "55eb48e8",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.chapeau": {
+      "fichier": "qc/antoine/lexique/chapeau.mp3",
+      "texte": "chapeau",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "897670d4",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.chat": {
+      "fichier": "qc/antoine/lexique/chat.mp3",
+      "texte": "chat",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d9e0b802",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.chateau": {
+      "fichier": "qc/antoine/lexique/chateau.mp3",
+      "texte": "château",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "acb67aa1",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.chaussette": {
+      "fichier": "qc/antoine/lexique/chaussette.mp3",
+      "texte": "chaussette",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d209457c",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.chemin": {
+      "fichier": "qc/antoine/lexique/chemin.mp3",
+      "texte": "chemin",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "19f89636",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.chenille": {
+      "fichier": "qc/antoine/lexique/chenille.mp3",
+      "texte": "chenille",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1e6ca95c",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.chocolat": {
+      "fichier": "qc/antoine/lexique/chocolat.mp3",
+      "texte": "chocolat",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "00a310a9",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.chou": {
+      "fichier": "qc/antoine/lexique/chou.mp3",
+      "texte": "chou",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a12ccba6",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.cinq": {
+      "fichier": "qc/antoine/lexique/cinq.mp3",
+      "texte": "5",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "41d82d36",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.cochon": {
+      "fichier": "qc/antoine/lexique/cochon.mp3",
+      "texte": "cochon",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "59532354",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.coeur": {
+      "fichier": "qc/antoine/lexique/coeur.mp3",
+      "texte": "cœur",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b70f4810",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.couleur": {
+      "fichier": "qc/antoine/lexique/couleur.mp3",
+      "texte": "couleur",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f60cfba6",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.couteau": {
+      "fichier": "qc/antoine/lexique/couteau.mp3",
+      "texte": "le couteau",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0eff21e3",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.crevette": {
+      "fichier": "qc/antoine/lexique/crevette.mp3",
+      "texte": "crevette",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4e1f44b8",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.dans": {
+      "fichier": "qc/antoine/lexique/dans.mp3",
+      "texte": "dans",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1ed4159f",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.demander": {
+      "fichier": "qc/antoine/lexique/demander.mp3",
+      "texte": "demander gentiment",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "051c7f17",
+      "statut": "genere",
+      "octets": 13392,
+      "dureeMs": null
+    },
+    "lex.derriere": {
+      "fichier": "qc/antoine/lexique/derriere.mp3",
+      "texte": "derrière",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "52a341d5",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.deux": {
+      "fichier": "qc/antoine/lexique/deux.mp3",
+      "texte": "2",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "3ee391ac",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.devant": {
+      "fichier": "qc/antoine/lexique/devant.mp3",
+      "texte": "devant",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6992d29d",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.dix": {
+      "fichier": "qc/antoine/lexique/dix.mp3",
+      "texte": "10",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8da2da9c",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.dormir": {
+      "fichier": "qc/antoine/lexique/dormir.mp3",
+      "texte": "dormir",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "19f0a11b",
+      "statut": "genere",
+      "octets": 11520,
+      "dureeMs": null
+    },
+    "lex.doudou": {
+      "fichier": "qc/antoine/lexique/doudou.mp3",
+      "texte": "doudou",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8b4fe6f0",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.doux": {
+      "fichier": "qc/antoine/lexique/doux.mp3",
+      "texte": "doux",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ad2b7f83",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.droite": {
+      "fichier": "qc/antoine/lexique/droite.mp3",
+      "texte": "à droite",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b0e2d193",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.eau": {
+      "fichier": "qc/antoine/lexique/eau.mp3",
+      "texte": "eau",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "79c0f6ee",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.echarpe": {
+      "fichier": "qc/antoine/lexique/echarpe.mp3",
+      "texte": "écharpe",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "140ef5b4",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.ecouter": {
+      "fichier": "qc/antoine/lexique/ecouter.mp3",
+      "texte": "écouter",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fe39f5fb",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.enfant": {
+      "fichier": "qc/antoine/lexique/enfant.mp3",
+      "texte": "enfant",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "cffeaff8",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.etoile": {
+      "fichier": "qc/antoine/lexique/etoile.mp3",
+      "texte": "étoile",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "705e81ef",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.fleur": {
+      "fichier": "qc/antoine/lexique/fleur.mp3",
+      "texte": "fleur",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1566f50c",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.forme_carre": {
+      "fichier": "qc/antoine/lexique/forme_carre.mp3",
+      "texte": "le carré",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8c0157dc",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.forme_losange": {
+      "fichier": "qc/antoine/lexique/forme_losange.mp3",
+      "texte": "le losange",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "792cb3f7",
+      "statut": "genere",
+      "octets": 11808,
+      "dureeMs": null
+    },
+    "lex.forme_rond": {
+      "fichier": "qc/antoine/lexique/forme_rond.mp3",
+      "texte": "le rond",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1d16ca73",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.forme_triangle": {
+      "fichier": "qc/antoine/lexique/forme_triangle.mp3",
+      "texte": "le triangle",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4ac97a71",
+      "statut": "genere",
+      "octets": 11952,
+      "dureeMs": null
+    },
+    "lex.fort": {
+      "fichier": "qc/antoine/lexique/fort.mp3",
+      "texte": "fort",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0eac01f7",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.fourchette": {
+      "fichier": "qc/antoine/lexique/fourchette.mp3",
+      "texte": "fourchette",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "37821b34",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.fraise": {
+      "fichier": "qc/antoine/lexique/fraise.mp3",
+      "texte": "une fraise",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "92e5c870",
+      "statut": "genere",
+      "octets": 11376,
+      "dureeMs": null
+    },
+    "lex.frotter": {
+      "fichier": "qc/antoine/lexique/frotter.mp3",
+      "texte": "frotter les mains",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d6c52dc9",
+      "statut": "genere",
+      "octets": 11808,
+      "dureeMs": null
+    },
+    "lex.fusee": {
+      "fichier": "qc/antoine/lexique/fusee.mp3",
+      "texte": "fusée",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "299b7e66",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.gateau": {
+      "fichier": "qc/antoine/lexique/gateau.mp3",
+      "texte": "gâteau",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "16fd85ad",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.gauche": {
+      "fichier": "qc/antoine/lexique/gauche.mp3",
+      "texte": "à gauche",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "da28b8bf",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.genou": {
+      "fichier": "qc/antoine/lexique/genou.mp3",
+      "texte": "genou",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6a48aaa2",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.gougounes": {
+      "fichier": "qc/antoine/lexique/gougounes.mp3",
+      "texte": "gougounes",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "40d8e13e",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.graine": {
+      "fichier": "qc/antoine/lexique/graine.mp3",
+      "texte": "graine",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d268514b",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.grelot": {
+      "fichier": "qc/antoine/lexique/grelot.mp3",
+      "texte": "le grelot",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b07a6506",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.grenouille": {
+      "fichier": "qc/antoine/lexique/grenouille.mp3",
+      "texte": "la grenouille",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "877c97c6",
+      "statut": "genere",
+      "octets": 11664,
+      "dureeMs": null
+    },
+    "lex.haut": {
+      "fichier": "qc/antoine/lexique/haut.mp3",
+      "texte": "en haut",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "708c809d",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.hibou": {
+      "fichier": "qc/antoine/lexique/hibou.mp3",
+      "texte": "hibou",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9015bdb5",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.huit": {
+      "fichier": "qc/antoine/lexique/huit.mp3",
+      "texte": "8",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "3df8b91f",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.jaune": {
+      "fichier": "qc/antoine/lexique/jaune.mp3",
+      "texte": "jaune",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6ac6940d",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.lapin": {
+      "fichier": "qc/antoine/lexique/lapin.mp3",
+      "texte": "lapin",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7e49da0a",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.lit": {
+      "fichier": "qc/antoine/lexique/lit.mp3",
+      "texte": "lit",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "804a437f",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.livre": {
+      "fichier": "qc/antoine/lexique/livre.mp3",
+      "texte": "le livre",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "59fc91b6",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.loup": {
+      "fichier": "qc/antoine/lexique/loup.mp3",
+      "texte": "loup",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "315b457c",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.lunch": {
+      "fichier": "qc/antoine/lexique/lunch.mp3",
+      "texte": "lunch",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a463730b",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.lune": {
+      "fichier": "qc/antoine/lexique/lune.mp3",
+      "texte": "lune",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "80b745d9",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.lunettes": {
+      "fichier": "qc/antoine/lexique/lunettes.mp3",
+      "texte": "lunettes de soleil",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "bdbb9bce",
+      "statut": "genere",
+      "octets": 13680,
+      "dureeMs": null
+    },
+    "lex.maillot": {
+      "fichier": "qc/antoine/lexique/maillot.mp3",
+      "texte": "maillot de bain",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "352e15d5",
+      "statut": "genere",
+      "octets": 11808,
+      "dureeMs": null
+    },
+    "lex.maison": {
+      "fichier": "qc/antoine/lexique/maison.mp3",
+      "texte": "maison",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1ca7bc2d",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.manteau": {
+      "fichier": "qc/antoine/lexique/manteau.mp3",
+      "texte": "manteau",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b1a485c6",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.marcher": {
+      "fichier": "qc/antoine/lexique/marcher.mp3",
+      "texte": "marcher",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "37e0b998",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.matin": {
+      "fichier": "qc/antoine/lexique/matin.mp3",
+      "texte": "matin",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d2cc155b",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.mitaines": {
+      "fichier": "qc/antoine/lexique/mitaines.mp3",
+      "texte": "mitaines",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fa05b49f",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.monstre": {
+      "fichier": "qc/antoine/lexique/monstre.mp3",
+      "texte": "le monstre",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "97b0b1b2",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.monstre_dodo": {
+      "fichier": "qc/antoine/lexique/monstre_dodo.mp3",
+      "texte": "le monstre dort",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2ac9dcd6",
+      "statut": "genere",
+      "octets": 13536,
+      "dureeMs": null
+    },
+    "lex.moto": {
+      "fichier": "qc/antoine/lexique/moto.mp3",
+      "texte": "moto",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a0604416",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.mouton": {
+      "fichier": "qc/antoine/lexique/mouton.mp3",
+      "texte": "mouton",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5d824e58",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.neige": {
+      "fichier": "qc/antoine/lexique/neige.mp3",
+      "texte": "neige",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5bacb2bf",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.neuf": {
+      "fichier": "qc/antoine/lexique/neuf.mp3",
+      "texte": "9",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "82ba275a",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.nez": {
+      "fichier": "qc/antoine/lexique/nez.mp3",
+      "texte": "nez",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "00313acb",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.nid": {
+      "fichier": "qc/antoine/lexique/nid.mp3",
+      "texte": "nid",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "33657df8",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.nuage": {
+      "fichier": "qc/antoine/lexique/nuage.mp3",
+      "texte": "nuage",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "22a3b03b",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.oeuf": {
+      "fichier": "qc/antoine/lexique/oeuf.mp3",
+      "texte": "œuf",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "560ea019",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.oiseau": {
+      "fichier": "qc/antoine/lexique/oiseau.mp3",
+      "texte": "oiseau",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4b90d120",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.orange": {
+      "fichier": "qc/antoine/lexique/orange.mp3",
+      "texte": "orange",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "54dc1152",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.ours": {
+      "fichier": "qc/antoine/lexique/ours.mp3",
+      "texte": "l'ours",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "beccdabc",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.panneau_stop": {
+      "fichier": "qc/antoine/lexique/panneau_stop.mp3",
+      "texte": "le panneau stop",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4774713d",
+      "statut": "genere",
+      "octets": 12384,
+      "dureeMs": null
+    },
+    "lex.papa": {
+      "fichier": "qc/antoine/lexique/papa.mp3",
+      "texte": "papa",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "dc26c690",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.papillon": {
+      "fichier": "qc/antoine/lexique/papillon.mp3",
+      "texte": "papillon",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "71dbcb6c",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.parapluie": {
+      "fichier": "qc/antoine/lexique/parapluie.mp3",
+      "texte": "parapluie",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "eb345ab5",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.pied": {
+      "fichier": "qc/antoine/lexique/pied.mp3",
+      "texte": "pied",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "aa358eaf",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.pizza": {
+      "fichier": "qc/antoine/lexique/pizza.mp3",
+      "texte": "pizza",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "44aad474",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.pluie": {
+      "fichier": "qc/antoine/lexique/pluie.mp3",
+      "texte": "la pluie",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "354259dc",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.poisson": {
+      "fichier": "qc/antoine/lexique/poisson.mp3",
+      "texte": "poisson",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9058b206",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.pomme": {
+      "fichier": "qc/antoine/lexique/pomme.mp3",
+      "texte": "pomme",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "69214042",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.pot": {
+      "fichier": "qc/antoine/lexique/pot.mp3",
+      "texte": "pot",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4893f466",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.poule": {
+      "fichier": "qc/antoine/lexique/poule.mp3",
+      "texte": "poule",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "cffca587",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.poupee": {
+      "fichier": "qc/antoine/lexique/poupee.mp3",
+      "texte": "poupée",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7b1f1f8d",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.poussin": {
+      "fichier": "qc/antoine/lexique/poussin.mp3",
+      "texte": "poussin",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "426d1cee",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.quatre": {
+      "fichier": "qc/antoine/lexique/quatre.mp3",
+      "texte": "4",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6997a8d3",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.raisin": {
+      "fichier": "qc/antoine/lexique/raisin.mp3",
+      "texte": "du raisin",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "47e6c5fa",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.rat": {
+      "fichier": "qc/antoine/lexique/rat.mp3",
+      "texte": "rat",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7574e4b1",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.recommencer": {
+      "fichier": "qc/antoine/lexique/recommencer.mp3",
+      "texte": "recommencer",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "500e2df5",
+      "statut": "genere",
+      "octets": 12096,
+      "dureeMs": null
+    },
+    "lex.regarder": {
+      "fichier": "qc/antoine/lexique/regarder.mp3",
+      "texte": "regarder",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "dd72c78e",
+      "statut": "genere",
+      "octets": 11376,
+      "dureeMs": null
+    },
+    "lex.respirer": {
+      "fichier": "qc/antoine/lexique/respirer.mp3",
+      "texte": "respirer",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7a20081c",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.robinet": {
+      "fichier": "qc/antoine/lexique/robinet.mp3",
+      "texte": "le robinet",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a95699f9",
+      "statut": "genere",
+      "octets": 11376,
+      "dureeMs": null
+    },
+    "lex.rouge": {
+      "fichier": "qc/antoine/lexique/rouge.mp3",
+      "texte": "rouge",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "dfbf2eeb",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.sac": {
+      "fichier": "qc/antoine/lexique/sac.mp3",
+      "texte": "sac à dos",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c9e40e30",
+      "statut": "genere",
+      "octets": 11376,
+      "dureeMs": null
+    },
+    "lex.sapin": {
+      "fichier": "qc/antoine/lexique/sapin.mp3",
+      "texte": "sapin",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8badeb79",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.savon": {
+      "fichier": "qc/antoine/lexique/savon.mp3",
+      "texte": "le savon",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "29759039",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.sept": {
+      "fichier": "qc/antoine/lexique/sept.mp3",
+      "texte": "7",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5fd2a29e",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.serpent": {
+      "fichier": "qc/antoine/lexique/serpent.mp3",
+      "texte": "le serpent",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a361f437",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.six": {
+      "fichier": "qc/antoine/lexique/six.mp3",
+      "texte": "6",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0b496c5e",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.soleil": {
+      "fichier": "qc/antoine/lexique/soleil.mp3",
+      "texte": "soleil",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e9aea35c",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.souliers": {
+      "fichier": "qc/antoine/lexique/souliers.mp3",
+      "texte": "souliers",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "73d98aca",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.souris": {
+      "fichier": "qc/antoine/lexique/souris.mp3",
+      "texte": "souris",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "67c1dc2c",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.stop": {
+      "fichier": "qc/antoine/lexique/stop.mp3",
+      "texte": "dire stop",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "47d4cffb",
+      "statut": "genere",
+      "octets": 11664,
+      "dureeMs": null
+    },
+    "lex.tambour": {
+      "fichier": "qc/antoine/lexique/tambour.mp3",
+      "texte": "le tambour",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "490684b0",
+      "statut": "genere",
+      "octets": 11520,
+      "dureeMs": null
+    },
+    "lex.tigre": {
+      "fichier": "qc/antoine/lexique/tigre.mp3",
+      "texte": "le tigre",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6fabd7b0",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.train": {
+      "fichier": "qc/antoine/lexique/train.mp3",
+      "texte": "le train",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "49ba0fd8",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.trois": {
+      "fichier": "qc/antoine/lexique/trois.mp3",
+      "texte": "3",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ee85a696",
+      "statut": "genere",
+      "octets": 9072,
+      "dureeMs": null
+    },
+    "lex.un": {
+      "fichier": "qc/antoine/lexique/un.mp3",
+      "texte": "1",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5f9aaf0a",
+      "statut": "genere",
+      "octets": 8208,
+      "dureeMs": null
+    },
+    "lex.vache": {
+      "fichier": "qc/antoine/lexique/vache.mp3",
+      "texte": "la vache",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fea57441",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.velo": {
+      "fichier": "qc/antoine/lexique/velo.mp3",
+      "texte": "vélo",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "51aff9e6",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.vent": {
+      "fichier": "qc/antoine/lexique/vent.mp3",
+      "texte": "le vent",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "18a2a6f5",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.verre": {
+      "fichier": "qc/antoine/lexique/verre.mp3",
+      "texte": "verre",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "29df98d3",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.vert": {
+      "fichier": "qc/antoine/lexique/vert.mp3",
+      "texte": "vert",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "966e3b0b",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.violet": {
+      "fichier": "qc/antoine/lexique/violet.mp3",
+      "texte": "violet",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "29e37c5b",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.visage_colere": {
+      "fichier": "qc/antoine/lexique/visage_colere.mp3",
+      "texte": "fâché",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "074cd141",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.visage_content": {
+      "fichier": "qc/antoine/lexique/visage_content.mp3",
+      "texte": "content",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fd527258",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.visage_peur": {
+      "fichier": "qc/antoine/lexique/visage_peur.mp3",
+      "texte": "peur",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f2185cda",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "lex.visage_triste": {
+      "fichier": "qc/antoine/lexique/visage_triste.mp3",
+      "texte": "triste",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "83e6233a",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "mains.comptine": {
+      "fichier": "qc/antoine/consignes/mains/comptine.mp3",
+      "texte": "On mouille les mains, on savonne, on frotte partout pendant vingt secondes, puis on rince. Ensuite, on ferme le robinet et on sèche les mains avec une serviette propre. Bravo !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fc88eb74",
+      "statut": "genere",
+      "octets": 78336,
+      "dureeMs": null
+    },
+    "milo.1.debut": {
+      "fichier": "qc/antoine/consignes/milo/1.debut.mp3",
+      "texte": "Milo joue avec son ballon. Le ballon s'envole dans le ciel et disparaît !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8246681f",
+      "statut": "genere",
+      "octets": 37008,
+      "dureeMs": null
+    },
+    "milo.10.debut": {
+      "fichier": "qc/antoine/consignes/milo/10.debut.mp3",
+      "texte": "L’ami de Milo doit rentrer à la maison. Milo est triste de lui dire au revoir.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0ffc7ed7",
+      "statut": "genere",
+      "octets": 42336,
+      "dureeMs": null
+    },
+    "milo.2.debut": {
+      "fichier": "qc/antoine/consignes/milo/2.debut.mp3",
+      "texte": "Milo veut un biscuit, mais la boîte est vide. Il n'y a plus rien !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5d86e6e0",
+      "statut": "genere",
+      "octets": 35856,
+      "dureeMs": null
+    },
+    "milo.3.debut": {
+      "fichier": "qc/antoine/consignes/milo/3.debut.mp3",
+      "texte": "Il fait tout noir. Milo entend un grand bruit : BOUUM !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2ebe3ca9",
+      "statut": "genere",
+      "octets": 34272,
+      "dureeMs": null
+    },
+    "milo.4.debut": {
+      "fichier": "qc/antoine/consignes/milo/4.debut.mp3",
+      "texte": "Milo fait un casse-tête. Le morceau ne rentre pas, et il tombe par terre.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "32fea1ba",
+      "statut": "genere",
+      "octets": 39744,
+      "dureeMs": null
+    },
+    "milo.5.debut": {
+      "fichier": "qc/antoine/consignes/milo/5.debut.mp3",
+      "texte": "Milo retrouve son ami au parc. Il sourit et se sent content.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2e9138a5",
+      "statut": "genere",
+      "octets": 36432,
+      "dureeMs": null
+    },
+    "milo.6.debut": {
+      "fichier": "qc/antoine/consignes/milo/6.debut.mp3",
+      "texte": "Milo a fini sa tour de blocs. Il est content de ce qu’il a construit.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "12d056aa",
+      "statut": "genere",
+      "octets": 35424,
+      "dureeMs": null
+    },
+    "milo.7.debut": {
+      "fichier": "qc/antoine/consignes/milo/7.debut.mp3",
+      "texte": "La tour de Milo tombe. Il est déçu et se sent triste.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "3503e10d",
+      "statut": "genere",
+      "octets": 32832,
+      "dureeMs": null
+    },
+    "milo.8.debut": {
+      "fichier": "qc/antoine/consignes/milo/8.debut.mp3",
+      "texte": "Milo entend le tonnerre. Il a peur et veut rester près de son papa.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "355e8ee5",
+      "statut": "genere",
+      "octets": 36000,
+      "dureeMs": null
+    },
+    "milo.9.debut": {
+      "fichier": "qc/antoine/consignes/milo/9.debut.mp3",
+      "texte": "Milo essaie de fermer son manteau. Ça bloque et il commence à se fâcher.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8e8ad8f1",
+      "statut": "genere",
+      "octets": 38160,
+      "dureeMs": null
+    },
+    "mot.dort": {
+      "fichier": "qc/antoine/consignes/phrase/mot.dort.mp3",
+      "texte": "dort",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f62986dc",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "mot.joue": {
+      "fichier": "qc/antoine/consignes/phrase/mot.joue.mp3",
+      "texte": "joue",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0e777767",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "mot.mange": {
+      "fichier": "qc/antoine/consignes/phrase/mot.mange.mp3",
+      "texte": "mange",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "30193832",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "mots.1.debut": {
+      "fichier": "qc/antoine/consignes/mots/1.debut.mp3",
+      "texte": "Milo veut jouer avec le ballon de son ami. Son ami le tient dans ses bras.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e3433601",
+      "statut": "genere",
+      "octets": 37728,
+      "dureeMs": null
+    },
+    "mots.2.debut": {
+      "fichier": "qc/antoine/consignes/mots/2.debut.mp3",
+      "texte": "Un ami bouscule Milo sans faire exprès. Ça ne fait pas mal, mais Milo n'aime pas ça.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "895f5e87",
+      "statut": "genere",
+      "octets": 42192,
+      "dureeMs": null
+    },
+    "mots.3.debut": {
+      "fichier": "qc/antoine/consignes/mots/3.debut.mp3",
+      "texte": "Milo attend son tour à la glissoire. Un ami passe devant lui.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a979b43c",
+      "statut": "genere",
+      "octets": 34416,
+      "dureeMs": null
+    },
+    "mots.4.debut": {
+      "fichier": "qc/antoine/consignes/mots/4.debut.mp3",
+      "texte": "Milo n’arrive pas à fermer son manteau. Il voudrait que son papa l’aide.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "cdc0a2f8",
+      "statut": "genere",
+      "octets": 36144,
+      "dureeMs": null
+    },
+    "mots.5.debut": {
+      "fichier": "qc/antoine/consignes/mots/5.debut.mp3",
+      "texte": "Un ami veut faire un câlin à Milo. Milo ne veut pas de câlin maintenant.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ec8fdec7",
+      "statut": "genere",
+      "octets": 36864,
+      "dureeMs": null
+    },
+    "mots.6.debut": {
+      "fichier": "qc/antoine/consignes/mots/6.debut.mp3",
+      "texte": "Son ami joue encore sur la balançoire. Milo est d’accord pour jouer après lui.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f4297761",
+      "statut": "genere",
+      "octets": 40320,
+      "dureeMs": null
+    },
+    "mots.7.debut": {
+      "fichier": "qc/antoine/consignes/mots/7.debut.mp3",
+      "texte": "Milo voudrait le crayon bleu. Il appartient à son amie, qui a fini de dessiner.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2fae81be",
+      "statut": "genere",
+      "octets": 39744,
+      "dureeMs": null
+    },
+    "mots.8.debut": {
+      "fichier": "qc/antoine/consignes/mots/8.debut.mp3",
+      "texte": "Un ami chatouille Milo. Milo ne trouve plus ça amusant et veut que ça s’arrête.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "45764cb6",
+      "statut": "genere",
+      "octets": 39168,
+      "dureeMs": null
+    },
+    "mots.9.debut": {
+      "fichier": "qc/antoine/consignes/mots/9.debut.mp3",
+      "texte": "Milo ne comprend pas son casse-tête. Il voudrait qu’un adulte lui montre comment commencer.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a8c0d6d6",
+      "statut": "genere",
+      "octets": 42048,
+      "dureeMs": null
+    },
+    "ordres.1.dit": {
+      "fichier": "qc/antoine/consignes/ordres/1.dit.mp3",
+      "texte": "Prends le ballon, et va le porter jusqu'à la maison !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fe2258c7",
+      "statut": "genere",
+      "octets": 22320,
+      "dureeMs": null
+    },
+    "ordres.1.fin": {
+      "fichier": "qc/antoine/consignes/ordres/1.fin.mp3",
+      "texte": "Le ballon est arrivé à la maison !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d1cc21db",
+      "statut": "genere",
+      "octets": 18000,
+      "dureeMs": null
+    },
+    "ordres.2.dit": {
+      "fichier": "qc/antoine/consignes/ordres/2.dit.mp3",
+      "texte": "Le chat a faim. Prends le chat, puis donne-lui son assiette !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "0e1ba9dd",
+      "statut": "genere",
+      "octets": 31248,
+      "dureeMs": null
+    },
+    "ordres.2.fin": {
+      "fichier": "qc/antoine/consignes/ordres/2.fin.mp3",
+      "texte": "Le chat mange dans son assiette. Miam !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a33bb338",
+      "statut": "genere",
+      "octets": 25632,
+      "dureeMs": null
+    },
+    "ordres.3.dit": {
+      "fichier": "qc/antoine/consignes/ordres/3.dit.mp3",
+      "texte": "Prends le ballon, mets-le dans le sac, puis prends ton toutou !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "64d48561",
+      "statut": "genere",
+      "octets": 26496,
+      "dureeMs": null
+    },
+    "ordres.3.fin": {
+      "fichier": "qc/antoine/consignes/ordres/3.fin.mp3",
+      "texte": "Tu as tout pris : le ballon dans le sac, et le toutou !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f7b0636f",
+      "statut": "genere",
+      "octets": 25488,
+      "dureeMs": null
+    },
+    "ordres.4.dit": {
+      "fichier": "qc/antoine/consignes/ordres/4.dit.mp3",
+      "texte": "Prends la fleur, donne-lui de l'eau, puis mets-la au soleil !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "654a220a",
+      "statut": "genere",
+      "octets": 27504,
+      "dureeMs": null
+    },
+    "ordres.4.fin": {
+      "fichier": "qc/antoine/consignes/ordres/4.fin.mp3",
+      "texte": "La fleur a de l'eau et du soleil. Elle est contente !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "ff4a1f61",
+      "statut": "genere",
+      "octets": 30672,
+      "dureeMs": null
+    },
+    "phrase.chat.dite": {
+      "fichier": "qc/antoine/consignes/phrase/chat.dite.mp3",
+      "texte": "Le chat mange la pomme !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "11fdbfe7",
+      "statut": "genere",
+      "octets": 13680,
+      "dureeMs": null
+    },
+    "phrase.lapin.dite": {
+      "fichier": "qc/antoine/consignes/phrase/lapin.dite.mp3",
+      "texte": "Le lapin dort dans son lit !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "94361670",
+      "statut": "genere",
+      "octets": 15984,
+      "dureeMs": null
+    },
+    "phrase.poussin.dite": {
+      "fichier": "qc/antoine/consignes/phrase/poussin.dite.mp3",
+      "texte": "Le poussin dort dans son nid !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4dbdcdd2",
+      "statut": "genere",
+      "octets": 15840,
+      "dureeMs": null
+    },
+    "phrase.souris.dite": {
+      "fichier": "qc/antoine/consignes/phrase/souris.dite.mp3",
+      "texte": "La souris joue avec le doudou !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "65b413ea",
+      "statut": "genere",
+      "octets": 16416,
+      "dureeMs": null
+    },
+    "phrase.vache.dite": {
+      "fichier": "qc/antoine/consignes/phrase/vache.dite.mp3",
+      "texte": "La vache mange le chou !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b62083a7",
+      "statut": "genere",
+      "octets": 14400,
+      "dureeMs": null
+    },
+    "reaction.abeille": {
+      "fichier": "qc/antoine/consignes/bouche/reaction.abeille.mp3",
+      "texte": "L'abeille butine : zzzzz !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "cce8e127",
+      "statut": "genere",
+      "octets": 23760,
+      "dureeMs": null
+    },
+    "reaction.loup": {
+      "fichier": "qc/antoine/consignes/bouche/reaction.loup.mp3",
+      "texte": "Le loup répond : ouuuu !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "06048ecb",
+      "statut": "genere",
+      "octets": 18720,
+      "dureeMs": null
+    },
+    "reaction.serpent": {
+      "fichier": "qc/antoine/consignes/bouche/reaction.serpent.mp3",
+      "texte": "Le serpent aime ça ! Regarde-le danser.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c1bcaac9",
+      "statut": "genere",
+      "octets": 27216,
+      "dureeMs": null
+    },
+    "reaction.tigre": {
+      "fichier": "qc/antoine/consignes/bouche/reaction.tigre.mp3",
+      "texte": "Le tigre grogne : rrrrr !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a64c18ef",
+      "statut": "genere",
+      "octets": 25344,
+      "dureeMs": null
+    },
+    "reaction.train": {
+      "fichier": "qc/antoine/consignes/bouche/reaction.train.mp3",
+      "texte": "Le train roule : chhhhh !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d2c2dfe2",
+      "statut": "genere",
+      "octets": 22752,
+      "dureeMs": null
+    },
+    "reaction.vache": {
+      "fichier": "qc/antoine/consignes/bouche/reaction.vache.mp3",
+      "texte": "La vache meugle : mmmmm !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fe8539f2",
+      "statut": "genere",
+      "octets": 21312,
+      "dureeMs": null
+    },
+    "recette.fin": {
+      "fichier": "qc/antoine/consignes/recette/fin.mp3",
+      "texte": "La pomme est lavée et l’adulte l’a coupée. Les morceaux sont prêts dans l’assiette. Miam !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e989b518",
+      "statut": "genere",
+      "octets": 47664,
+      "dureeMs": null
+    },
+    "recette.fin_securite": {
+      "fichier": "qc/antoine/consignes/recette/fin_securite.mp3",
+      "texte": "Le fruit est lavé, l’adulte l’a préparé et les morceaux sont dans l’assiette. Bon appétit !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6c0c7159",
+      "statut": "genere",
+      "octets": 43632,
+      "dureeMs": null
+    },
+    "retour.bravo.1": {
+      "fichier": "qc/antoine/retours/bravo.1.mp3",
+      "texte": "Bravo !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "+5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "d045b597",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "retour.bravo.2": {
+      "fichier": "qc/antoine/retours/bravo.2.mp3",
+      "texte": "Super !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "+5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "4af4318e",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "retour.bravo.3": {
+      "fichier": "qc/antoine/retours/bravo.3.mp3",
+      "texte": "Oui, c'est ça !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "+5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "8452baf5",
+      "statut": "genere",
+      "octets": 12240,
+      "dureeMs": null
+    },
+    "retour.bravo.4": {
+      "fichier": "qc/antoine/retours/bravo.4.mp3",
+      "texte": "Excellent !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "+5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "5dc547a8",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "retour.bravo.5": {
+      "fichier": "qc/antoine/retours/bravo.5.mp3",
+      "texte": "Wow, bien joué !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "+5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "a27e4875",
+      "statut": "genere",
+      "octets": 13248,
+      "dureeMs": null
+    },
+    "retour.encore.1": {
+      "fichier": "qc/antoine/retours/encore.1.mp3",
+      "texte": "Presque ! On écoute encore.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "2314f81a",
+      "statut": "genere",
+      "octets": 21024,
+      "dureeMs": null
+    },
+    "retour.encore.2": {
+      "fichier": "qc/antoine/retours/encore.2.mp3",
+      "texte": "Hmm, essaie encore.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "7b664e00",
+      "statut": "genere",
+      "octets": 15120,
+      "dureeMs": null
+    },
+    "retour.encore.3": {
+      "fichier": "qc/antoine/retours/encore.3.mp3",
+      "texte": "Pas tout à fait. Je te le redis.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "3723aa3d",
+      "statut": "genere",
+      "octets": 21744,
+      "dureeMs": null
+    },
+    "retour.fin.1": {
+      "fichier": "qc/antoine/retours/fin.1.mp3",
+      "texte": "On a bien joué ! À tantôt !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "f71d8e5a",
+      "statut": "genere",
+      "octets": 21600,
+      "dureeMs": null
+    },
+    "retour.fin.2": {
+      "fichier": "qc/antoine/retours/fin.2.mp3",
+      "texte": "C'était super. À la prochaine !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "9dcbaf29",
+      "statut": "genere",
+      "octets": 22752,
+      "dureeMs": null
+    },
+    "saut.1": {
+      "fichier": "qc/antoine/consignes/grenouille/saut.1.mp3",
+      "texte": "Elle saute de un !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "f5e16852",
+      "statut": "genere",
+      "octets": 13104,
+      "dureeMs": null
+    },
+    "saut.2": {
+      "fichier": "qc/antoine/consignes/grenouille/saut.2.mp3",
+      "texte": "Elle saute de deux !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "82f5b3e4",
+      "statut": "genere",
+      "octets": 12960,
+      "dureeMs": null
+    },
+    "saut.3": {
+      "fichier": "qc/antoine/consignes/grenouille/saut.3.mp3",
+      "texte": "Elle saute de trois !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fe255cc0",
+      "statut": "genere",
+      "octets": 12816,
+      "dureeMs": null
+    },
+    "son.ch": {
+      "fichier": "qc/antoine/consignes/bouche/son.ch.mp3",
+      "texte": "Chhhhh…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8378bb08",
+      "statut": "genere",
+      "octets": 16416,
+      "dureeMs": null
+    },
+    "son.lettre.b": {
+      "fichier": "qc/antoine/consignes/motcache/son.lettre.b.mp3",
+      "texte": "Bbbb…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e9e4a2a8",
+      "statut": "genere",
+      "octets": 12528,
+      "dureeMs": null
+    },
+    "son.lettre.ch": {
+      "fichier": "qc/antoine/consignes/motcache/son.lettre.ch.mp3",
+      "texte": "Chhhh…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "aecd0f63",
+      "statut": "genere",
+      "octets": 14832,
+      "dureeMs": null
+    },
+    "son.lettre.l": {
+      "fichier": "qc/antoine/consignes/motcache/son.lettre.l.mp3",
+      "texte": "Llll…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1a6c36d5",
+      "statut": "genere",
+      "octets": 13104,
+      "dureeMs": null
+    },
+    "son.lettre.m": {
+      "fichier": "qc/antoine/consignes/motcache/son.lettre.m.mp3",
+      "texte": "Mmmm…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "cff9fafa",
+      "statut": "genere",
+      "octets": 13104,
+      "dureeMs": null
+    },
+    "son.lettre.p": {
+      "fichier": "qc/antoine/consignes/motcache/son.lettre.p.mp3",
+      "texte": "Pppp…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1b309d65",
+      "statut": "genere",
+      "octets": 12240,
+      "dureeMs": null
+    },
+    "son.lettre.s": {
+      "fichier": "qc/antoine/consignes/motcache/son.lettre.s.mp3",
+      "texte": "Ssss…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a58d4acf",
+      "statut": "genere",
+      "octets": 14688,
+      "dureeMs": null
+    },
+    "son.mmm": {
+      "fichier": "qc/antoine/consignes/bouche/son.mmm.mp3",
+      "texte": "Mmmmm…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "e4836a77",
+      "statut": "genere",
+      "octets": 14400,
+      "dureeMs": null
+    },
+    "son.ou": {
+      "fichier": "qc/antoine/consignes/bouche/son.ou.mp3",
+      "texte": "Ouuuu…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "3bb125b3",
+      "statut": "genere",
+      "octets": 11808,
+      "dureeMs": null
+    },
+    "son.rrr": {
+      "fichier": "qc/antoine/consignes/bouche/son.rrr.mp3",
+      "texte": "Rrrrrr…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8bf34f0b",
+      "statut": "genere",
+      "octets": 19584,
+      "dureeMs": null
+    },
+    "son.sss": {
+      "fichier": "qc/antoine/consignes/bouche/son.sss.mp3",
+      "texte": "Sssssss…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "828a339a",
+      "statut": "genere",
+      "octets": 19296,
+      "dureeMs": null
+    },
+    "son.zzz": {
+      "fichier": "qc/antoine/consignes/bouche/son.zzz.mp3",
+      "texte": "Zzzzzz…",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8e43064b",
+      "statut": "genere",
+      "octets": 18576,
+      "dureeMs": null
+    },
+    "syll.avion.1": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.avion.1.mp3",
+      "texte": "a",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "adc64c7d",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.avion.2": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.avion.2.mp3",
+      "texte": "vion",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "d6144219",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.ballon.1": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.ballon.1.mp3",
+      "texte": "bal",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "4d315db7",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.ballon.2": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.ballon.2.mp3",
+      "texte": "lon",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "519a9e7c",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.banane.1": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.banane.1.mp3",
+      "texte": "ba",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b62229c7",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.banane.2": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.banane.2.mp3",
+      "texte": "na",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "c9709e8b",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.banane.3": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.banane.3.mp3",
+      "texte": "ne",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "abeb9f11",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.bateau.1": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.bateau.1.mp3",
+      "texte": "ba",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b62229c7",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.bateau.2": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.bateau.2.mp3",
+      "texte": "teau",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b85033b6",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.bonbon.1": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.bonbon.1.mp3",
+      "texte": "bon",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2b2152ca",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.bonbon.2": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.bonbon.2.mp3",
+      "texte": "bon",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2b2152ca",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.chapeau.1": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.chapeau.1.mp3",
+      "texte": "cha",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "30b32936",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.chapeau.2": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.chapeau.2.mp3",
+      "texte": "peau",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9565d303",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.chocolat.1": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.chocolat.1.mp3",
+      "texte": "cho",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "51bbaa22",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.chocolat.2": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.chocolat.2.mp3",
+      "texte": "co",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "556a07ed",
+      "statut": "genere",
+      "octets": 8352,
+      "dureeMs": null
+    },
+    "syll.chocolat.3": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.chocolat.3.mp3",
+      "texte": "lat",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "a9321829",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.doudou.1": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.doudou.1.mp3",
+      "texte": "dou",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "50a19f8d",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.doudou.2": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.doudou.2.mp3",
+      "texte": "dou",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "50a19f8d",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.gateau.1": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.gateau.1.mp3",
+      "texte": "ga",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "71c87627",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.gateau.2": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.gateau.2.mp3",
+      "texte": "teau",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b85033b6",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.lapin.1": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.lapin.1.mp3",
+      "texte": "la",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "1f33fe33",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.lapin.2": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.lapin.2.mp3",
+      "texte": "pin",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2e1863ee",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.mouton.1": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.mouton.1.mp3",
+      "texte": "mou",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5894d776",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.mouton.2": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.mouton.2.mp3",
+      "texte": "ton",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "86b340e0",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.pantalon.1": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.pantalon.1.mp3",
+      "texte": "pan",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "cdaef3ff",
+      "statut": "genere",
+      "octets": 11520,
+      "dureeMs": null
+    },
+    "syll.pantalon.2": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.pantalon.2.mp3",
+      "texte": "ta",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "69e08afa",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.pantalon.3": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.pantalon.3.mp3",
+      "texte": "lon",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "519a9e7c",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.pizza.1": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.pizza.1.mp3",
+      "texte": "piz",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "460dd14f",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.pizza.2": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.pizza.2.mp3",
+      "texte": "za",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "47422cdd",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.poisson.1": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.poisson.1.mp3",
+      "texte": "pois",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b7b2c362",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syll.poisson.2": {
+      "fichier": "qc/antoine/consignes/syllabes/syll.poisson.2.mp3",
+      "texte": "son",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2484cf0a",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.avion": {
+      "fichier": "qc/antoine/consignes/syllabes/syllmot.avion.mp3",
+      "texte": "avion",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "900c67d8",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.ballon": {
+      "fichier": "qc/antoine/consignes/syllabes/syllmot.ballon.mp3",
+      "texte": "ballon",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "b549cdca",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.banane": {
+      "fichier": "qc/antoine/consignes/syllabes/syllmot.banane.mp3",
+      "texte": "banane",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "6c90178d",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.bateau": {
+      "fichier": "qc/antoine/consignes/syllabes/syllmot.bateau.mp3",
+      "texte": "bateau",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "2ca5e345",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.bonbon": {
+      "fichier": "qc/antoine/consignes/syllabes/syllmot.bonbon.mp3",
+      "texte": "bonbon",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "bc200821",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.chapeau": {
+      "fichier": "qc/antoine/consignes/syllabes/syllmot.chapeau.mp3",
+      "texte": "chapeau",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "897670d4",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.chocolat": {
+      "fichier": "qc/antoine/consignes/syllabes/syllmot.chocolat.mp3",
+      "texte": "chocolat",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "00a310a9",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.doudou": {
+      "fichier": "qc/antoine/consignes/syllabes/syllmot.doudou.mp3",
+      "texte": "doudou",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "8b4fe6f0",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.gateau": {
+      "fichier": "qc/antoine/consignes/syllabes/syllmot.gateau.mp3",
+      "texte": "gâteau",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "16fd85ad",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.lapin": {
+      "fichier": "qc/antoine/consignes/syllabes/syllmot.lapin.mp3",
+      "texte": "lapin",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "7e49da0a",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.mouton": {
+      "fichier": "qc/antoine/consignes/syllabes/syllmot.mouton.mp3",
+      "texte": "mouton",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "5d824e58",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.pantalon": {
+      "fichier": "qc/antoine/consignes/syllabes/syllmot.pantalon.mp3",
+      "texte": "pantalon",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "13e5083b",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.pizza": {
+      "fichier": "qc/antoine/consignes/syllabes/syllmot.pizza.mp3",
+      "texte": "pizza",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "44aad474",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "syllmot.poisson": {
+      "fichier": "qc/antoine/consignes/syllabes/syllmot.poisson.mp3",
+      "texte": "poisson",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "9058b206",
+      "statut": "genere",
+      "octets": 11232,
+      "dureeMs": null
+    },
+    "theatre.bravo": {
+      "fichier": "qc/antoine/consignes/theatre/bravo.mp3",
+      "texte": "Quelle belle scène ! On la rejoue ?",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "fa6404b8",
+      "statut": "genere",
+      "octets": 22464,
+      "dureeMs": null
+    },
+    "trace.bravo": {
+      "fichier": "qc/antoine/retours/bravo.mp3",
+      "texte": "Bravo ! Tu as suivi tout le chemin !",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "+5%",
+        "pitch": "+0%"
+      },
+      "style": "cheerful",
+      "empreinte": "641d506f",
+      "statut": "genere",
+      "octets": 21456,
+      "dureeMs": null
+    },
+    "traverser.rappel": {
+      "fichier": "qc/antoine/consignes/traverser/rappel.mp3",
+      "texte": "Bravo ! Et rappelle-toi : dans la vraie rue, on traverse toujours avec un adulte, la main dans la main.",
+      "voix": "fr-CA-AntoineNeural",
+      "prosodie": {
+        "rate": "-10%",
+        "pitch": "+0%"
+      },
+      "style": "",
+      "empreinte": "076242ac",
+      "statut": "genere",
+      "octets": 46224,
+      "dureeMs": null
+    }
+  }
+}
