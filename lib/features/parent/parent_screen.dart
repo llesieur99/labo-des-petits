@@ -187,16 +187,18 @@ class _ParentScreenState extends State<ParentScreen> {
             titre: 'Le micro',
             enfants: [
               const Text(
-                'Certains jeux invitent l\'enfant à s\'enregistrer pour se '
-                'réécouter (« La bouche à sons »). L\'enregistrement reste sur '
-                'l\'appareil, s\'efface aussitôt, et rien n\'est jamais envoyé. '
-                'Aucune reconnaissance vocale.',
+                'Le microphone est facultatif. Certains jeux permettent de '
+                's’enregistrer pour se réécouter (« La bouche à sons »). '
+                'L’enregistrement reste sur l’appareil puis est effacé. '
+                'Aucune reconnaissance vocale ni transmission. Tous les jeux '
+                'restent utilisables sans micro. En continuant, vous accédez '
+                'à la demande de permission du système.',
                 style: TextStyle(fontSize: 15, color: Palette.encreDouce),
               ),
               const SizedBox(height: 10),
               if (!reglages.microAutorise)
                 CibleTactile(
-                  semantique: 'Autoriser le micro',
+                  semantique: 'Continuer',
                   onTap: _autoriserMicro,
                   child: Container(
                     padding: const EdgeInsets.symmetric(
@@ -208,7 +210,7 @@ class _ParentScreenState extends State<ParentScreen> {
                       borderRadius: BorderRadius.circular(20),
                     ),
                     child: const Text(
-                      'Autoriser le micro',
+                      'Continuer',
                       style: TextStyle(
                         fontSize: 19,
                         fontWeight: FontWeight.w700,
@@ -234,8 +236,9 @@ class _ParentScreenState extends State<ParentScreen> {
                 const Padding(
                   padding: EdgeInsets.only(top: 8),
                   child: Text(
-                    'Le téléphone a refusé. Autorise le micro dans Réglages > '
-                    'Confidentialité et sécurité > Microphone, puis reviens ici.',
+                    'L’accès au microphone n’est pas accordé. Vous pouvez '
+                    'continuer à jouer sans micro. Ce choix peut être modifié '
+                    'dans les réglages de confidentialité du téléphone.',
                     style: TextStyle(fontSize: 15, color: Color(0xFFB3543C)),
                   ),
                 ),

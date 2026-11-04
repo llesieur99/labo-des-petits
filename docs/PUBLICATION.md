@@ -53,3 +53,16 @@ CAPTURES_STORE=1 flutter test test/navigation/ecrans_adaptatifs_test.dart
 
 Les visuels de docs/publication/presentation/ utilisent des données fictives.
 Régénérer et relire les captures à chaque changement visible de l’application.
+
+## Parcours du microphone — build 11
+
+Le bouton préalable à la permission porte le libellé neutre « Continuer »,
+y compris pour les technologies d’assistance. Le texte précise que le micro
+est facultatif et que les jeux restent utilisables sans lui. Après un refus,
+le message reste neutre et aucune demande n’est relancée automatiquement.
+Le réglage local n’est activé qu’après une permission système accordée.
+
+Les tests parentaux couvrent acceptation et refus, absence de demande à
+l’ouverture, absence d’activation avant le résultat système, écran iPhone
+et petit écran avec texte agrandi. Pour produire les captures de contrôle
+privées : CAPTURES_MICRO=1 flutter test test/parent/permission_micro_test.dart.

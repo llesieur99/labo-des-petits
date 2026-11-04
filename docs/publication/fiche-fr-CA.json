@@ -1,7 +1,7 @@
 {
   "name": "Labo des Petits",
   "version": "1.3.0",
-  "build": 10,
+  "build": 11,
   "bundle_id": "ca.lesieur.jeuxEnfants",
   "locale": "fr-CA",
   "title": "Labo des Petits",
