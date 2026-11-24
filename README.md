@@ -68,3 +68,7 @@ et [WORKFLOW-GITHUB.md](WORKFLOW-GITHUB.md).
 Le code est consultable publiquement. Aucune licence générale de réutilisation
 n’est accordée dans ce dépôt. Les illustrations et les polices conservent leurs
 licences respectives, détaillées dans [CREDITS.md](CREDITS.md).
+
+## Reprise documentaire
+
+[État et limites de vérification au 24 novembre 2026](docs/ETAT-REPRISE-2026-11-24.md).
